@@ -1,6 +1,6 @@
 # Multilingual AI CBP and ACBP Translation Suite
 
-A powerful automated solution for translating complex JSON documents into multiple Indian languages using the **MeitY Bhashini API**. This project includes a high-performance translation engine and a sleek, side-by-side translation viewer.
+A powerful automated solution for translating complex JSON documents into multiple Indian languages using the **MeitY Bhashini API**. This project includes a high-performance translation engine.
 
 ## 🚀 Features
 
