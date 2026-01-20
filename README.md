@@ -45,8 +45,13 @@ A standalone, high-performance HTML/JS application:
 Create a `.env` file in the root directory (or update existing) with your Bhashini credentials:
 
 ```env
+
+# Bhashini API Credentials
 BHASHINI_USER_ID=your_user_id_here
 BHASHINI_API_KEY=your_api_key_here
+
+# Gemini API Credentials
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
 ### Usage
