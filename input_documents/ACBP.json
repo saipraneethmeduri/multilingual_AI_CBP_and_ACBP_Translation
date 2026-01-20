@@ -1,0 +1,1788 @@
+[
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "e48749cb-ed34-464b-be18-cc793acea337",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Secretary (Education)",
+        "status": "COMPLETED",
+        "wing_division_section": "Secretariat, Education Department",
+        "role_responsibilities": [
+            "Serve as the administrative head of the Education Department for the Union Territory of Dadra and Nagar Haveli and Daman and Diu.",
+            "Spearhead the formulation, strategic planning, and oversight of all educational policies and programs in alignment with the National Education Policy (NEP) 2020.",
+            "Ensure effective implementation and monitoring of centrally sponsored schemes like Samagra Shiksha, PM POSHAN, and PM SHRI schools.",
+            "Oversee the directorate's budget formulation, allocation, and financial management, ensuring adherence to GFR and other financial regulations.",
+            "Act as the primary liaison between the UT administration, the Ministry of Education (GoI), and other national bodies like NCERT and UGC.",
+            "Drive initiatives for improving educational infrastructure, teacher quality, and learning outcomes across all levels of schooling.",
+            "Coordination with State Governments for scheme implementation, policy feedback, and capacity building, particularly with neighboring states like Gujarat and Maharashtra for inter-state educational matters.",
+            "Chair high-level review meetings to assess the progress of educational initiatives and provide strategic direction."
+        ],
+        "activities": [
+            "Approving policy documents and cabinet notes.",
+            "Conducting review meetings with the Director of Education and other senior officials.",
+            "Representing the UT in national-level meetings and conferences on education.",
+            "Finalizing the Annual Capacity Building Plan (ACBP) for the department.",
+            "Overseeing large-scale procurement and infrastructure projects.",
+            "Addressing high-level public grievances and parliamentary matters."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy design/ amendment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Cabinet note preparation",
+                "sub_theme": "Rules of business (AoB/ToB)"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Policy Formulation",
+                "sub_theme": "Adapting National Education Policy (NEP) 2020 to the UT's specific demographic and geographic context."
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Architecture",
+                "sub_theme": "Designing and structuring UT-specific schemes for student welfare, scholarships, and digital education."
+            },
+            {
+                "type": "Domain",
+                "theme": "Strategic Management",
+                "sub_theme": "Implementation and oversight of Samagra Shiksha Abhiyan across the UT."
+            },
+            {
+                "type": "Domain",
+                "theme": "Legislative & Regulatory Framework",
+                "sub_theme": "Ensuring compliance with the Right of Children to Free and Compulsory Education (RTE) Act, 2009."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial & Administrative Management",
+                "sub_theme": "Application of General Financial Rules (GFR) 2017 in large-scale educational projects and procurements."
+            },
+            {
+                "type": "Domain",
+                "theme": "Inter-Governmental Coordination",
+                "sub_theme": "Liaison with Ministry of Education (GoI), NCERT, and Western Zonal Council for policy alignment and resource mobilization."
+            },
+            {
+                "type": "Domain",
+                "theme": "International Best Practices",
+                "sub_theme": "Alignment of UT education goals with UN Sustainable Development Goal 4 (Quality Education)."
+            }
+        ],
+        "sort_order": 1,
+        "created_at": "2025-12-19T11:26:47.399562+00:00",
+        "updated_at": "2025-12-19T11:28:11.815008+00:00",
+        "cbp_plans": [
+            {
+                "id": "a5cd4de2-608b-4a8a-86c9-67310005aac3",
+                "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+                "created_at": "2025-12-19T11:29:53.912568+00:00",
+                "updated_at": "2025-12-19T11:29:53.912568+00:00",
+                "selected_courses": [
+                    {
+                        "course": "AI Led Digital Transformation in Education",
+                        "duration": "4500",
+                        "is_public": false,
+                        "rationale": "This course is directly aligned with the strategic responsibilities of a Secretary (Education) to modernize and improve the education sector through technology.",
+                        "relevancy": 100,
+                        "identifier": "do_114123363095871488110",
+                        "competencies": [
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Emerging Technology Synthesis",
+                                "competencySubThemeName": "Emerging Technology Synthesis"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Emerging Technology",
+                                "competencySubThemeName": "Emerging Technology"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Artificial Intelligence Application",
+                                "competencySubThemeName": "Artificial Intelligence Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology Application",
+                                "competencySubThemeName": "Technology Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology Infrastructure Management and Integration",
+                                "competencySubThemeName": "Technology Infrastructure Management and Integration"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology and Systems Application",
+                                "competencySubThemeName": "Technology and Systems Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology roadmapping",
+                                "competencySubThemeName": "Technology roadmapping"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology-enabled Learning Delivery",
+                                "competencySubThemeName": "Technology-enabled Learning Delivery"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Cyber Security",
+                                "competencySubThemeName": "Cyber Security"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Data Analytics",
+                                "competencySubThemeName": "Data Analysis & Visualization"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Data Management",
+                                "competencySubThemeName": "Data Management"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Decision-making support systems",
+                                "competencySubThemeName": "Decision-making support systems"
+                            }
+                        ],
+                        "organisation": [
+                            "Wadhwani Foundation"
+                        ]
+                    },
+                    {
+                        "course": "Delegation of Authority in Government Administration",
+                        "duration": "5100",
+                        "is_public": false,
+                        "rationale": "Essential for a senior administrator like a Secretary to effectively manage a large department, ensuring efficient operations and accountability.",
+                        "relevancy": 95,
+                        "identifier": "do_1140307107923312641183",
+                        "competencies": [
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Outcome Orientation",
+                                "competencySubThemeName": "Accountability"
+                            },
+                            {
+                                "competencyAreaName": "Functional",
+                                "competencyThemeName": "Financial Management",
+                                "competencySubThemeName": "Financial Management"
+                            },
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Decision Making",
+                                "competencySubThemeName": "Sound Judgement"
+                            },
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Operational Excellence",
+                                "competencySubThemeName": "Process Excellence"
+                            },
+                            {
+                                "competencyAreaName": "Functional",
+                                "competencyThemeName": "Office Management",
+                                "competencySubThemeName": "Office Procedures"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "General Management",
+                                "competencySubThemeName": "General Management"
+                            }
+                        ],
+                        "organisation": [
+                            "Institute of Secretariat Training and Management"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "8b0a37b5-88c9-4ab0-8100-e2891cfca0a0",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Director (Education)",
+        "status": "COMPLETED",
+        "wing_division_section": "Directorate of Education (Headquarters)",
+        "role_responsibilities": [
+            "Function as the Head of the Department, responsible for the overall operational and academic management of the Directorate of Education.",
+            "Execute and monitor the implementation of all educational policies, programs, and schemes (e.g., Samagra Shiksha, PM POSHAN) within the UT.",
+            "Manage all administrative, establishment, and financial matters of the directorate and subordinate offices.",
+            "Supervise the functioning of all government and government-aided schools, ensuring academic standards and quality.",
+            "Oversee teacher recruitment, training, deployment, and performance management.",
+            "Implement the Annual Capacity Building Plan (ACBP) for all staff within the directorate.",
+            "Coordination with State Governments for scheme implementation, policy feedback, and capacity building.",
+            "Ensure timely redressal of public grievances related to education through CPGRAMS."
+        ],
+        "activities": [
+            "Issuing administrative and financial sanctions.",
+            "Conducting inspections of schools and educational offices.",
+            "Chairing departmental promotion committees (DPCs) and recruitment boards.",
+            "Managing transfers and postings of teaching and non-teaching staff.",
+            "Reviewing progress of scheme implementation with Joint/Deputy Directors.",
+            "Handling parliamentary and assembly questions."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Inspiring others"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Relationship Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Government Program Formulation",
+                "sub_theme": "Implementation & Outreach"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Establishment Matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Implementation",
+                "sub_theme": "Operational management of the PM POSHAN (Mid-Day Meal) Scheme, ensuring nutritional and quality standards."
+            },
+            {
+                "type": "Domain",
+                "theme": "Educational Administration",
+                "sub_theme": "Management of school systems, teacher allocation, and academic calendar for the UT."
+            },
+            {
+                "type": "Domain",
+                "theme": "Curriculum Management",
+                "sub_theme": "Overseeing the implementation of the National Curriculum Framework (NCF) and SCERT guidelines in schools."
+            },
+            {
+                "type": "Domain",
+                "theme": "HR Management in Education",
+                "sub_theme": "Managing teacher recruitment processes, transfers, promotions, and APARs."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Management",
+                "sub_theme": "Managing scheme funds through the Public Financial Management System (PFMS)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Infrastructure Development",
+                "sub_theme": "Supervision of civil works for school construction and upgradation under Samagra Shiksha and PM SHRI."
+            }
+        ],
+        "sort_order": 2,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "92a11dc1-448e-48c5-8bbe-369b952b69d7",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Joint Director (Education)",
+        "status": "COMPLETED",
+        "wing_division_section": "Academic & Planning Wing",
+        "role_responsibilities": [
+            "Assist the Director in overseeing the academic and planning functions of the directorate.",
+            "Lead the implementation of academic reforms as per NEP 2020, including curriculum updates and pedagogical changes.",
+            "Supervise the functioning of the State Council of Educational Research and Training (SCERT) / equivalent body.",
+            "Oversee the planning and execution of teacher training programs and continuous professional development.",
+            "Monitor learning outcomes and coordinate with schools to implement remedial teaching and support.",
+            "Manage the planning, data collection (UDISE+), and reporting for all educational schemes.",
+            "Coordination with State Governments for scheme implementation, policy feedback, and capacity building.",
+            "Act as the nodal officer for specific flagship programs as assigned by the Director."
+        ],
+        "activities": [
+            "Developing the annual academic calendar.",
+            "Organizing workshops and training for teachers and headmasters.",
+            "Analyzing student assessment data to identify trends and gaps.",
+            "Preparing proposals and utilization certificates for central schemes.",
+            "Coordinating with NCERT for textbook and curriculum alignment.",
+            "Inspecting schools to monitor academic quality."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Creativity & Innovation",
+                "sub_theme": "Transformation Orientation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Mentoring"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Presentation Skills"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Creation of M&E Framework"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Planning"
+            },
+            {
+                "type": "Domain",
+                "theme": "Academic Planning",
+                "sub_theme": "Developing and implementing strategies for the NIPUN Bharat Mission for Foundational Literacy & Numeracy (FLN)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Management & Reporting",
+                "sub_theme": "Management and analysis of UDISE+ (Unified District Information System for Education Plus) data for planning."
+            },
+            {
+                "type": "Domain",
+                "theme": "Teacher Professional Development",
+                "sub_theme": "Designing and managing training modules on the DIKSHA platform for continuous teacher development."
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Management",
+                "sub_theme": "Formulating the Annual Work Plan & Budget (AWP&B) for Samagra Shiksha."
+            },
+            {
+                "type": "Domain",
+                "theme": "Assessment & Evaluation",
+                "sub_theme": "Overseeing the conduct and analysis of the National Achievement Survey (NAS) and State Level Achievement Survey (SLAS)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Special Education Needs",
+                "sub_theme": "Planning and monitoring provisions for Children with Special Needs (CWSN) under inclusive education."
+            }
+        ],
+        "sort_order": 3,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "34207309-70f3-4a7f-9698-47585b9c8550",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Deputy Director (Education)",
+        "status": "COMPLETED",
+        "wing_division_section": "Administration & Establishment Wing",
+        "role_responsibilities": [
+            "Manage all establishment matters of teaching and non-teaching staff, including recruitment, promotions, and seniority lists.",
+            "Handle all administrative functions of the directorate, including office management, procurement of goods/services, and maintenance.",
+            "Process and manage pension cases, disciplinary proceedings, and vigilance matters.",
+            "Act as the nodal officer for handling RTI applications and CPGRAMS grievances related to administrative issues.",
+            "Oversee litigation matters, including preparing para-wise comments and coordinating with legal counsel.",
+            "Ensure compliance with reservation policies in recruitment and promotions.",
+            "Manage the distribution of grants-in-aid to private aided schools."
+        ],
+        "activities": [
+            "Processing files related to appointments, DPCs, and retirements.",
+            "Drafting responses to RTI queries and grievance petitions.",
+            "Managing procurement through the GeM portal.",
+            "Supervising the work of Section Officers and administrative staff.",
+            "Liaising with the Law Department for court cases.",
+            "Ensuring timely submission of reports on establishment matters."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Process Excellence"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Personal Effectiveness",
+                "sub_theme": "Stress Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Fundamental Rules /Supplementary Rules"
+            },
+            {
+                "type": "Functional",
+                "theme": "Vigilance Administration",
+                "sub_theme": "Proposal preparation for disciplinary proceedings"
+            },
+            {
+                "type": "Functional",
+                "theme": "Litigation Management",
+                "sub_theme": "Court case management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Procurement Mgmt. through GeM"
+            },
+            {
+                "type": "Domain",
+                "theme": "Service Rules",
+                "sub_theme": "Application of Central Civil Services (CCS) Conduct Rules, 1964 and Classification, Control and Appeal (CCA) Rules, 1965."
+            },
+            {
+                "type": "Domain",
+                "theme": "Reservation Policy",
+                "sub_theme": "Implementation of reservation rosters for SC/ST/OBC/EWS/PwD in recruitment and promotion."
+            },
+            {
+                "type": "Domain",
+                "theme": "Transparency & Accountability",
+                "sub_theme": "Management of RTI requests as per the RTI Act, 2005 and CPGRAMS portal management."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Administration",
+                "sub_theme": "Management of Grants-in-Aid rules and disbursement to eligible institutions."
+            },
+            {
+                "type": "Domain",
+                "theme": "Legal Framework",
+                "sub_theme": "Managing court cases and understanding procedures related to the Central Administrative Tribunal (CAT)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Office Administration",
+                "sub_theme": "Knowledge of e-Office procedures and the Manual of Office Procedure for efficient file management."
+            }
+        ],
+        "sort_order": 4,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "658e0318-52f9-4089-ab19-b80f6887c119",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Education Officer / Block Education Officer",
+        "status": "COMPLETED",
+        "wing_division_section": "Field Office / Block Level",
+        "role_responsibilities": [
+            "Act as the primary link between the Directorate and schools within a specific geographical block or zone.",
+            "Conduct regular academic and administrative inspections of schools to ensure compliance with departmental norms.",
+            "Monitor the implementation of schemes like PM POSHAN, free textbook distribution, and scholarship disbursement at the school level.",
+            "Support Head Masters in school management, community mobilization, and formation of School Management Committees (SMCs).",
+            "Collect, verify, and consolidate data from schools for submission to the Directorate (e.g., UDISE+ data).",
+            "Address local-level issues and grievances from teachers, parents, and students.",
+            "Organize and supervise block-level teacher training, sports events, and academic competitions."
+        ],
+        "activities": [
+            "Visiting schools and observing classroom teaching.",
+            "Verifying student enrollment and attendance records.",
+            "Checking the quality and hygiene of mid-day meals.",
+            "Conducting meetings with SMC members and village leaders.",
+            "Compiling monthly progress reports for various schemes.",
+            "Resolving minor administrative issues of teachers at the block level."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Responsiveness"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Active Listening"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Initiative and Drive"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Grievance Redressal",
+                "sub_theme": "Public Grievance Handling"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Technical Proposal / Report writing"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grassroots Scheme Monitoring",
+                "sub_theme": "On-field monitoring of PM POSHAN scheme implementation, including food grain lifting and cooking standards."
+            },
+            {
+                "type": "Domain",
+                "theme": "School Supervision",
+                "sub_theme": "Conducting school inspections based on frameworks like Shaala Siddhi (National Programme on School Standards and Evaluation)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Community Engagement",
+                "sub_theme": "Facilitating the functioning of School Management Committees (SMCs) as mandated by the RTE Act, 2009."
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Collection",
+                "sub_theme": "Ensuring accurate and timely data entry for the UDISE+ portal at the block level."
+            },
+            {
+                "type": "Domain",
+                "theme": "Local Administration",
+                "sub_theme": "Coordination with local Panchayati Raj Institutions and municipal bodies for school development."
+            },
+            {
+                "type": "Domain",
+                "theme": "Academic Support",
+                "sub_theme": "Providing on-site academic support to teachers for implementing FLN and other pedagogical initiatives."
+            }
+        ],
+        "sort_order": 5,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "87e21eb9-cffc-44ca-ad6c-76bae735762d",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Principal / Head Master (Secondary / Hr. Secondary)",
+        "status": "COMPLETED",
+        "wing_division_section": "School Level",
+        "role_responsibilities": [
+            "Serve as the academic and administrative head of the school.",
+            "Ensure effective implementation of the curriculum, timetable, and annual academic plan.",
+            "Manage and supervise all teaching and non-teaching staff, including performance assessment (APARs) and leave management.",
+            "Maintain student discipline, safety, and a conducive learning environment.",
+            "Oversee school finances, including management of school grants and local funds, and act as Drawing and Disbursing Officer (DDO).",
+            "Engage with parents, the School Management Committee (SMC), and the local community.",
+            "Ensure timely implementation of all government schemes and submission of reports to the Block/Directorate."
+        ],
+        "activities": [
+            "Conducting morning assembly.",
+            "Supervising classroom instruction and taking teaching periods as required.",
+            "Chairing staff meetings and SMC meetings.",
+            "Maintaining school records, including admission, attendance, and examination results.",
+            "Procuring lab equipment, library books, and sports materials.",
+            "Ensuring upkeep and maintenance of the school building and infrastructure."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Inspiring others"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Resource Management"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Service Excellence (wrt citizens)"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Office Procedures"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling APAR matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Domain",
+                "theme": "School Leadership",
+                "sub_theme": "Developing and implementing a School Development Plan (SDP) in consultation with the SMC."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Management at School Level",
+                "sub_theme": "Managing school composite grants and other funds received under Samagra Shiksha."
+            },
+            {
+                "type": "Domain",
+                "theme": "Pedagogical Leadership",
+                "sub_theme": "Promoting competency-based education and experiential learning as per NEP 2020."
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Safety and Security",
+                "sub_theme": "Implementation of guidelines for child safety in schools, including POSH and anti-bullying policies."
+            },
+            {
+                "type": "Domain",
+                "theme": "Examination and Assessment",
+                "sub_theme": "Conducting internal and external examinations (including CBSE board exams) with integrity."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital School Management",
+                "sub_theme": "Using platforms like UDISE+, PFMS, and DIKSHA for school administration and academic management."
+            }
+        ],
+        "sort_order": 6,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "bc601ffc-5c96-4660-86fd-aa1e9a2582d5",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Teacher (PGT/TGT/PRT)",
+        "status": "COMPLETED",
+        "wing_division_section": "School Level",
+        "role_responsibilities": [
+            "Deliver curriculum effectively in the classroom using appropriate teaching methodologies and aids.",
+            "Plan daily lessons, conduct formative and summative assessments, and provide constructive feedback to students.",
+            "Maintain records of student attendance, progress, and performance.",
+            "Create a positive, inclusive, and stimulating classroom environment.",
+            "Participate in staff meetings, parent-teacher meetings, and professional development programs.",
+            "Contribute to co-curricular activities, school events, and other duties assigned by the Head Master/Principal.",
+            "Integrate technology in teaching and learning processes."
+        ],
+        "activities": [
+            "Teaching subjects as per the timetable.",
+            "Preparing lesson plans and teaching aids.",
+            "Evaluating answer sheets and class assignments.",
+            "Interacting with parents to discuss student progress.",
+            "Organizing and participating in school functions and sports.",
+            "Undergoing training on new pedagogical approaches and digital tools."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Verbal & Non-Verbal Fluency"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Empathy"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Self-Awareness",
+                "sub_theme": "Self-Learning"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Functional",
+                "theme": "Citizen Centricity",
+                "sub_theme": "Design Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Information & Communication Management",
+                "sub_theme": "Dissemination of Information"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Domain",
+                "theme": "Pedagogy and Classroom Management",
+                "sub_theme": "Applying subject-specific teaching methods and managing a diverse classroom."
+            },
+            {
+                "type": "Domain",
+                "theme": "Curriculum Knowledge",
+                "sub_theme": "Understanding and implementing the National Curriculum Framework (NCF) and CBSE/State Board syllabus."
+            },
+            {
+                "type": "Domain",
+                "theme": "Assessment Techniques",
+                "sub_theme": "Using various tools for Continuous and Comprehensive Evaluation (CCE) and competency-based assessment."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Pedagogy",
+                "sub_theme": "Using digital resources from platforms like DIKSHA and SWAYAM in teaching."
+            },
+            {
+                "type": "Domain",
+                "theme": "Inclusive Education",
+                "sub_theme": "Techniques for teaching Children with Special Needs (CWSN) in an inclusive classroom setting."
+            },
+            {
+                "type": "Domain",
+                "theme": "Foundational Learning",
+                "sub_theme": "Implementing activities and assessments related to the NIPUN Bharat mission for early grades (for PRTs)."
+            }
+        ],
+        "sort_order": 7,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "4d9a7520-9c25-4b6d-aeae-0f8fcb114fdb",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Section Officer",
+        "status": "COMPLETED",
+        "wing_division_section": "Administration / Accounts Section",
+        "role_responsibilities": [
+            "Supervise the work of Assistants and Clerks within the assigned section.",
+            "Ensure proper maintenance of files, records, and registers as per the Manual of Office Procedure.",
+            "Scrutinize and process files, notes, and drafts submitted by subordinates before forwarding to senior officers.",
+            "Handle correspondence, prepare drafts of letters, and ensure timely dispatch.",
+            "Monitor the movement of files using e-Office and ensure adherence to timelines.",
+            "Assist the Deputy Director in preparing reports, statements, and handling RTI/grievance cases."
+        ],
+        "activities": [
+            "Marking incoming DAK (correspondence) to concerned assistants.",
+            "Reviewing and signing off on notes and drafts.",
+            "Guiding staff on rules and procedures.",
+            "Maintaining confidentiality of sensitive documents.",
+            "Tracking file status on e-Office.",
+            "Compiling data for monthly and quarterly reports."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Sharing constructive feedback"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "E-Office"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Establishment Matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Handling RTI Matters",
+                "sub_theme": "RTI Responsiveness"
+            },
+            {
+                "type": "Domain",
+                "theme": "Office Procedures",
+                "sub_theme": "Expertise in the Manual of Office Procedure (MoP) for file management and correspondence."
+            },
+            {
+                "type": "Domain",
+                "theme": "Service Rules",
+                "sub_theme": "Working knowledge of Fundamental Rules (FR) and Supplementary Rules (SR) for processing leave, travel, and other claims."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Office Management",
+                "sub_theme": "Proficient use of e-Office for file creation, movement, and tracking."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Rules",
+                "sub_theme": "Basic knowledge of General Financial Rules (GFR) for processing bills and procurement proposals."
+            },
+            {
+                "type": "Domain",
+                "theme": "Record Management",
+                "sub_theme": "Knowledge of record retention schedules and procedures for archiving and weeding out old files."
+            },
+            {
+                "type": "Domain",
+                "theme": "Official Language Policy",
+                "sub_theme": "Ensuring compliance with the Official Language Act and Rules in official communications."
+            }
+        ],
+        "sort_order": 8,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "adasd",
+        "id": "ad1d1e90-73eb-45ae-8ea3-78ab24abe12c",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "test",
+        "status": "COMPLETED",
+        "wing_division_section": "Planning & Training Wing",
+        "role_responsibilities": [
+            "Assisting in the development and implementation of Monitoring & Evaluation (M&E) frameworks for Women and Child Development (WCD) schemes.",
+            "Analyzing data from sources like Poshan Tracker and other scheme-specific Management Information Systems (MIS) to identify trends, gaps, and insights.",
+            "Preparing periodic monitoring reports, evaluation studies, and data-driven policy briefs for senior management and stakeholders.",
+            "Providing technical support and capacity building to field functionaries on data collection protocols, tools, and reporting standards.",
+            "Coordinating with various departmental wings (ICDS, Women Empowerment, Child Protection) to ensure seamless data flow and alignment of M&E activities.",
+            "Contributing to evidence-based policy formulation by providing actionable insights derived from program evaluations and data analysis.",
+            "Managing and maintaining databases for key performance indicators related to departmental schemes and missions.",
+            "Supporting the preparation of responses for RTI queries, parliamentary questions, and audit reports with accurate program data. *AI Suggested*"
+        ],
+        "activities": [
+            "Drafting data collection tools such as questionnaires, survey forms, and checklists for field use.",
+            "Entering, cleaning, and validating programmatic data received from districts and field units.",
+            "Using digital tools like MS Excel or other statistical software to perform analysis on key performance indicators (KPIs).",
+            "Writing sections of monthly, quarterly, and annual progress reports and evaluation summaries.",
+            "Creating data visualizations, including charts, graphs, and dashboards, to communicate findings effectively.",
+            "Conducting field visits to verify data quality and understand implementation challenges at the grassroots level. *AI Suggested*",
+            "Assisting in organizing training workshops for Anganwadi workers and supervisors on new M&E tools and processes. *AI Suggested*",
+            "Compiling and structuring data required for official reports and inter-departmental communications."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Presentation Skills"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Creation of M&E Framework"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Analysis & Visualization"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Technical Proposal / Report writing"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Domain",
+                "theme": "WCD Program Knowledge",
+                "sub_theme": "Understanding of ICDS, Poshan Abhiyaan, and Beti Bachao Beti Padhao schemes"
+            },
+            {
+                "type": "Domain",
+                "theme": "M&E in Social Sector",
+                "sub_theme": "Knowledge of M&E frameworks for social development programs (e.g., Logic Models, Theory of Change)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Management Systems",
+                "sub_theme": "Proficiency in using government portals like Poshan Tracker and other scheme-specific MIS"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child and Women's Rights Indicators",
+                "sub_theme": "Knowledge of key indicators for child protection and women empowerment (e.g., Child Sex Ratio, Malnutrition rates)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Policy Analysis",
+                "sub_theme": "Ability to connect program data to policy outcomes and suggest improvements"
+            },
+            {
+                "type": "Domain",
+                "theme": "Government Reporting Standards",
+                "sub_theme": "Familiarity with reporting structures for audits, parliamentary queries, and annual reports"
+            }
+        ],
+        "sort_order": 9,
+        "created_at": "2026-01-15T10:05:51.259681+00:00",
+        "updated_at": "2026-01-15T10:05:51.259681+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "sssss",
+        "id": "64e1152d-a240-4960-99fc-e186a06c0c8b",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Joint Director (Child Protection)",
+        "status": "COMPLETED",
+        "wing_division_section": "Child Protection Wing",
+        "role_responsibilities": [
+            "Oversee the implementation of the Integrated Child Protection Services (ICPS) scheme across the region.",
+            "Supervise the functioning of all statutory bodies under the Juvenile Justice Act, including Child Welfare Committees (CWCs) and Juvenile Justice Boards (JJBs).",
+            "Ensure effective management and responsiveness of the Child Helpline (1098) services for children in distress.",
+            "Manage and monitor all adoption-related matters, ensuring compliance with Central Adoption Resource Authority (CARA) regulations.",
+            "Conduct oversight and ensure compliance of all Child Welfare Institutions (CWIs) with prescribed standards of care and protection.",
+            "Coordinate with law enforcement, the judiciary, and civil society organizations to create a robust child protection ecosystem.",
+            "Develop and implement state-level strategies and action plans for the prevention of child abuse, trafficking, and exploitation.",
+            "Report to the Director, WCD on progress, challenges, and outcomes related to all child protection initiatives."
+        ],
+        "activities": [
+            "Conducting periodic inspections and audits of Child Welfare Institutions, Observation Homes, and Special Homes.",
+            "Reviewing case files and progress reports from District Child Protection Units (DCPUs).",
+            "Analyzing data from the Child Helpline to identify trends and areas requiring intervention.",
+            "Chairing meetings to review pending adoption cases and resolve procedural bottlenecks.",
+            "Drafting guidelines and circulars for the effective implementation of child protection laws and schemes.",
+            "Organizing capacity-building workshops for CWC members, JJB officials, and CWI staff.",
+            "Preparing detailed reports and presentations for state-level review meetings and for submission to the central government.",
+            "Responding to legal notices and coordinating with legal counsel on matters related to the JJ Act and POCSO Act."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Relationship Management"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Empathy"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Litigation Management",
+                "sub_theme": "Legal Know-How"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Protection Legal Frameworks",
+                "sub_theme": "Expertise in Juvenile Justice Act, POCSO Act, and Child Labour (Prohibition and Regulation) Act"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Welfare Schemes & Programs",
+                "sub_theme": "In-depth knowledge of Integrated Child Protection Services (ICPS) and Mission Vatsalya guidelines"
+            },
+            {
+                "type": "Domain",
+                "theme": "Adoption Regulations & Procedures",
+                "sub_theme": "Comprehensive understanding of CARA guidelines and the Hindu Adoptions and Maintenance Act (HAMA)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Institutional Care Standards",
+                "sub_theme": "Knowledge of standards for Child Welfare Institutions (CWIs) and homes as per JJ Model Rules"
+            },
+            {
+                "type": "Domain",
+                "theme": "International Child Rights Conventions",
+                "sub_theme": "Familiarity with the UN Convention on the Rights of the Child (UNCRC) and its optional protocols"
+            },
+            {
+                "type": "Domain",
+                "theme": "Stakeholder Coordination in Child Protection",
+                "sub_theme": "Knowledge of coordinating with Police (SJPU), Judiciary (CWC/JJB), and civil society organizations"
+            }
+        ],
+        "sort_order": 10,
+        "created_at": "2026-01-15T10:06:51.819811+00:00",
+        "updated_at": "2026-01-15T10:06:51.819811+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "test",
+        "id": "25fa1b0b-6e01-4003-ab5c-b633a1a48028",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Deputy Director / Assistant Director",
+        "status": "COMPLETED",
+        "wing_division_section": "Women and Child Development Department",
+        "role_responsibilities": [
+            "Provide operational support to Joint Directors for the implementation and monitoring of WCD schemes (ICDS, Poshan Abhiyaan, BBBP).",
+            "Draft operational guidelines, circulars, and instructions for field functionaries to ensure standardized scheme implementation.",
+            "Compile, verify, and analyze Management Information System (MIS) reports from districts, including data from the Poshan Tracker.",
+            "Conduct regular field visits to Anganwadi Centers and other implementation sites to monitor service delivery and identify operational challenges.",
+            "Prepare preliminary evaluation studies and impact assessment reports on departmental programmes to support policy review.",
+            "Assist in coordinating training programs for field staff in collaboration with institutions like NIPCCD.",
+            "Process files and proposals related to scheme implementation, including financial and administrative matters.",
+            "Facilitate inter-departmental coordination at the operational level for convergent action on health, nutrition, and education."
+        ],
+        "activities": [
+            "Reviewing and consolidating monthly progress reports received from district-level officers.",
+            "Drafting notes and official correspondence related to scheme implementation for approval by senior officers.",
+            "Analyzing data from the Poshan Tracker to identify high-burden areas and trends in service delivery.",
+            "Preparing detailed field visit reports with actionable recommendations for improving service quality.",
+            "Collecting and analyzing primary and secondary data for preparing evaluation study reports.",
+            "Liaising with State ATI/NIPCCD for logistical arrangements and content finalization for training sessions.",
+            "Scrutinizing proposals for procurement of supplementary nutrition and other scheme-related materials.",
+            "Responding to RTI queries and parliamentary questions related to specific schemes under supervision."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Analysis & Visualization"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "WCD Program Management",
+                "sub_theme": "Implementation of ICDS and Poshan Abhiyaan"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Nutrition & Health",
+                "sub_theme": "Monitoring of Supplementary Nutrition Protocols"
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Governance in WCD",
+                "sub_theme": "Poshan Tracker Data Management and Analysis"
+            },
+            {
+                "type": "Domain",
+                "theme": "Social Sector M&E",
+                "sub_theme": "Field-Level Monitoring and Evaluation Techniques"
+            },
+            {
+                "type": "Domain",
+                "theme": "Women Empowerment",
+                "sub_theme": "SHG Formation and Livelihood Promotion"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Protection Frameworks",
+                "sub_theme": "Operational Knowledge of ICPS and Juvenile Justice Act"
+            }
+        ],
+        "sort_order": 11,
+        "created_at": "2026-01-15T10:11:51.500680+00:00",
+        "updated_at": "2026-01-15T10:11:51.500680+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "Test",
+        "id": "0197f397-ffcf-4dac-9abe-15a525446f51",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Joint Secretary and Financial Adviser",
+        "status": "COMPLETED",
+        "wing_division_section": "Finance and Accounts Wing, Directorate of Education",
+        "role_responsibilities": [
+            "Serve as the principal financial advisor to the Secretary/Director of Education on all matters involving financial implications.",
+            "Oversee the formulation of the annual budget for the Directorate of Education, ensuring alignment with educational policies and schemes.",
+            "Manage the allocation and release of funds for Centrally Sponsored Schemes like Samagra Shiksha, PM-POSHAN, and various scholarship programs.",
+            "Monitor expenditure across all divisions and educational institutions to ensure financial propriety and adherence to General Financial Rules (GFR).",
+            "Ensure timely submission of Utilization Certificates (UCs) and compliance with all internal and external audit observations.",
+            "Provide financial concurrence for new projects, procurements, and policy initiatives within the education sector.",
+            "Lead financial planning and resource mobilization for the implementation of the National Education Policy (NEP) 2020 within the UT.",
+            "Supervise the management of government accounts, treasury operations, and financial reporting for the department."
+        ],
+        "activities": [
+            "Conducting pre-budget consultations with heads of various educational divisions and institutions.",
+            "Scrutinizing financial proposals, expenditure statements, and contract agreements from schools and administrative units.",
+            "Operating and managing fund flow for educational schemes through the Public Financial Management System (PFMS).",
+            "Preparing detailed responses and Action Taken Reports (ATRs) for audit paragraphs from the office of the Accountant General.",
+            "Reviewing and approving procurement proposals for educational infrastructure, technology, and services via the Government e-Marketplace (GeM).",
+            "Analyzing financial data to identify expenditure trends, forecast requirements, and recommend measures for fiscal discipline.",
+            "Drafting financial guidelines and advisories for subordinate offices and grant-in-aid institutions.",
+            "Liaising with the UT Finance Department for budget approvals, re-appropriations, and overall fund flow management."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Contract Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Government accounts"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Financing",
+                "sub_theme": "Knowledge of Centrally Sponsored Schemes (Samagra Shiksha, PM-POSHAN)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management",
+                "sub_theme": "General Financial Rules (GFR) and Delegation of Financial Powers Rules (DFPR)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Policy Implementation",
+                "sub_theme": "Financial Planning for National Education Policy (NEP) 2020"
+            },
+            {
+                "type": "Domain",
+                "theme": "Audit and Compliance",
+                "sub_theme": "Management of Public Accounts Committee (PAC) and Audit Paragraphs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grant-in-Aid Management",
+                "sub_theme": "Rules and Procedures for Grants to Educational Institutions"
+            },
+            {
+                "type": "Domain",
+                "theme": "Treasury and Accounts Management",
+                "sub_theme": "UT Treasury Rules and Accounting Procedures"
+            }
+        ],
+        "sort_order": 12,
+        "created_at": "2026-01-16T06:59:23.720867+00:00",
+        "updated_at": "2026-01-16T06:59:23.720867+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "a456a244-cb07-48de-b6ed-2717795ad691",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Additional Comptroller and Auditor General",
+        "status": "COMPLETED",
+        "wing_division_section": "Education Sector Audit Wing",
+        "role_responsibilities": [
+            "Overseeing the strategic planning and execution of performance, compliance, and financial audits of the education sector, including central and state government schemes.",
+            "Providing leadership and direction to audit teams, ensuring adherence to the highest standards of public audit as prescribed by CAG and INTOSAI.",
+            "Reviewing and approving draft audit reports, ensuring findings are evidence-based, impactful, and offer actionable recommendations for systemic improvement.",
+            "Engaging with senior government officials (e.g., Secretaries to GoI, Chief Secretaries) to discuss significant audit findings and promote good governance.",
+            "Representing the CAG of India in high-level national and international forums, and briefing parliamentary committees like the Public Accounts Committee (PAC) on audit reports.",
+            "Driving innovation in audit practices through the adoption of data analytics, forensic audit techniques, and other emerging technologies.",
+            "Guiding the preparation of the CAG's annual Audit Report chapters pertaining to the Ministry of Education and related bodies.",
+            "Mentoring and developing the capacity of senior officers (Directors General, Principal Directors) within the education audit vertical."
+        ],
+        "activities": [
+            "Approving the annual audit plan and risk assessment framework for the education sector.",
+            "Chairing entry and exit conferences for major performance audits of national education schemes (e.g., Samagra Shiksha, PM SHRI).",
+            "Conducting final reviews of audit paras and inspection reports before issuance to the audited entities.",
+            "Finalizing thematic audit reports on critical areas such as learning outcomes, digital education infrastructure, and teacher training effectiveness.",
+            "Preparing briefs and leading discussions for the defense of audit reports before the Public Accounts Committee (PAC).",
+            "Monitoring the status of Action Taken Notes (ATNs) submitted by ministries on past audit recommendations.",
+            "Commissioning and overseeing the use of data analytics and forensic tools to identify financial irregularities or systemic inefficiencies.",
+            "Leading capacity-building workshops and knowledge-sharing sessions on emerging trends in education and public audit."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy monitoring & impact assessment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Handling Parliamentary Matters",
+                "sub_theme": "Submission of briefs, supply of information"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Sector Auditing",
+                "sub_theme": "INTOSAI and CAG's Auditing Standards"
+            },
+            {
+                "type": "Domain",
+                "theme": "Performance Auditing",
+                "sub_theme": "Audit of Government Schemes and Programs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Governance",
+                "sub_theme": "National Education Policy (NEP) and its Implementation Framework"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management (PFM)",
+                "sub_theme": "Government Accounting, Budgeting, and Expenditure Analysis"
+            },
+            {
+                "type": "Domain",
+                "theme": "Parliamentary Oversight",
+                "sub_theme": "Functioning of Public Accounts Committee (PAC) and COPU"
+            },
+            {
+                "type": "Domain",
+                "theme": "Global Education Benchmarks",
+                "sub_theme": "UN Sustainable Development Goals (SDG 4 - Quality Education)"
+            }
+        ],
+        "sort_order": 13,
+        "created_at": "2026-01-16T08:02:18.825070+00:00",
+        "updated_at": "2026-01-16T08:02:18.825070+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "d257f196-f914-40ce-abdc-bcd4ed27ab8c",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Additional Controller of Accounts",
+        "status": "COMPLETED",
+        "wing_division_section": "Finance and Accounts Wing, Directorate of Education",
+        "role_responsibilities": [
+            "Oversee the financial management and accounting operations of the Directorate of Education, ensuring adherence to financial regulations. (AI Suggested)",
+            "Manage the timely preparation and consolidation of departmental budgets, revised estimates, and expenditure reports for submission to higher authorities. (AI Suggested)",
+            "Supervise the disbursement, utilization, and monitoring of funds for centrally sponsored and UT-specific educational schemes like Samagra Shiksha and Mid-Day Meal. (AI Suggested)",
+            "Ensure accurate and timely processing of payroll, pensions, and other emoluments for all teaching and non-teaching staff under the Directorate. (AI Suggested)",
+            "Act as the primary point of contact for all audit matters, ensuring compliance with observations from both internal and AG Audit. (AI Suggested)",
+            "Provide expert financial advice to the Director of Education on new proposals, resource allocation, and financial implications of policy decisions. (AI Suggested)",
+            "Monitor the financial progress of educational infrastructure projects and large-scale procurement, ensuring value for money and adherence to GFR. (AI Suggested)"
+        ],
+        "activities": [
+            "Reviewing and approving monthly and quarterly expenditure statements received from various educational zones and institutions. (AI Suggested)",
+            "Operating and managing all departmental transactions through the Public Financial Management System (PFMS) portal. (AI Suggested)",
+            "Preparing detailed proposals for budget allocation, re-appropriation of funds, and supplementary grants. (AI Suggested)",
+            "Verifying and processing grant-in-aid bills for government-aided schools and ensuring timely release of funds. (AI Suggested)",
+            "Drafting comprehensive responses and compliance reports for audit paras raised by statutory audit bodies. (AI Suggested)",
+            "Conducting periodic internal financial reviews and inspections of subordinate offices to ensure financial discipline. (AI Suggested)",
+            "Scrutinizing financial proposals for new educational initiatives for rule compliance and financial viability. (AI Suggested)",
+            "Overseeing the reconciliation of departmental accounts with Treasury and bank statements to ensure accuracy. (AI Suggested)"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Resource Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Government accounts"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "PFMS Portal Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Contract Management"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Financing",
+                "sub_theme": "Scheme Fund Management (Samagra Shiksha, MDM)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management (UT)",
+                "sub_theme": "UT Treasury Rules and Accounting Codes"
+            },
+            {
+                "type": "Domain",
+                "theme": "Audit and Compliance",
+                "sub_theme": "Statutory and Internal Audit in Government Education Sector"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grant-in-Aid Management",
+                "sub_theme": "Rules and Procedures for Aided Educational Institutions"
+            },
+            {
+                "type": "Domain",
+                "theme": "Employee Emoluments Management",
+                "sub_theme": "Pay Fixation, Pension, and GPF Rules for UT Employees"
+            },
+            {
+                "type": "Domain",
+                "theme": "Infrastructure Project Accounting",
+                "sub_theme": "Capital Expenditure and Works Accounts Management"
+            }
+        ],
+        "sort_order": 14,
+        "created_at": "2026-01-16T08:06:07.917101+00:00",
+        "updated_at": "2026-01-16T08:06:07.917101+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "6ccfac1f-4977-49ef-b4f9-b27b2ae56cff",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "Additional Comptroller and Auditor General",
+        "status": "COMPLETED",
+        "wing_division_section": "Office of the Comptroller and Auditor General of India",
+        "role_responsibilities": [
+            "Oversee the planning and execution of performance, compliance, and financial audits of Union and State governments. *AI Suggested*",
+            "Formulate and update audit policies, standards, and methodologies in line with national priorities and international best practices (INTOSAI). *AI Suggested*",
+            "Provide strategic direction and leadership to the Indian Audit and Accounts Department (IA&AD) for enhancing audit quality and impact. *AI Suggested*",
+            "Supervise the finalization and submission of key Audit Reports to the President/Governors for presentation to Parliament/State Legislatures. *AI Suggested*",
+            "Manage international relations and collaborations with Supreme Audit Institutions (SAIs) of other countries and global bodies like the UN and World Bank. *AI Suggested*",
+            "Lead capacity building, training, and digital transformation initiatives within the IA&AD to foster a culture of continuous improvement. *AI Suggested*",
+            "Ensure the integrity, independence, and quality assurance of the entire audit process across all field offices. *AI Suggested*"
+        ],
+        "activities": [
+            "Reviewing and approving the annual audit plans for various ministries, departments, and public sector undertakings. *AI Suggested*",
+            "Chairing high-level meetings to deliberate on significant audit findings and finalize draft audit reports. *AI Suggested*",
+            "Issuing authoritative guidelines and manuals on emerging audit areas such as environmental audit, IT audit, and data analytics. *AI Suggested*",
+            "Conducting periodic reviews of the performance of Zonal and State Accountant General (AG) offices. *AI Suggested*",
+            "Engaging with senior government functionaries, including Secretaries to GoI, on critical audit observations and recommendations. *AI Suggested*",
+            "Leading Indian delegations in international conferences and forums like INTOSAI and ASOSAI to share and learn best practices. *AI Suggested*",
+            "Approving the strategic framework for the National Academy of Audit and Accounts (NAAA) and other regional training institutes. *AI Suggested*",
+            "Overseeing the implementation of data analytics tools and IT systems to enhance audit efficiency and effectiveness. *AI Suggested*"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy monitoring & impact assessment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Financial Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Change Management",
+                "sub_theme": "Change Implementation"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Sector Auditing Standards",
+                "sub_theme": "INTOSAI Framework and C&AG's DPC Act, 1971"
+            },
+            {
+                "type": "Domain",
+                "theme": "Government Financial Management",
+                "sub_theme": "Union & State Government Accounting Rules and FRBM Act"
+            },
+            {
+                "type": "Domain",
+                "theme": "Performance & Compliance Audit",
+                "sub_theme": "Methodologies for Auditing National Schemes and Programs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Specialized Audit Practices",
+                "sub_theme": "Environmental, IT, and Forensic Audit Techniques"
+            },
+            {
+                "type": "Domain",
+                "theme": "International Relations & Global Practices",
+                "sub_theme": "Engagement with Supreme Audit Institutions (SAIs) and UN/World Bank Audit Panels"
+            },
+            {
+                "type": "Domain",
+                "theme": "Parliamentary & Legislative Oversight",
+                "sub_theme": "Processes of Public Accounts Committee (PAC) and Committee on Public Undertakings (COPU)"
+            }
+        ],
+        "sort_order": 14,
+        "created_at": "2026-01-16T08:06:11.604011+00:00",
+        "updated_at": "2026-01-16T08:06:11.604011+00:00",
+        "cbp_plans": []
+    }
+]

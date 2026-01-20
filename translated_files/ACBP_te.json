@@ -1,0 +1,1788 @@
+[
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "e48749cb-ed34-464b-be18-cc793acea337",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "కార్యదర్శి (విద్య)",
+        "status": "COMPLETED",
+        "wing_division_section": "సచివాలయం, విద్యా శాఖ",
+        "role_responsibilities": [
+            "కేంద్రపాలిత ప్రాంతమైన దాద్రా మరియు నగర్ హవేలీ మరియు డామన్ మరియు డయ్యూలకు విద్యా శాఖకు పరిపాలనా అధిపతిగా పనిచేశారు.",
+            "జాతీయ విద్యా విధానం (ఎన్ఈపీ) 2020కి అనుగుణంగా అన్ని విద్యా విధానాలు, కార్యక్రమాల సూత్రీకరణ, వ్యూహాత్మక ప్రణాళిక, పర్యవేక్షణకు నాయకత్వం వహించండి.",
+            "సమగ్ర శిక్షా, పిఎం పోషణ్ మరియు పిఎం శ్రీ పాఠశాలలు వంటి కేంద్ర ప్రాయోజిత పథకాల సమర్థవంతమైన అమలు మరియు పర్యవేక్షణను నిర్ధారించండి.",
+            "డైరెక్టరేట్ యొక్క బడ్జెట్ సూత్రీకరణ, కేటాయింపు మరియు ఆర్థిక నిర్వహణను పర్యవేక్షించండి, జిఎఫ్ఆర్ మరియు ఇతర ఆర్థిక నిబంధనలకు కట్టుబడి ఉండేలా చూసుకోండి.",
+            "యుటి పరిపాలన, విద్యా మంత్రిత్వ శాఖ (జిఓఐ) మరియు ఎన్సిఇఆర్టి మరియు యుజిసి వంటి ఇతర జాతీయ సంస్థల మధ్య ప్రాథమిక అనుసంధానకర్తగా వ్యవహరించండి.",
+            "పాఠశాల విద్యొక్క అన్ని స్థాయిలలో విద్యా మౌలిక సదుపాయాలు, ఉపాధ్యాయుల నాణ్యత మరియు అభ్యాస ఫలితాలను మెరుగుపరచడానికి చొరవలను అమలు చేయండి.",
+            "పథకాల అమలు, విధానపరమైన ప్రతిస్పందన మరియు సామర్థ్యాన్ని పెంపొందించడానికి రాష్ట్ర ప్రభుత్వాలతో సమన్వయం, ముఖ్యంగా గుజరాత్ మరియు మహారాష్ట్ర వంటి పొరుగు రాష్ట్రాలతో అంతర్-రాష్ట్ర విద్యా విషయాల కోసం.",
+            "విద్యా కార్యక్రమాల పురోగతిని అంచనా వేయడానికి మరియు వ్యూహాత్మక దిశను అందించడానికి ఉన్నత స్థాయి సమీక్ష సమావేశాలకు అధ్యక్షత వహించండి."
+        ],
+        "activities": [
+            "విధాన పత్రాలు మరియు క్యాబినెట్ నోట్లను ఆమోదించడం.",
+            "విద్యాశాఖ డైరెక్టర్ మరియు ఇతర సీనియర్ అధికారులతో సమీక్ష సమావేశాలు నిర్వహించడం.",
+            "విద్యపై జాతీయ స్థాయి సమావేశాలు మరియు సమావేశాలలో యుటి కి ప్రాతినిధ్యం వహించడం.",
+            "శాఖ కోసం వార్షిక సామర్థ్య నిర్మాణ ప్రణాళిక (ఎసిబిపి) ను ఖరారు చేయడం.",
+            "పెద్ద ఎత్తున సేకరణ మరియు మౌలిక సదుపాయాల ప్రాజెక్టులను పర్యవేక్షించడం.",
+            "ఉన్నత స్థాయి ప్రజా ఫిర్యాదులు మరియు పార్లమెంటరీ విషయాలను పరిష్కరించడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy design/ amendment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Cabinet note preparation",
+                "sub_theme": "Rules of business (AoB/ToB)"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Policy Formulation",
+                "sub_theme": "Adapting National Education Policy (NEP) 2020 to the UT's specific demographic and geographic context."
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Architecture",
+                "sub_theme": "Designing and structuring UT-specific schemes for student welfare, scholarships, and digital education."
+            },
+            {
+                "type": "Domain",
+                "theme": "Strategic Management",
+                "sub_theme": "Implementation and oversight of Samagra Shiksha Abhiyan across the UT."
+            },
+            {
+                "type": "Domain",
+                "theme": "Legislative & Regulatory Framework",
+                "sub_theme": "Ensuring compliance with the Right of Children to Free and Compulsory Education (RTE) Act, 2009."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial & Administrative Management",
+                "sub_theme": "Application of General Financial Rules (GFR) 2017 in large-scale educational projects and procurements."
+            },
+            {
+                "type": "Domain",
+                "theme": "Inter-Governmental Coordination",
+                "sub_theme": "Liaison with Ministry of Education (GoI), NCERT, and Western Zonal Council for policy alignment and resource mobilization."
+            },
+            {
+                "type": "Domain",
+                "theme": "International Best Practices",
+                "sub_theme": "Alignment of UT education goals with UN Sustainable Development Goal 4 (Quality Education)."
+            }
+        ],
+        "sort_order": 1,
+        "created_at": "2025-12-19T11:26:47.399562+00:00",
+        "updated_at": "2025-12-19T11:28:11.815008+00:00",
+        "cbp_plans": [
+            {
+                "id": "a5cd4de2-608b-4a8a-86c9-67310005aac3",
+                "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+                "created_at": "2025-12-19T11:29:53.912568+00:00",
+                "updated_at": "2025-12-19T11:29:53.912568+00:00",
+                "selected_courses": [
+                    {
+                        "course": "AI Led Digital Transformation in Education",
+                        "duration": "4500",
+                        "is_public": false,
+                        "rationale": "సాంకేతిక పరిజ్ఞానం ద్వారా విద్యా రంగాన్ని ఆధునీకరించడానికి మరియు మెరుగుపరచడానికి కార్యదర్శి (విద్య) యొక్క వ్యూహాత్మక బాధ్యతలతో ఈ కోర్సు నేరుగా సమలేఖనం చేయబడింది.",
+                        "relevancy": 100,
+                        "identifier": "do_114123363095871488110",
+                        "competencies": [
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Emerging Technology Synthesis",
+                                "competencySubThemeName": "Emerging Technology Synthesis"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Emerging Technology",
+                                "competencySubThemeName": "Emerging Technology"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Artificial Intelligence Application",
+                                "competencySubThemeName": "Artificial Intelligence Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology Application",
+                                "competencySubThemeName": "Technology Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology Infrastructure Management and Integration",
+                                "competencySubThemeName": "Technology Infrastructure Management and Integration"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology and Systems Application",
+                                "competencySubThemeName": "Technology and Systems Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology roadmapping",
+                                "competencySubThemeName": "Technology roadmapping"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology-enabled Learning Delivery",
+                                "competencySubThemeName": "Technology-enabled Learning Delivery"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Cyber Security",
+                                "competencySubThemeName": "Cyber Security"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Data Analytics",
+                                "competencySubThemeName": "Data Analysis & Visualization"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Data Management",
+                                "competencySubThemeName": "Data Management"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Decision-making support systems",
+                                "competencySubThemeName": "Decision-making support systems"
+                            }
+                        ],
+                        "organisation": [
+                            "Wadhwani Foundation"
+                        ]
+                    },
+                    {
+                        "course": "Delegation of Authority in Government Administration",
+                        "duration": "5100",
+                        "is_public": false,
+                        "rationale": "కార్యదర్శి వంటి సీనియర్ అడ్మినిస్ట్రేటర్కు సమర్థవంతమైన కార్యకలాపాలు మరియు జవాబుదారీతనాన్ని నిర్ధారిస్తూ, పెద్ద విభాగాన్ని సమర్థవంతంగా నిర్వహించడం చాలా అవసరం.",
+                        "relevancy": 95,
+                        "identifier": "do_1140307107923312641183",
+                        "competencies": [
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Outcome Orientation",
+                                "competencySubThemeName": "Accountability"
+                            },
+                            {
+                                "competencyAreaName": "Functional",
+                                "competencyThemeName": "Financial Management",
+                                "competencySubThemeName": "Financial Management"
+                            },
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Decision Making",
+                                "competencySubThemeName": "Sound Judgement"
+                            },
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Operational Excellence",
+                                "competencySubThemeName": "Process Excellence"
+                            },
+                            {
+                                "competencyAreaName": "Functional",
+                                "competencyThemeName": "Office Management",
+                                "competencySubThemeName": "Office Procedures"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "General Management",
+                                "competencySubThemeName": "General Management"
+                            }
+                        ],
+                        "organisation": [
+                            "Institute of Secretariat Training and Management"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "8b0a37b5-88c9-4ab0-8100-e2891cfca0a0",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "డైరెక్టర్ (విద్య)",
+        "status": "COMPLETED",
+        "wing_division_section": "డైరెక్టరేట్ ఆఫ్ ఎడ్యుకేషన్ (ప్రధాన కార్యాలయం)",
+        "role_responsibilities": [
+            "డైరెక్టరేట్ ఆఫ్ ఎడ్యుకేషన్ యొక్క మొత్తం కార్యాచరణ మరియు విద్యా నిర్వహణకు బాధ్యత వహించే విభాగానికి అధిపతిగా పనిచేయడం.",
+            "కేంద్రపాలిత ప్రాంతంలో అన్ని విద్యా విధానాలు, కార్యక్రమాలు మరియు పథకాల (ఉదాహరణకు సమగ్ర శిక్షా, పిఎం పోషణ్) అమలును అమలు చేయడం మరియు పర్యవేక్షించడం.",
+            "డైరెక్టరేట్ మరియు అధీన కార్యాలయాల యొక్క అన్ని పరిపాలనా, స్థాపన మరియు ఆర్థిక విషయాలను నిర్వహించండి.",
+            "అన్ని ప్రభుత్వ మరియు ప్రభుత్వ సహాయంతో నడిచే పాఠశాలల పనితీరును పర్యవేక్షించడం, విద్యా ప్రమాణాలు మరియు నాణ్యతను నిర్ధారించడం.",
+            "ఉపాధ్యాయుల నియామకం, శిక్షణ, నియామకం మరియు పనితీరు నిర్వహణను పర్యవేక్షించండి.",
+            "డైరెక్టరేట్ లోని సిబ్బంది అందరికీ వార్షిక సామర్థ్య నిర్మాణ ప్రణాళిక (ఎసిబిపి) ను అమలు చేయండి.",
+            "పథకాల అమలు, విధానపరమైన ప్రతిస్పందన మరియు సామర్థ్యాన్ని పెంపొందించడానికి రాష్ట్ర ప్రభుత్వాలతో సమన్వయం.",
+            "సి. పి. జి. ఆర్. ఏ. ఎం. ఎస్. ద్వారా విద్యకు సంబంధించిన ప్రజా ఫిర్యాదులను సకాలంలో పరిష్కరించేలా చూసుకోవాలి."
+        ],
+        "activities": [
+            "పరిపాలనా మరియు ఆర్థిక ఆంక్షలను జారీ చేయడం.",
+            "పాఠశాలలు మరియు విద్యా కార్యాలయాలలో తనిఖీలు నిర్వహించడం.",
+            "డిపార్ట్మెంటల్ ప్రమోషన్ కమిటీలు (డిపిసిలు) మరియు రిక్రూట్మెంట్ బోర్డులకు అధ్యక్షత వహించడం.",
+            "బోధన మరియు బోధనేతర సిబ్బంది బదిలీలు మరియు నియామకాలను నిర్వహించడం.",
+            "జాయింట్/డిప్యూటీ డైరెక్టర్లతో పథకం అమలు పురోగతిని సమీక్షించడం.",
+            "పార్లమెంటరీ మరియు అసెంబ్లీ ప్రశ్నలను నిర్వహించడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Inspiring others"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Relationship Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Government Program Formulation",
+                "sub_theme": "Implementation & Outreach"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Establishment Matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Implementation",
+                "sub_theme": "Operational management of the PM POSHAN (Mid-Day Meal) Scheme, ensuring nutritional and quality standards."
+            },
+            {
+                "type": "Domain",
+                "theme": "Educational Administration",
+                "sub_theme": "Management of school systems, teacher allocation, and academic calendar for the UT."
+            },
+            {
+                "type": "Domain",
+                "theme": "Curriculum Management",
+                "sub_theme": "Overseeing the implementation of the National Curriculum Framework (NCF) and SCERT guidelines in schools."
+            },
+            {
+                "type": "Domain",
+                "theme": "HR Management in Education",
+                "sub_theme": "Managing teacher recruitment processes, transfers, promotions, and APARs."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Management",
+                "sub_theme": "Managing scheme funds through the Public Financial Management System (PFMS)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Infrastructure Development",
+                "sub_theme": "Supervision of civil works for school construction and upgradation under Samagra Shiksha and PM SHRI."
+            }
+        ],
+        "sort_order": 2,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "92a11dc1-448e-48c5-8bbe-369b952b69d7",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "జాయింట్ డైరెక్టర్ (విద్య)",
+        "status": "COMPLETED",
+        "wing_division_section": "అకాడెమిక్ & ప్లానింగ్ వింగ్",
+        "role_responsibilities": [
+            "డైరెక్టరేట్ యొక్క విద్యా మరియు ప్రణాళిక విధులను పర్యవేక్షించడంలో డైరెక్టర్కు సహాయం చేయండి.",
+            "పాఠ్యప్రణాళిక నవీకరణలు మరియు బోధనా మార్పులతో సహా ఎన్ఈపీ 2020 ప్రకారం విద్యా సంస్కరణల అమలుకు నాయకత్వం వహించండి.",
+            "స్టేట్ కౌన్సిల్ ఆఫ్ ఎడ్యుకేషనల్ రీసెర్చ్ అండ్ ట్రైనింగ్ (ఎస్సిఇఆర్టి)/సమానమైన సంస్థ పనితీరును పర్యవేక్షించడం.",
+            "ఉపాధ్యాయ శిక్షణా కార్యక్రమాల ప్రణాళిక మరియు అమలు మరియు నిరంతర వృత్తిపరమైన అభివృద్ధిని పర్యవేక్షించండి.",
+            "అభ్యాస ఫలితాలను పర్యవేక్షించండి మరియు పరిష్కార బోధన మరియు మద్దతును అమలు చేయడానికి పాఠశాలలతో సమన్వయం చేయండి.",
+            "అన్ని విద్యా పథకాలకు ప్రణాళిక, డేటా సేకరణ (యుడిఐఎస్ఇ +) మరియు నివేదికలను నిర్వహించండి.",
+            "పథకాల అమలు, విధానపరమైన ప్రతిస్పందన మరియు సామర్థ్యాన్ని పెంపొందించడానికి రాష్ట్ర ప్రభుత్వాలతో సమన్వయం.",
+            "డైరెక్టర్ కేటాయించినిర్దిష్ట ప్రధాన కార్యక్రమాలకు నోడల్ అధికారిగా వ్యవహరించండి."
+        ],
+        "activities": [
+            "వార్షిక విద్యా క్యాలెండర్ను అభివృద్ధి చేయడం.",
+            "ఉపాధ్యాయులు మరియు ప్రధానోపాధ్యాయుల కోసం వర్క్షాప్లు మరియు శిక్షణను నిర్వహించడం.",
+            "పోకడలు మరియు అంతరాలను గుర్తించడానికి విద్యార్థి అసెస్మెంట్ డేటాను విశ్లేషించడం.",
+            "కేంద్ర పథకాల కోసం ప్రతిపాదనలు మరియు వినియోగ ధృవీకరణ పత్రాలను సిద్ధం చేయడం.",
+            "పాఠ్యపుస్తకం మరియు పాఠ్యప్రణాళిక అమరికోసం ఎన్. సి. ఈ. ఆర్. టి. తో సమన్వయం.",
+            "విద్యా నాణ్యతను పర్యవేక్షించడానికి పాఠశాలలను తనిఖీ చేయడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Creativity & Innovation",
+                "sub_theme": "Transformation Orientation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Mentoring"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Presentation Skills"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Creation of M&E Framework"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Planning"
+            },
+            {
+                "type": "Domain",
+                "theme": "Academic Planning",
+                "sub_theme": "Developing and implementing strategies for the NIPUN Bharat Mission for Foundational Literacy & Numeracy (FLN)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Management & Reporting",
+                "sub_theme": "Management and analysis of UDISE+ (Unified District Information System for Education Plus) data for planning."
+            },
+            {
+                "type": "Domain",
+                "theme": "Teacher Professional Development",
+                "sub_theme": "Designing and managing training modules on the DIKSHA platform for continuous teacher development."
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Management",
+                "sub_theme": "Formulating the Annual Work Plan & Budget (AWP&B) for Samagra Shiksha."
+            },
+            {
+                "type": "Domain",
+                "theme": "Assessment & Evaluation",
+                "sub_theme": "Overseeing the conduct and analysis of the National Achievement Survey (NAS) and State Level Achievement Survey (SLAS)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Special Education Needs",
+                "sub_theme": "Planning and monitoring provisions for Children with Special Needs (CWSN) under inclusive education."
+            }
+        ],
+        "sort_order": 3,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "34207309-70f3-4a7f-9698-47585b9c8550",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "డిప్యూటీ డైరెక్టర్ (విద్య)",
+        "status": "COMPLETED",
+        "wing_division_section": "పరిపాలన మరియు స్థాపన విభాగం",
+        "role_responsibilities": [
+            "నియామకాలు, పదోన్నతులు మరియు సీనియారిటీ జాబితాలతో సహా బోధన మరియు బోధనేతర సిబ్బందికి సంబంధించిన అన్ని స్థాపన విషయాలను నిర్వహించండి.",
+            "కార్యాలయ నిర్వహణ, వస్తువులు/సేవల సేకరణ మరియు నిర్వహణతో సహా డైరెక్టరేట్ యొక్క అన్ని పరిపాలనా విధులను నిర్వహించండి.",
+            "పెన్షన్ కేసులు, క్రమశిక్షణా చర్యలు మరియు విజిలెన్స్ విషయాలను ప్రాసెస్ చేయండి మరియు నిర్వహించండి.",
+            "పరిపాలనా సమస్యలకు సంబంధించిన ఆర్టీఐ దరఖాస్తులు మరియు సీపీజీఆర్ఏఎంఎస్ ఫిర్యాదులను నిర్వహించడానికి నోడల్ అధికారిగా వ్యవహరించండి.",
+            "పారా-వారీగా వ్యాఖ్యలను సిద్ధం చేయడం మరియు న్యాయ సలహాదారులతో సమన్వయం చేయడం వంటి వ్యాజ్యం విషయాలను పర్యవేక్షించండి.",
+            "నియామకాలు మరియు పదోన్నతులలో రిజర్వేషన్ విధానాలకు అనుగుణంగా ఉండేలా చూసుకోండి.",
+            "ప్రైవేట్ ఎయిడెడ్ పాఠశాలలకు గ్రాంట్-ఇన్-ఎయిడ్ పంపిణీని నిర్వహించండి."
+        ],
+        "activities": [
+            "నియామకాలు, డిపిసిలు మరియు పదవీ విరమణలకు సంబంధించిన ఫైళ్ళను ప్రాసెస్ చేయడం.",
+            "ఆర్టీఐ ప్రశ్నలు మరియు ఫిర్యాదుల పిటిషన్లకు ప్రతిస్పందనలను రూపొందించడం.",
+            "జీఈఎం పోర్టల్ ద్వారా సేకరణను నిర్వహించడం.",
+            "విభాగ అధికారులు మరియు పరిపాలనా సిబ్బంది పనిని పర్యవేక్షించడం.",
+            "కోర్టు కేసుల కోసం న్యాయ శాఖతో సంప్రదింపులు.",
+            "స్థాపన విషయాలపై నివేదికలను సకాలంలో సమర్పించేలా చూడటం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Process Excellence"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Personal Effectiveness",
+                "sub_theme": "Stress Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Fundamental Rules /Supplementary Rules"
+            },
+            {
+                "type": "Functional",
+                "theme": "Vigilance Administration",
+                "sub_theme": "Proposal preparation for disciplinary proceedings"
+            },
+            {
+                "type": "Functional",
+                "theme": "Litigation Management",
+                "sub_theme": "Court case management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Procurement Mgmt. through GeM"
+            },
+            {
+                "type": "Domain",
+                "theme": "Service Rules",
+                "sub_theme": "Application of Central Civil Services (CCS) Conduct Rules, 1964 and Classification, Control and Appeal (CCA) Rules, 1965."
+            },
+            {
+                "type": "Domain",
+                "theme": "Reservation Policy",
+                "sub_theme": "Implementation of reservation rosters for SC/ST/OBC/EWS/PwD in recruitment and promotion."
+            },
+            {
+                "type": "Domain",
+                "theme": "Transparency & Accountability",
+                "sub_theme": "Management of RTI requests as per the RTI Act, 2005 and CPGRAMS portal management."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Administration",
+                "sub_theme": "Management of Grants-in-Aid rules and disbursement to eligible institutions."
+            },
+            {
+                "type": "Domain",
+                "theme": "Legal Framework",
+                "sub_theme": "Managing court cases and understanding procedures related to the Central Administrative Tribunal (CAT)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Office Administration",
+                "sub_theme": "Knowledge of e-Office procedures and the Manual of Office Procedure for efficient file management."
+            }
+        ],
+        "sort_order": 4,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "658e0318-52f9-4089-ab19-b80f6887c119",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "విద్యా అధికారి/బ్లాక్ ఎడ్యుకేషన్ ఆఫీసర్",
+        "status": "COMPLETED",
+        "wing_division_section": "క్షేత్ర కార్యాలయం/బ్లాక్ స్థాయి",
+        "role_responsibilities": [
+            "ఒక నిర్దిష్ట భౌగోళిక బ్లాక్ లేదా జోన్లోని డైరెక్టరేట్ మరియు పాఠశాలల మధ్య ప్రాథమిక అనుసంధానంగా వ్యవహరించండి.",
+            "డిపార్ట్మెంటల్ నిబంధనలను పాటించేలా పాఠశాలల్లో క్రమం తప్పకుండా విద్యా, పరిపాలనా తనిఖీలను నిర్వహించండి.",
+            "పాఠశాల స్థాయిలో పీఎం పోషణ్, ఉచిత పాఠ్యపుస్తక పంపిణీ, స్కాలర్షిప్ పంపిణీ వంటి పథకాల అమలును పర్యవేక్షించండి.",
+            "పాఠశాల నిర్వహణ, కమ్యూనిటీ సమీకరణ మరియు పాఠశాల నిర్వహణ కమిటీల (ఎస్ఎంసి) ఏర్పాటులో ప్రధానోపాధ్యాయులకు మద్దతు ఇవ్వండి.",
+            "డైరెక్టరేట్కు సమర్పించడానికి పాఠశాలల నుండి డేటాను సేకరించండి, ధృవీకరించండి మరియు ఏకీకృతం చేయండి (ఉదా. యుడిఐఎస్ఇ + డేటా).",
+            "ఉపాధ్యాయులు, తల్లిదండ్రులు మరియు విద్యార్థుల నుండి స్థానిక స్థాయి సమస్యలు మరియు మనోవేదనలను పరిష్కరించండి.",
+            "బ్లాక్-స్థాయి ఉపాధ్యాయ శిక్షణ, క్రీడా కార్యక్రమాలు మరియు విద్యా పోటీలను నిర్వహించండి మరియు పర్యవేక్షించండి."
+        ],
+        "activities": [
+            "పాఠశాలలను సందర్శించడం మరియు తరగతి గది బోధనను గమనించడం.",
+            "విద్యార్థుల నమోదు మరియు హాజరు రికార్డులను ధృవీకరించడం.",
+            "మధ్యాహ్న భోజన నాణ్యత మరియు పరిశుభ్రతను తనిఖీ చేయడం.",
+            "ఎస్ఎంసి సభ్యులు, గ్రామ నాయకులతో సమావేశాలు నిర్వహించడం.",
+            "వివిధ పథకాల కోసం నెలవారీ పురోగతి నివేదికలను సంకలనం చేయడం.",
+            "బ్లాక్ స్థాయిలో ఉపాధ్యాయుల చిన్న పరిపాలనా సమస్యలను పరిష్కరించడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Responsiveness"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Active Listening"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Initiative and Drive"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Grievance Redressal",
+                "sub_theme": "Public Grievance Handling"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Technical Proposal / Report writing"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grassroots Scheme Monitoring",
+                "sub_theme": "On-field monitoring of PM POSHAN scheme implementation, including food grain lifting and cooking standards."
+            },
+            {
+                "type": "Domain",
+                "theme": "School Supervision",
+                "sub_theme": "Conducting school inspections based on frameworks like Shaala Siddhi (National Programme on School Standards and Evaluation)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Community Engagement",
+                "sub_theme": "Facilitating the functioning of School Management Committees (SMCs) as mandated by the RTE Act, 2009."
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Collection",
+                "sub_theme": "Ensuring accurate and timely data entry for the UDISE+ portal at the block level."
+            },
+            {
+                "type": "Domain",
+                "theme": "Local Administration",
+                "sub_theme": "Coordination with local Panchayati Raj Institutions and municipal bodies for school development."
+            },
+            {
+                "type": "Domain",
+                "theme": "Academic Support",
+                "sub_theme": "Providing on-site academic support to teachers for implementing FLN and other pedagogical initiatives."
+            }
+        ],
+        "sort_order": 5,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "87e21eb9-cffc-44ca-ad6c-76bae735762d",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ప్రిన్సిపాల్/హెడ్ మాస్టర్ (సెకండరీ/హెచ్ఆర్ సెకండరీ)",
+        "status": "COMPLETED",
+        "wing_division_section": "పాఠశాల స్థాయి",
+        "role_responsibilities": [
+            "పాఠశాల యొక్క విద్యా మరియు పరిపాలనా అధిపతిగా పనిచేయండి.",
+            "పాఠ్యప్రణాళిక, కాలపట్టిక మరియు వార్షిక విద్యా ప్రణాళికను సమర్థవంతంగా అమలు చేసేలా చూసుకోండి.",
+            "పనితీరు అంచనా (ఎపిఎఆర్) మరియు సెలవు నిర్వహణతో సహా అన్ని బోధనా మరియు బోధనేతర సిబ్బందిని నిర్వహించండి మరియు పర్యవేక్షించండి.",
+            "విద్యార్థి క్రమశిక్షణ, భద్రత మరియు అనుకూలమైన అభ్యాస వాతావరణాన్ని నిర్వహించండి.",
+            "పాఠశాల గ్రాంట్లు మరియు స్థానిక నిధుల నిర్వహణతో సహా పాఠశాల ఆర్థిక వ్యవహారాలను పర్యవేక్షించండి మరియు డ్రాయింగ్ మరియు పంపిణీ అధికారి (డిడిఓ) గా వ్యవహరించండి.",
+            "తల్లిదండ్రులు, పాఠశాల నిర్వహణ కమిటీ (ఎస్ఎంసి) మరియు స్థానిక సమాజంతో నిమగ్నమవ్వండి.",
+            "అన్ని ప్రభుత్వ పథకాలను సకాలంలో అమలు చేసి, బ్లాక్/డైరెక్టరేట్కు నివేదికలను సమర్పించేలా చూసుకోండి."
+        ],
+        "activities": [
+            "ఉదయం సమావేశాన్ని నిర్వహించడం.",
+            "తరగతి గది బోధనను పర్యవేక్షించడం మరియు అవసరానికి అనుగుణంగా బోధనా వ్యవధులను తీసుకోవడం.",
+            "సిబ్బంది సమావేశాలు మరియు ఎస్ఎంసి సమావేశాలకు అధ్యక్షత వహించడం.",
+            "ప్రవేశం, హాజరు మరియు పరీక్ష ఫలితాలతో సహా పాఠశాల రికార్డులను నిర్వహించడం.",
+            "ప్రయోగశాల పరికరాలు, గ్రంథాలయ పుస్తకాలు మరియు క్రీడా సామగ్రిని సేకరించడం.",
+            "పాఠశాల భవనం మరియు మౌలిక సదుపాయాల నిర్వహణ మరియు నిర్వహణను నిర్ధారించడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Inspiring others"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Resource Management"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Service Excellence (wrt citizens)"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Office Procedures"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling APAR matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Domain",
+                "theme": "School Leadership",
+                "sub_theme": "Developing and implementing a School Development Plan (SDP) in consultation with the SMC."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Management at School Level",
+                "sub_theme": "Managing school composite grants and other funds received under Samagra Shiksha."
+            },
+            {
+                "type": "Domain",
+                "theme": "Pedagogical Leadership",
+                "sub_theme": "Promoting competency-based education and experiential learning as per NEP 2020."
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Safety and Security",
+                "sub_theme": "Implementation of guidelines for child safety in schools, including POSH and anti-bullying policies."
+            },
+            {
+                "type": "Domain",
+                "theme": "Examination and Assessment",
+                "sub_theme": "Conducting internal and external examinations (including CBSE board exams) with integrity."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital School Management",
+                "sub_theme": "Using platforms like UDISE+, PFMS, and DIKSHA for school administration and academic management."
+            }
+        ],
+        "sort_order": 6,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "bc601ffc-5c96-4660-86fd-aa1e9a2582d5",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ఉపాధ్యాయుడు (పీజీటీ/టీజీటీ/పీఆర్టీ)",
+        "status": "COMPLETED",
+        "wing_division_section": "పాఠశాల స్థాయి",
+        "role_responsibilities": [
+            "తగిన బోధనా పద్ధతులు మరియు సహాయాలను ఉపయోగించి తరగతి గదిలో పాఠ్యాంశాలను సమర్థవంతంగా అందించండి.",
+            "రోజువారీ పాఠాలను ప్రణాళిక చేయండి, నిర్మాణాత్మక మరియు సంక్షిప్త మదింపులను నిర్వహించండి మరియు విద్యార్థులకు నిర్మాణాత్మక అభిప్రాయాన్ని అందించండి.",
+            "విద్యార్థుల హాజరు, పురోగతి మరియు పనితీరు రికార్డులను నిర్వహించండి.",
+            "సానుకూల, సమ్మిళిత మరియు ఉత్తేజపరిచే తరగతి గది వాతావరణాన్ని సృష్టించండి.",
+            "సిబ్బంది సమావేశాలు, తల్లిదండ్రుల-ఉపాధ్యాయుల సమావేశాలు మరియు వృత్తిపరమైన అభివృద్ధి కార్యక్రమాలలో పాల్గొనండి.",
+            "సహ పాఠ్యప్రణాళికార్యకలాపాలు, పాఠశాల కార్యక్రమాలు మరియు ప్రధానోపాధ్యాయుడు/ప్రధానోపాధ్యాయుడు కేటాయించిన ఇతర విధులకు సహకరించండి.",
+            "బోధన మరియు అభ్యాస ప్రక్రియలలో సాంకేతికతను ఏకీకృతం చేయండి."
+        ],
+        "activities": [
+            "కాలపట్టిక ప్రకారం విషయాలను బోధించడం.",
+            "పాఠ ప్రణాళికలు మరియు బోధనా సహాయాలను సిద్ధం చేయడం.",
+            "జవాబు పత్రాలు మరియు తరగతి కేటాయింపులను మూల్యాంకనం చేయడం.",
+            "విద్యార్థి పురోగతి గురించి చర్చించడానికి తల్లిదండ్రులతో సంభాషించడం.",
+            "పాఠశాల కార్యక్రమాలు మరియు క్రీడలను నిర్వహించడం మరియు పాల్గొనడం.",
+            "కొత్త బోధనా విధానాలు మరియు డిజిటల్ సాధనాలపై కొనసాగుతున్న శిక్షణ."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Verbal & Non-Verbal Fluency"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Empathy"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Self-Awareness",
+                "sub_theme": "Self-Learning"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Functional",
+                "theme": "Citizen Centricity",
+                "sub_theme": "Design Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Information & Communication Management",
+                "sub_theme": "Dissemination of Information"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Domain",
+                "theme": "Pedagogy and Classroom Management",
+                "sub_theme": "Applying subject-specific teaching methods and managing a diverse classroom."
+            },
+            {
+                "type": "Domain",
+                "theme": "Curriculum Knowledge",
+                "sub_theme": "Understanding and implementing the National Curriculum Framework (NCF) and CBSE/State Board syllabus."
+            },
+            {
+                "type": "Domain",
+                "theme": "Assessment Techniques",
+                "sub_theme": "Using various tools for Continuous and Comprehensive Evaluation (CCE) and competency-based assessment."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Pedagogy",
+                "sub_theme": "Using digital resources from platforms like DIKSHA and SWAYAM in teaching."
+            },
+            {
+                "type": "Domain",
+                "theme": "Inclusive Education",
+                "sub_theme": "Techniques for teaching Children with Special Needs (CWSN) in an inclusive classroom setting."
+            },
+            {
+                "type": "Domain",
+                "theme": "Foundational Learning",
+                "sub_theme": "Implementing activities and assessments related to the NIPUN Bharat mission for early grades (for PRTs)."
+            }
+        ],
+        "sort_order": 7,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "4d9a7520-9c25-4b6d-aeae-0f8fcb114fdb",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "విభాగ అధికారి",
+        "status": "COMPLETED",
+        "wing_division_section": "పరిపాలన/అకౌంట్స్ విభాగం",
+        "role_responsibilities": [
+            "కేటాయించిన విభాగంలో సహాయకులు మరియు క్లర్క్ల పనిని పర్యవేక్షించండి.",
+            "ఆఫీస్ ప్రొసీజర్ మాన్యువల్ ప్రకారం ఫైళ్లు, రికార్డులు మరియు రిజిస్టర్ల సరైనిర్వహణను నిర్ధారించుకోండి.",
+            "సీనియర్ అధికారులకు ఫార్వార్డ్ చేసే ముందు సబార్డినేట్లు సమర్పించిన ఫైళ్లు, నోట్స్ మరియు డ్రాఫ్ట్లను పరిశీలించి, ప్రాసెస్ చేయండి.",
+            "కరస్పాండెన్స్ను నిర్వహించండి, లేఖల డ్రాఫ్ట్లను సిద్ధం చేయండి మరియు సకాలంలో పంపేలా చూసుకోండి.",
+            "ఇ-ఆఫీస్ ఉపయోగించి ఫైళ్ళ కదలికలను పర్యవేక్షించండి మరియు సమయపాలనకు కట్టుబడి ఉండేలా చూసుకోండి.",
+            "నివేదికలు, ప్రకటనలను సిద్ధం చేయడంలో మరియు ఆర్టీఐ/ఫిర్యాదుల కేసులను నిర్వహించడంలో డిప్యూటీ డైరెక్టర్కు సహాయం చేయండి."
+        ],
+        "activities": [
+            "సంబంధిత సహాయకులకు ఇన్కమింగ్ డిఎకె (కరస్పాండెన్స్) ను గుర్తించడం.",
+            "గమనికలు మరియు డ్రాఫ్ట్లను సమీక్షించడం మరియు సంతకం చేయడం.",
+            "నియమాలు మరియు విధానాలపై సిబ్బందికి మార్గనిర్దేశం చేయడం.",
+            "సున్నితమైన పత్రాల గోప్యతను నిర్వహించడం.",
+            "ఇ-ఆఫీసులో ఫైలు స్థితిని ట్రాక్ చేయడం.",
+            "నెలవారీ మరియు త్రైమాసిక నివేదికల కోసం డేటాను సంకలనం చేయడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Sharing constructive feedback"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "E-Office"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Establishment Matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Handling RTI Matters",
+                "sub_theme": "RTI Responsiveness"
+            },
+            {
+                "type": "Domain",
+                "theme": "Office Procedures",
+                "sub_theme": "Expertise in the Manual of Office Procedure (MoP) for file management and correspondence."
+            },
+            {
+                "type": "Domain",
+                "theme": "Service Rules",
+                "sub_theme": "Working knowledge of Fundamental Rules (FR) and Supplementary Rules (SR) for processing leave, travel, and other claims."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Office Management",
+                "sub_theme": "Proficient use of e-Office for file creation, movement, and tracking."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Rules",
+                "sub_theme": "Basic knowledge of General Financial Rules (GFR) for processing bills and procurement proposals."
+            },
+            {
+                "type": "Domain",
+                "theme": "Record Management",
+                "sub_theme": "Knowledge of record retention schedules and procedures for archiving and weeding out old files."
+            },
+            {
+                "type": "Domain",
+                "theme": "Official Language Policy",
+                "sub_theme": "Ensuring compliance with the Official Language Act and Rules in official communications."
+            }
+        ],
+        "sort_order": 8,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "adasd",
+        "id": "ad1d1e90-73eb-45ae-8ea3-78ab24abe12c",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "పరీక్ష",
+        "status": "COMPLETED",
+        "wing_division_section": "ప్రణాళిక మరియు శిక్షణ విభాగం",
+        "role_responsibilities": [
+            "మహిళా మరియు శిశు అభివృద్ధి (డబ్ల్యుసిడి) పథకాల కోసం పర్యవేక్షణ మరియు మూల్యాంకనం (ఎం అండ్ ఇ) చట్రాల అభివృద్ధి మరియు అమలులో సహాయపడటం.",
+            "పోకడలు, అంతరాలు మరియు అంతర్దృష్టులను గుర్తించడానికి పోషణ్ ట్రాకర్ మరియు ఇతర పథకం-నిర్దిష్ట నిర్వహణ సమాచార వ్యవస్థలు (ఎంఐఎస్) వంటి వనరుల నుండి డేటాను విశ్లేషించడం.",
+            "సీనియర్ మేనేజ్మెంట్ మరియు వాటాదారుల కోసం ఆవర్తన పర్యవేక్షణ నివేదికలు, మూల్యాంకనం అధ్యయనాలు మరియు డేటా ఆధారిత విధాన వివరణలను సిద్ధం చేయడం.",
+            "డేటా సేకరణ నియమాలు, సాధనాలు మరియు రిపోర్టింగ్ ప్రమాణాలపై క్షేత్రస్థాయి కార్యకర్తలకు సాంకేతిక మద్దతు మరియు సామర్థ్యాన్ని పెంపొందించడం.",
+            "ఎం & ఇ కార్యకలాపాల యొక్క అంతరాయం లేని డేటా ప్రవాహం మరియు అమరికను నిర్ధారించడానికి వివిధ శాఖల విభాగాలతో (ఐసిడిఎస్, మహిళా సాధికారత, పిల్లల రక్షణ) సమన్వయం.",
+            "ప్రోగ్రామ్ మూల్యాంకనం మరియు డేటా విశ్లేషణ నుండి పొందిన చర్య తీసుకోగల అంతర్దృష్టులను అందించడం ద్వారా సాక్ష్యం ఆధారిత విధాన సూత్రీకరణకు దోహదం చేయడం.",
+            "డిపార్ట్మెంటల్ స్కీమ్లు మరియు మిషన్లకు సంబంధించిన కీలక పనితీరు సూచికల కోసం డేటాబేస్లను నిర్వహించడం మరియు నిర్వహించడం.",
+            "ఆర్టీఐ ప్రశ్నలు, పార్లమెంటరీ ప్రశ్నలు మరియు ఆడిట్ నివేదికలకు ఖచ్చితమైన ప్రోగ్రామ్ డేటాతో ప్రతిస్పందనల తయారీకి మద్దతు ఇవ్వడం"
+        ],
+        "activities": [
+            "క్షేత్ర వినియోగం కోసం ప్రశ్నాపత్రాలు, సర్వే ఫారాలు మరియు చెక్లిస్టులు వంటి డేటా సేకరణ సాధనాలను రూపొందించడం.",
+            "జిల్లాలు మరియు క్షేత్ర విభాగాల నుండి అందుకున్న ప్రోగ్రామటిక్ డేటాను నమోదు చేయడం, శుభ్రపరచడం మరియు ధృవీకరించడం.",
+            "కీలక పనితీరు సూచికల (కెపిఐ) పై విశ్లేషణ చేయడానికి ఎంఎస్ ఎక్సెల్ లేదా ఇతర గణాంక సాఫ్ట్వేర్ వంటి డిజిటల్ సాధనాలను ఉపయోగించడం.",
+            "నెలవారీ, త్రైమాసిక మరియు వార్షిక పురోగతి నివేదికలు మరియు మూల్యాంకనం సారాంశాల విభాగాలను రాయడం.",
+            "ఫలితాలను సమర్థవంతంగా కమ్యూనికేట్ చేయడానికి పటాలు, గ్రాఫ్లు మరియు డాష్బోర్డ్లతో సహా డేటా విజువలైజేషన్లను సృష్టించడం.",
+            "డేటా నాణ్యతను ధృవీకరించడానికి మరియు అట్టడుగు స్థాయిలో అమలు సవాళ్లను అర్థం చేసుకోవడానికి క్షేత్ర సందర్శనలు నిర్వహించడం",
+            "కొత్త ఎం & ఈ సాధనాలు మరియు ప్రక్రియలపై అంగన్వాడీ కార్యకర్తలు మరియు పర్యవేక్షకుల కోసం శిక్షణా వర్క్షాప్లను నిర్వహించడంలో సహాయపడటం. * ఏఐ సూచించబడింది *",
+            "అధికారిక నివేదికలు మరియు ఇంటర్ డిపార్ట్మెంటల్ కమ్యూనికేషన్ల కోసం అవసరమైన డేటాను సంకలనం చేయడం మరియు రూపొందించడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Presentation Skills"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Creation of M&E Framework"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Analysis & Visualization"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Technical Proposal / Report writing"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Domain",
+                "theme": "WCD Program Knowledge",
+                "sub_theme": "Understanding of ICDS, Poshan Abhiyaan, and Beti Bachao Beti Padhao schemes"
+            },
+            {
+                "type": "Domain",
+                "theme": "M&E in Social Sector",
+                "sub_theme": "Knowledge of M&E frameworks for social development programs (e.g., Logic Models, Theory of Change)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Management Systems",
+                "sub_theme": "Proficiency in using government portals like Poshan Tracker and other scheme-specific MIS"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child and Women's Rights Indicators",
+                "sub_theme": "Knowledge of key indicators for child protection and women empowerment (e.g., Child Sex Ratio, Malnutrition rates)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Policy Analysis",
+                "sub_theme": "Ability to connect program data to policy outcomes and suggest improvements"
+            },
+            {
+                "type": "Domain",
+                "theme": "Government Reporting Standards",
+                "sub_theme": "Familiarity with reporting structures for audits, parliamentary queries, and annual reports"
+            }
+        ],
+        "sort_order": 9,
+        "created_at": "2026-01-15T10:05:51.259681+00:00",
+        "updated_at": "2026-01-15T10:05:51.259681+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "sssss",
+        "id": "64e1152d-a240-4960-99fc-e186a06c0c8b",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "జాయింట్ డైరెక్టర్ (పిల్లల రక్షణ)",
+        "status": "COMPLETED",
+        "wing_division_section": "పిల్లల రక్షణ విభాగం",
+        "role_responsibilities": [
+            "ఈ ప్రాంతం అంతటా ఇంటిగ్రేటెడ్ చైల్డ్ ప్రొటెక్షన్ సర్వీసెస్ (ఐసిపిఎస్) పథకం అమలును పర్యవేక్షించండి.",
+            "చైల్డ్ వెల్ఫేర్ కమిటీలు (సిడబ్ల్యుసి) మరియు జువెనైల్ జస్టిస్ బోర్డులు (జెజెబి) తో సహా జువెనైల్ జస్టిస్ యాక్ట్ కింద అన్ని చట్టబద్ధమైన సంస్థల పనితీరును పర్యవేక్షించడం.",
+            "బాధలో ఉన్న పిల్లల కోసం చైల్డ్ హెల్ప్లైన్ (1098) సేవల సమర్థవంతమైనిర్వహణ మరియు ప్రతిస్పందనను నిర్ధారించండి.",
+            "సెంట్రల్ అడాప్షన్ రిసోర్స్ అథారిటీ (CARA) నిబంధనలకు అనుగుణంగా ఉండేలా, దత్తత సంబంధిత అన్ని విషయాలను నిర్వహించండి మరియు పర్యవేక్షించండి.",
+            "పర్యవేక్షణను నిర్వహించండి మరియు అన్ని బాలల సంక్షేమ సంస్థలు (సిడబ్ల్యుఐలు) సూచించిన సంరక్షణ మరియు రక్షణ ప్రమాణాలకు అనుగుణంగా ఉండేలా చూసుకోండి.",
+            "బలమైన పిల్లల రక్షణ పర్యావరణ వ్యవస్థను రూపొందించడానికి చట్ట అమలు, న్యాయవ్యవస్థ మరియు పౌర సమాజ సంస్థలతో సమన్వయం చేసుకోండి.",
+            "పిల్లల దుర్వినియోగం, అక్రమ రవాణా మరియు దోపిడీ నివారణ కోసం రాష్ట్ర స్థాయి వ్యూహాలు మరియు కార్యాచరణ ప్రణాళికలను అభివృద్ధి చేసి అమలు చేయండి.",
+            "అన్ని పిల్లల రక్షణ కార్యక్రమాలకు సంబంధించిన పురోగతి, సవాళ్లు మరియు ఫలితాలపై డైరెక్టర్, డబ్ల్యూసీడీకి నివేదించండి."
+        ],
+        "activities": [
+            "చైల్డ్ వెల్ఫేర్ ఇన్స్టిట్యూషన్స్, అబ్జర్వేషన్ హోమ్స్ మరియు స్పెషల్ హోమ్స్ యొక్క్రమానుగత తనిఖీలు మరియు ఆడిట్లను నిర్వహించడం.",
+            "జిల్లా బాలల రక్షణ విభాగాల (డి. సి. పి. యు) నుండి కేసు ఫైళ్లు మరియు పురోగతి నివేదికలను సమీక్షించడం.",
+            "జోక్యం అవసరమయ్యే పోకడలు మరియు ప్రాంతాలను గుర్తించడానికి చైల్డ్ హెల్ప్లైన్ నుండి డేటాను విశ్లేషించడం.",
+            "పెండింగ్లో ఉన్న దత్తత కేసులను సమీక్షించడానికి మరియు విధానపరమైన అడ్డంకులను పరిష్కరించడానికి సమావేశాలకు అధ్యక్షత వహించడం.",
+            "పిల్లల రక్షణ చట్టాలు మరియు పథకాలను సమర్థవంతంగా అమలు చేయడానికి మార్గదర్శకాలు మరియు సర్క్యులర్లను రూపొందించడం.",
+            "సిడబ్ల్యుసి సభ్యులు, జెజెబి అధికారులు మరియు సిడబ్ల్యుఐ సిబ్బందికి సామర్థ్యాన్ని పెంపొందించే వర్క్షాప్లను నిర్వహించడం.",
+            "రాష్ట్ర స్థాయి సమీక్ష సమావేశాల కోసం మరియు కేంద్ర ప్రభుత్వానికి సమర్పించడానికి వివరణాత్మక నివేదికలు మరియు ప్రదర్శనలను సిద్ధం చేయడం.",
+            "న్యాయపరమైనోటీసులకు ప్రతిస్పందించడం మరియు జేజే చట్టం మరియు పోస్కో చట్టానికి సంబంధించిన విషయాలపై న్యాయవాదులతో సమన్వయం చేయడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Relationship Management"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Empathy"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Litigation Management",
+                "sub_theme": "Legal Know-How"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Protection Legal Frameworks",
+                "sub_theme": "Expertise in Juvenile Justice Act, POCSO Act, and Child Labour (Prohibition and Regulation) Act"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Welfare Schemes & Programs",
+                "sub_theme": "In-depth knowledge of Integrated Child Protection Services (ICPS) and Mission Vatsalya guidelines"
+            },
+            {
+                "type": "Domain",
+                "theme": "Adoption Regulations & Procedures",
+                "sub_theme": "Comprehensive understanding of CARA guidelines and the Hindu Adoptions and Maintenance Act (HAMA)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Institutional Care Standards",
+                "sub_theme": "Knowledge of standards for Child Welfare Institutions (CWIs) and homes as per JJ Model Rules"
+            },
+            {
+                "type": "Domain",
+                "theme": "International Child Rights Conventions",
+                "sub_theme": "Familiarity with the UN Convention on the Rights of the Child (UNCRC) and its optional protocols"
+            },
+            {
+                "type": "Domain",
+                "theme": "Stakeholder Coordination in Child Protection",
+                "sub_theme": "Knowledge of coordinating with Police (SJPU), Judiciary (CWC/JJB), and civil society organizations"
+            }
+        ],
+        "sort_order": 10,
+        "created_at": "2026-01-15T10:06:51.819811+00:00",
+        "updated_at": "2026-01-15T10:06:51.819811+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "test",
+        "id": "25fa1b0b-6e01-4003-ab5c-b633a1a48028",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "డిప్యూటీ డైరెక్టర్/అసిస్టెంట్ డైరెక్టర్",
+        "status": "COMPLETED",
+        "wing_division_section": "మహిళా, శిశు అభివృద్ధి శాఖ",
+        "role_responsibilities": [
+            "డబ్ల్యూసీడీ పథకాల (ఐసిడిఎస్, పోషణ్ అభియాన్, బిబిబిపి) అమలు మరియు పర్యవేక్షణ కోసం జాయింట్ డైరెక్టర్లకు కార్యాచరణ మద్దతును అందించండి.",
+            "ప్రామాణిక పథకం అమలును నిర్ధారించడానికి క్షేత్రస్థాయి కార్యకర్తలకు కార్యాచరణ మార్గదర్శకాలు, సర్క్యులర్లు మరియు సూచనల ముసాయిదా.",
+            "పోషణ్ ట్రాకర్ నుండి డేటాతో సహా జిల్లాల నుండి మేనేజ్మెంట్ ఇన్ఫర్మేషన్ సిస్టమ్ (ఎంఐఎస్) నివేదికలను సంకలనం చేయండి, ధృవీకరించండి మరియు విశ్లేషించండి.",
+            "సేవా పంపిణీని పర్యవేక్షించడానికి మరియు కార్యాచరణ సవాళ్లను గుర్తించడానికి అంగన్వాడీ కేంద్రాలు మరియు ఇతర అమలు ప్రదేశాలకు క్రమం తప్పకుండా క్షేత్ర సందర్శనలు నిర్వహించండి.",
+            "విధాన సమీక్షకు మద్దతుగా డిపార్ట్మెంటల్ ప్రోగ్రామ్లపై ప్రాథమిక మూల్యాంకనం అధ్యయనాలు మరియు ప్రభావ అంచనా నివేదికలను సిద్ధం చేయండి.",
+            "ఎన్ఐపిసిసిడి వంటి సంస్థల సహకారంతో క్షేత్రస్థాయి సిబ్బందికి శిక్షణా కార్యక్రమాలను సమన్వయం చేయడంలో సహాయపడండి.",
+            "ఆర్థిక మరియు పరిపాలనా విషయాలతో సహా పథకం అమలుకు సంబంధించిన ఫైళ్లు మరియు ప్రతిపాదనలను ప్రాసెస్ చేయండి.",
+            "ఆరోగ్యం, పోషణ మరియు విద్యపై ఉమ్మడి చర్య కోసం కార్యాచరణ స్థాయిలో అంతర్-శాఖల సమన్వయాన్ని సులభతరం చేయడం."
+        ],
+        "activities": [
+            "జిల్లా స్థాయి అధికారుల నుండి అందుకున్నెలవారీ పురోగతి నివేదికలను సమీక్షించడం మరియు ఏకీకృతం చేయడం.",
+            "సీనియర్ అధికారుల ఆమోదం కోసం పథకం అమలుకు సంబంధించిన గమనికలు మరియు అధికారిక కరస్పాండెన్స్లను రూపొందించడం.",
+            "అధిక భారం ఉన్న ప్రాంతాలను మరియు సేవా పంపిణీలో పోకడలను గుర్తించడానికి పోషణ్ ట్రాకర్ నుండి డేటాను విశ్లేషించడం.",
+            "సేవల నాణ్యతను మెరుగుపరచడానికి చర్య తీసుకోగల సిఫార్సులతో వివరణాత్మక క్షేత్ర సందర్శన నివేదికలను సిద్ధం చేయడం.",
+            "మూల్యాంకనం అధ్యయన నివేదికలను సిద్ధం చేయడానికి ప్రాథమిక మరియు ద్వితీయ డేటాను సేకరించడం మరియు విశ్లేషించడం.",
+            "శిక్షణ సెషన్ల కోసం లాజిస్టికల్ ఏర్పాట్లు మరియు కంటెంట్ ఫైనలైజేషన్ కోసం రాష్ట్ర ఎటిఐ/ఎన్ఐపిసిసిడితో అనుసంధానం.",
+            "అనుబంధ పోషకాహారం మరియు ఇతర పథకం సంబంధిత సామగ్రి సేకరణ కోసం ప్రతిపాదనలను పరిశీలించడం.",
+            "పర్యవేక్షణలో నిర్దిష్ట పథకాలకు సంబంధించిన ఆర్టీఐ ప్రశ్నలకు, పార్లమెంటరీ ప్రశ్నలకు సమాధానం ఇవ్వడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Analysis & Visualization"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "WCD Program Management",
+                "sub_theme": "Implementation of ICDS and Poshan Abhiyaan"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Nutrition & Health",
+                "sub_theme": "Monitoring of Supplementary Nutrition Protocols"
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Governance in WCD",
+                "sub_theme": "Poshan Tracker Data Management and Analysis"
+            },
+            {
+                "type": "Domain",
+                "theme": "Social Sector M&E",
+                "sub_theme": "Field-Level Monitoring and Evaluation Techniques"
+            },
+            {
+                "type": "Domain",
+                "theme": "Women Empowerment",
+                "sub_theme": "SHG Formation and Livelihood Promotion"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Protection Frameworks",
+                "sub_theme": "Operational Knowledge of ICPS and Juvenile Justice Act"
+            }
+        ],
+        "sort_order": 11,
+        "created_at": "2026-01-15T10:11:51.500680+00:00",
+        "updated_at": "2026-01-15T10:11:51.500680+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "Test",
+        "id": "0197f397-ffcf-4dac-9abe-15a525446f51",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "సంయుక్త కార్యదర్శి మరియు ఆర్థిక సలహాదారు",
+        "status": "COMPLETED",
+        "wing_division_section": "ఫైనాన్స్ అండ్ అకౌంట్స్ విభాగం, డైరెక్టరేట్ ఆఫ్ ఎడ్యుకేషన్",
+        "role_responsibilities": [
+            "ఆర్థిక చిక్కులకు సంబంధించిన అన్ని విషయాలపై విద్యా కార్యదర్శి/డైరెక్టర్కు ప్రధాన ఆర్థిక సలహాదారుగా పనిచేయండి.",
+            "విద్యా విధానాలు, పథకాలకు అనుగుణంగా విద్యా శాఖ వార్షిక బడ్జెట్ను రూపొందించడాన్ని పర్యవేక్షించండి.",
+            "సమగ్ర శిక్షా, పీఎం-పోషణ్ వంటి కేంద్ర ప్రాయోజిత పథకాలకు, వివిధ స్కాలర్షిప్ కార్యక్రమాలకు కేటాయింపు, నిధుల విడుదలను నిర్వహించండి.",
+            "ఆర్థిక యాజమాన్యాన్ని నిర్ధారించడానికి మరియు సాధారణ ఆర్థిక నియమాలకు (జిఎఫ్ఆర్) కట్టుబడి ఉండేలా అన్ని విభాగాలు మరియు విద్యా సంస్థలలో ఖర్చులను పర్యవేక్షించండి.",
+            "వినియోగ ధృవీకరణ పత్రాలను (యుసి) సకాలంలో సమర్పించేలా మరియు అన్ని అంతర్గత మరియు బాహ్య ఆడిట్ పరిశీలనలకు అనుగుణంగా ఉండేలా చూసుకోండి.",
+            "విద్యా రంగంలో కొత్త ప్రాజెక్టులు, సేకరణలు మరియు విధాన కార్యక్రమాలకు ఆర్థిక సమ్మతిని అందించండి.",
+            "కేంద్రపాలిత ప్రాంతంలో జాతీయ విద్యా విధానం (ఎన్ఈపీ) 2020 అమలు కోసం ఆర్థిక ప్రణాళిక మరియు వనరుల సమీకరణకు నాయకత్వం వహించండి.",
+            "డిపార్ట్మెంట్ కోసం ప్రభుత్వ ఖాతాలు, ట్రెజరీ కార్యకలాపాలు మరియు ఆర్థిక నివేదికల నిర్వహణను పర్యవేక్షించండి."
+        ],
+        "activities": [
+            "వివిధ విద్యా విభాగాలు మరియు సంస్థల అధిపతులతో ముందస్తు బడ్జెట్ సంప్రదింపులు నిర్వహించడం.",
+            "పాఠశాలలు మరియు పరిపాలనా విభాగాల నుండి ఆర్థిక ప్రతిపాదనలు, వ్యయ ప్రకటనలు మరియు ఒప్పంద ఒప్పందాలను పరిశీలించడం.",
+            "పబ్లిక్ ఫైనాన్షియల్ మేనేజ్మెంట్ సిస్టమ్ (పిఎఫ్ఎంఎస్) ద్వారా విద్యా పథకాల కోసం నిధుల ప్రవాహాన్ని నిర్వహించడం మరియు నిర్వహించడం.",
+            "అకౌంటెంట్ జనరల్ కార్యాలయం నుండి ఆడిట్ పేరాగ్రాఫ్ల కోసం వివరణాత్మక ప్రతిస్పందనలు మరియు తీసుకున్న చర్యల నివేదికలను (ఎటిఆర్) సిద్ధం చేయడం.",
+            "ప్రభుత్వ ఈ-మార్కెట్ ప్లేస్ (జీఈఎం) ద్వారా విద్యా మౌలిక సదుపాయాలు, సాంకేతికత మరియు సేవల కోసం సేకరణ ప్రతిపాదనలను సమీక్షించడం మరియు ఆమోదించడం.",
+            "వ్యయ ధోరణులను గుర్తించడానికి, అవసరాలను అంచనా వేయడానికి మరియు ఆర్థిక్రమశిక్షణ కోసం చర్యలను సిఫారసు చేయడానికి ఆర్థిక డేటాను విశ్లేషించడం.",
+            "అధీన కార్యాలయాలు మరియు గ్రాంట్-ఇన్-ఎయిడ్ సంస్థలకు ఆర్థిక మార్గదర్శకాలు మరియు సలహాలను రూపొందించడం.",
+            "బడ్జెట్ ఆమోదాలు, పునర్వినియోగాలు మరియు మొత్తం నిధుల ప్రవాహ నిర్వహణ కోసం యుటి ఆర్థిక శాఖతో సంప్రదించడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Contract Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Government accounts"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Financing",
+                "sub_theme": "Knowledge of Centrally Sponsored Schemes (Samagra Shiksha, PM-POSHAN)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management",
+                "sub_theme": "General Financial Rules (GFR) and Delegation of Financial Powers Rules (DFPR)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Policy Implementation",
+                "sub_theme": "Financial Planning for National Education Policy (NEP) 2020"
+            },
+            {
+                "type": "Domain",
+                "theme": "Audit and Compliance",
+                "sub_theme": "Management of Public Accounts Committee (PAC) and Audit Paragraphs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grant-in-Aid Management",
+                "sub_theme": "Rules and Procedures for Grants to Educational Institutions"
+            },
+            {
+                "type": "Domain",
+                "theme": "Treasury and Accounts Management",
+                "sub_theme": "UT Treasury Rules and Accounting Procedures"
+            }
+        ],
+        "sort_order": 12,
+        "created_at": "2026-01-16T06:59:23.720867+00:00",
+        "updated_at": "2026-01-16T06:59:23.720867+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "a456a244-cb07-48de-b6ed-2717795ad691",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "అదనపు కంట్రోలర్ మరియు ఆడిటర్ జనరల్",
+        "status": "COMPLETED",
+        "wing_division_section": "విద్యా రంగ ఆడిట్ విభాగం",
+        "role_responsibilities": [
+            "కేంద్ర మరియు రాష్ట్ర ప్రభుత్వ పథకాలతో సహా విద్యా రంగం యొక్క పనితీరు, సమ్మతి మరియు ఆర్థిక లెక్కల వ్యూహాత్మక ప్రణాళిక మరియు అమలును పర్యవేక్షించడం.",
+            "ఆడిట్ బృందాలకు నాయకత్వం మరియు దిశను అందించడం, సిఎజి మరియు ఐఎన్టిఒఎస్ఎఐ సూచించిన విధంగా పబ్లిక్ ఆడిట్ యొక్క అత్యున్నత ప్రమాణాలకు కట్టుబడి ఉండేలా చూసుకోవడం.",
+            "ముసాయిదా ఆడిట్ నివేదికలను సమీక్షించడం మరియు ఆమోదించడం, ఫలితాలు సాక్ష్యం ఆధారితమైనవి, ప్రభావవంతమైనవి మరియు వ్యవస్థాగత మెరుగుదలకు చర్య తీసుకోగల సిఫార్సులను అందిస్తాయి.",
+            "గణనీయమైన ఆడిట్ ఫలితాలను చర్చించడానికి మరియు సుపరిపాలనను ప్రోత్సహించడానికి సీనియర్ ప్రభుత్వ అధికారులతో (ఉదాహరణకు, భారత ప్రభుత్వ కార్యదర్శులు, ప్రధాన కార్యదర్శులు) నిమగ్నమవ్వడం.",
+            "ఉన్నత స్థాయి జాతీయ, అంతర్జాతీయ వేదికలలో భారత సిఎజికి ప్రాతినిధ్యం వహించడం, ఆడిట్ నివేదికలపై పబ్లిక్ అకౌంట్స్ కమిటీ (పిఎసి) వంటి పార్లమెంటరీ కమిటీలకు వివరణ ఇవ్వడం.",
+            "డేటా విశ్లేషణలు, ఫోరెన్సిక్ ఆడిట్ పద్ధతులు మరియు ఇతర అభివృద్ధి చెందుతున్న సాంకేతిక పరిజ్ఞానాల స్వీకరణ ద్వారా ఆడిట్ పద్ధతులలో ఆవిష్కరణలను నడపడం.",
+            "విద్యా మంత్రిత్వ శాఖ మరియు సంబంధిత సంస్థలకు సంబంధించిన సిఎజి వార్షిక ఆడిట్ నివేదిక అధ్యాయాల తయారీకి మార్గనిర్దేశం చేయడం.",
+            "విద్యా ఆడిట్ పరిధిలో సీనియర్ అధికారుల (డైరెక్టర్ జనరల్, ప్రిన్సిపల్ డైరెక్టర్లు) సామర్థ్యాన్ని మార్గనిర్దేశం చేయడం మరియు అభివృద్ధి చేయడం."
+        ],
+        "activities": [
+            "విద్యా రంగానికి వార్షిక ఆడిట్ ప్రణాళిక మరియు ప్రమాద అంచనా ఫ్రేమ్వర్క్ను ఆమోదించడం.",
+            "జాతీయ విద్యా పథకాల (ఉదా. సమగ్ర శిక్షా, పి. ఎం. ఎస్. హెచ్. ఆర్. ఐ) ప్రధాన పనితీరు లెక్కల కోసం ప్రవేశ మరియు నిష్క్రమణ సమావేశాలకు అధ్యక్షత వహించడం.",
+            "ఆడిట్ చేసిన సంస్థలకు జారీ చేయడానికి ముందు ఆడిట్ పారాస్ మరియు తనిఖీ నివేదికల తుది సమీక్షలను నిర్వహించడం.",
+            "అభ్యాస ఫలితాలు, డిజిటల్ విద్యా మౌలిక సదుపాయాలు మరియు ఉపాధ్యాయ శిక్షణ ప్రభావం వంటి క్లిష్టమైన రంగాలపై నేపథ్య ఆడిట్ నివేదికలను ఖరారు చేయడం.",
+            "పబ్లిక్ అకౌంట్స్ కమిటీ (పిఎసి) ముందు ఆడిట్ నివేదికల రక్షణ కోసం సంక్షిప్త వివరణలను సిద్ధం చేయడం మరియు చర్చలకు నాయకత్వం వహించడం.",
+            "గత ఆడిట్ సిఫార్సులపై మంత్రిత్వ శాఖలు సమర్పించిన చర్య తీసుకున్న గమనికల (ఎటిఎన్) స్థితిని పర్యవేక్షించడం.",
+            "ఆర్థిక అవకతవకలు లేదా దైహిక అసమర్థతలను గుర్తించడానికి డేటా విశ్లేషణలు మరియు ఫోరెన్సిక్ సాధనాల వాడకాన్ని ప్రారంభించడం మరియు పర్యవేక్షించడం.",
+            "విద్య మరియు పబ్లిక్ ఆడిట్ లో అభివృద్ధి చెందుతున్న ధోరణులపై సామర్థ్యాన్ని పెంపొందించే వర్క్షాప్లు మరియు జ్ఞానాన్ని పంచుకునే సెషన్లకు నాయకత్వం వహించడం."
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy monitoring & impact assessment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Handling Parliamentary Matters",
+                "sub_theme": "Submission of briefs, supply of information"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Sector Auditing",
+                "sub_theme": "INTOSAI and CAG's Auditing Standards"
+            },
+            {
+                "type": "Domain",
+                "theme": "Performance Auditing",
+                "sub_theme": "Audit of Government Schemes and Programs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Governance",
+                "sub_theme": "National Education Policy (NEP) and its Implementation Framework"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management (PFM)",
+                "sub_theme": "Government Accounting, Budgeting, and Expenditure Analysis"
+            },
+            {
+                "type": "Domain",
+                "theme": "Parliamentary Oversight",
+                "sub_theme": "Functioning of Public Accounts Committee (PAC) and COPU"
+            },
+            {
+                "type": "Domain",
+                "theme": "Global Education Benchmarks",
+                "sub_theme": "UN Sustainable Development Goals (SDG 4 - Quality Education)"
+            }
+        ],
+        "sort_order": 13,
+        "created_at": "2026-01-16T08:02:18.825070+00:00",
+        "updated_at": "2026-01-16T08:02:18.825070+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "d257f196-f914-40ce-abdc-bcd4ed27ab8c",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "అకౌంట్స్ అదనపు కంట్రోలర్",
+        "status": "COMPLETED",
+        "wing_division_section": "ఫైనాన్స్ అండ్ అకౌంట్స్ విభాగం, డైరెక్టరేట్ ఆఫ్ ఎడ్యుకేషన్",
+        "role_responsibilities": [
+            "ఆర్థిక నిబంధనలకు కట్టుబడి ఉండేలా, డైరెక్టరేట్ ఆఫ్ ఎడ్యుకేషన్ యొక్క ఆర్థిక నిర్వహణ మరియు అకౌంటింగ్ కార్యకలాపాలను పర్యవేక్షించండి. (ఏఐ సూచించింది)",
+            "ఉన్నత అధికారులకు సమర్పించడానికి డిపార్ట్మెంటల్ బడ్జెట్లు, సవరించిన అంచనాలు మరియు వ్యయ నివేదికలను సకాలంలో సిద్ధం చేయడం మరియు ఏకీకృతం చేయడం నిర్వహించండి. (ఏఐ సూచించింది)",
+            "సమగ్ర శిక్షా మరియు మధ్యాహ్న భోజనం వంటి కేంద్ర ప్రాయోజిత మరియు యుటి-నిర్దిష్ట విద్యా పథకాల కోసం నిధుల పంపిణీ, వినియోగం మరియు పర్యవేక్షణను పర్యవేక్షించండి. (ఏఐ సూచించింది)",
+            "డైరెక్టరేట్ పరిధిలోని అన్ని బోధనా మరియు బోధనేతర సిబ్బందికి పేరోల్, పెన్షన్లు మరియు ఇతర వేతనాల యొక్క ఖచ్చితమైన మరియు సకాలంలో ప్రాసెసింగ్ను నిర్ధారించండి. (ఏఐ సూచించింది)",
+            "అంతర్గత మరియు ఏజీ ఆడిట్ రెండింటి నుండి పరిశీలనలకు అనుగుణంగా ఉండేలా అన్ని ఆడిట్ విషయాలకు సంప్రదింపు ప్రాథమికేంద్రంగా వ్యవహరించండి. (ఏఐ సూచించింది)",
+            "కొత్త ప్రతిపాదనలు, వనరుల కేటాయింపు మరియు విధానిర్ణయాల యొక్క ఆర్థిక చిక్కులపై విద్యా డైరెక్టర్కు నిపుణుల ఆర్థిక సలహాలను అందించండి. (ఏఐ సూచించింది)",
+            "విద్యా మౌలిక సదుపాయాల ప్రాజెక్టుల ఆర్థిక పురోగతిని మరియు పెద్ద ఎత్తున సేకరణను పర్యవేక్షించడం, డబ్బుకు విలువను నిర్ధారించడం మరియు జిఎఫ్ఆర్కు కట్టుబడి ఉండటం. (ఏఐ సూచించింది)"
+        ],
+        "activities": [
+            "వివిధ విద్యా మండలాలు మరియు సంస్థల నుండి అందుకున్నెలవారీ మరియు త్రైమాసిక వ్యయ నివేదికలను సమీక్షించడం మరియు ఆమోదించడం. (ఏఐ సూచించింది)",
+            "పబ్లిక్ ఫైనాన్షియల్ మేనేజ్మెంట్ సిస్టమ్ (పిఎఫ్ఎంఎస్) పోర్టల్ ద్వారా అన్ని శాఖల లావాదేవీలను నిర్వహించడం మరియు నిర్వహించడం. (ఏఐ సూచించింది)",
+            "బడ్జెట్ కేటాయింపు, నిధుల పునర్వినియోగం మరియు అనుబంధ నిధుల కోసం వివరణాత్మక ప్రతిపాదనలను సిద్ధం చేయడం. (ఏఐ సూచించింది)",
+            "ప్రభుత్వ-ఎయిడెడ్ పాఠశాలలకు గ్రాంట్-ఇన్-ఎయిడ్ బిల్లులను ధృవీకరించడం మరియు ప్రాసెస్ చేయడం మరియు సకాలంలో నిధులను విడుదల చేసేలా చూడటం. (ఏఐ సూచించింది)",
+            "చట్టబద్ధమైన ఆడిట్ సంస్థలు లేవనెత్తిన ఆడిట్ పారాస్ కోసం సమగ్ర ప్రతిస్పందనలు మరియు సమ్మతి నివేదికలను రూపొందించడం. (ఏఐ సూచించింది)",
+            "ఆర్థిక్రమశిక్షణను నిర్ధారించడానికి ఆవర్తన అంతర్గత ఆర్థిక సమీక్షలు మరియు అధీన కార్యాలయాల తనిఖీలను నిర్వహించడం. (ఏఐ సూచించింది)",
+            "నియమాల సమ్మతి మరియు ఆర్థిక సాధ్యత కోసం కొత్త విద్యా కార్యక్రమాల కోసం ఆర్థిక ప్రతిపాదనలను పరిశీలించడం. (ఏఐ సూచించింది)",
+            "ఖచ్చితత్వాన్ని నిర్ధారించడానికి ట్రెజరీ మరియు బ్యాంక్ స్టేట్మెంట్లతో డిపార్ట్మెంటల్ ఖాతాల సయోధ్యను పర్యవేక్షించడం. (ఏఐ సూచించింది)"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Resource Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Government accounts"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "PFMS Portal Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Contract Management"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Financing",
+                "sub_theme": "Scheme Fund Management (Samagra Shiksha, MDM)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management (UT)",
+                "sub_theme": "UT Treasury Rules and Accounting Codes"
+            },
+            {
+                "type": "Domain",
+                "theme": "Audit and Compliance",
+                "sub_theme": "Statutory and Internal Audit in Government Education Sector"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grant-in-Aid Management",
+                "sub_theme": "Rules and Procedures for Aided Educational Institutions"
+            },
+            {
+                "type": "Domain",
+                "theme": "Employee Emoluments Management",
+                "sub_theme": "Pay Fixation, Pension, and GPF Rules for UT Employees"
+            },
+            {
+                "type": "Domain",
+                "theme": "Infrastructure Project Accounting",
+                "sub_theme": "Capital Expenditure and Works Accounts Management"
+            }
+        ],
+        "sort_order": 14,
+        "created_at": "2026-01-16T08:06:07.917101+00:00",
+        "updated_at": "2026-01-16T08:06:07.917101+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "6ccfac1f-4977-49ef-b4f9-b27b2ae56cff",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "అదనపు కంట్రోలర్ మరియు ఆడిటర్ జనరల్",
+        "status": "COMPLETED",
+        "wing_division_section": "భారత కంప్ట్రోలర్ మరియు ఆడిటర్ జనరల్ కార్యాలయం",
+        "role_responsibilities": [
+            "కేంద్ర మరియు రాష్ట్ర ప్రభుత్వాల పనితీరు, సమ్మతి మరియు ఆర్థిక లెక్కల ప్రణాళిక మరియు అమలును పర్యవేక్షించండి",
+            "జాతీయ ప్రాధాన్యతలు మరియు అంతర్జాతీయ ఉత్తమ పద్ధతులకు (ఐఎన్టీఓఎస్ఏఐ) అనుగుణంగా ఆడిట్ విధానాలు, ప్రమాణాలు మరియు పద్ధతులను రూపొందించండి మరియు నవీకరించండి",
+            "ఆడిట్ నాణ్యత మరియు ప్రభావాన్ని పెంచడానికి ఇండియన్ ఆడిట్ అండ్ అకౌంట్స్ డిపార్ట్మెంట్ (ఐఏ & ఏడీ) కు వ్యూహాత్మక దిశను మరియు నాయకత్వాన్ని అందించండి",
+            "పార్లమెంటు/రాష్ట్ర శాసనసభలకు సమర్పించడానికి రాష్ట్రపతి/గవర్నర్లకు కీలక ఆడిట్ నివేదికలను ఖరారు చేసి, సమర్పించడాన్ని పర్యవేక్షించండి",
+            "ఇతర దేశాల సుప్రీం ఆడిట్ ఇన్స్టిట్యూషన్స్ (ఎస్ఏఐ), ఐక్యరాజ్యసమితి, ప్రపంచ బ్యాంకు వంటి ప్రపంచ సంస్థలతో అంతర్జాతీయ సంబంధాలు, సహకారాలను నిర్వహించండి",
+            "నిరంతర మెరుగుదల సంస్కృతిని పెంపొందించడానికి ఐఎ & ఎడి లోపల సామర్థ్యాన్ని పెంపొందించడం, శిక్షణ మరియు డిజిటల్ పరివర్తన కార్యక్రమాలకు నాయకత్వం వహించండి. * ఏఐ సూచించబడింది *",
+            "అన్ని క్షేత్ర కార్యాలయాలలో మొత్తం ఆడిట్ ప్రక్రియొక్క సమగ్రత, స్వాతంత్ర్యం మరియు నాణ్యత హామీని నిర్ధారించండి"
+        ],
+        "activities": [
+            "వివిధ మంత్రిత్వ శాఖలు, విభాగాలు మరియు ప్రభుత్వ రంగ సంస్థల వార్షిక ఆడిట్ ప్రణాళికలను సమీక్షించడం మరియు ఆమోదించడం",
+            "గణనీయమైన ఆడిట్ ఫలితాలపై చర్చించడానికి మరియు డ్రాఫ్ట్ ఆడిట్ నివేదికలను ఖరారు చేయడానికి ఉన్నత స్థాయి సమావేశాలకు అధ్యక్షత వహించడం. * ఏఐ సూచించబడింది *",
+            "పర్యావరణ ఆడిట్, ఐటి ఆడిట్ మరియు డేటా అనలిటిక్స్ వంటి అభివృద్ధి చెందుతున్న ఆడిట్ రంగాలపై అధికారిక మార్గదర్శకాలు మరియు మాన్యువల్లను జారీ చేయడం",
+            "జోనల్ మరియు స్టేట్ అకౌంటెంట్ జనరల్ (ఏజీ) కార్యాలయాల పనితీరును క్రమానుగతంగా సమీక్షించడం. * ఏఐ సూచించబడింది *",
+            "క్లిష్టమైన ఆడిట్ పరిశీలనలు మరియు సిఫార్సులపై భారత ప్రభుత్వ కార్యదర్శులతో సహా సీనియర్ ప్రభుత్వ అధికారులతో నిమగ్నమవ్వడం. * ఏఐ సూచించబడింది *",
+            "ఉత్తమ పద్ధతులను పంచుకోవడానికి మరియు నేర్చుకోవడానికి ఐఎన్టీఓఎస్ఏఐ మరియు ఏఎస్ఓఎస్ఏఐ వంటి అంతర్జాతీయ సమావేశాలు మరియు ఫోరమ్లలో ప్రముఖ భారతీయ ప్రతినిధులు. * ఏఐ సూచించబడింది *",
+            "నేషనల్ అకాడమీ ఆఫ్ ఆడిట్ అండ్ అకౌంట్స్ (ఎన్ఏఏఏ) మరియు ఇతర ప్రాంతీయ శిక్షణా సంస్థలకు వ్యూహాత్మక ఫ్రేమ్వర్క్ను ఆమోదించడం. * ఏఐ సూచించబడింది *",
+            "ఆడిట్ సామర్థ్యం మరియు ప్రభావాన్ని పెంచడానికి డేటా విశ్లేషణ సాధనాలు మరియు ఐటి వ్యవస్థల అమలును పర్యవేక్షించడం. * ఏఐ సూచించబడింది *"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy monitoring & impact assessment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Financial Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Change Management",
+                "sub_theme": "Change Implementation"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Sector Auditing Standards",
+                "sub_theme": "INTOSAI Framework and C&AG's DPC Act, 1971"
+            },
+            {
+                "type": "Domain",
+                "theme": "Government Financial Management",
+                "sub_theme": "Union & State Government Accounting Rules and FRBM Act"
+            },
+            {
+                "type": "Domain",
+                "theme": "Performance & Compliance Audit",
+                "sub_theme": "Methodologies for Auditing National Schemes and Programs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Specialized Audit Practices",
+                "sub_theme": "Environmental, IT, and Forensic Audit Techniques"
+            },
+            {
+                "type": "Domain",
+                "theme": "International Relations & Global Practices",
+                "sub_theme": "Engagement with Supreme Audit Institutions (SAIs) and UN/World Bank Audit Panels"
+            },
+            {
+                "type": "Domain",
+                "theme": "Parliamentary & Legislative Oversight",
+                "sub_theme": "Processes of Public Accounts Committee (PAC) and Committee on Public Undertakings (COPU)"
+            }
+        ],
+        "sort_order": 14,
+        "created_at": "2026-01-16T08:06:11.604011+00:00",
+        "updated_at": "2026-01-16T08:06:11.604011+00:00",
+        "cbp_plans": []
+    }
+]
