@@ -1,0 +1,1788 @@
+[
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "e48749cb-ed34-464b-be18-cc793acea337",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ସଚିବ (ଶିକ୍ଷା)",
+        "status": "COMPLETED",
+        "wing_division_section": "ସଚିବାଳୟ, ଶିକ୍ଷା ବିଭାଗ",
+        "role_responsibilities": [
+            "ଦାଦ୍ରା ଏବଂ ନାଗର ହାଭେଲି ଏବଂ ଦାମନ ଏବଂ ଡିୟୁଙ୍କ କେନ୍ଦ୍ରଶାସିତ ଅଞ୍ଚଳ ପାଇଁ ଶିକ୍ଷା ବିଭାଗର ପ୍ରଶାସନିକ ମୁଖ୍ୟ ଭାବରେ କାର୍ଯ୍ୟ କରନ୍ତୁ |",
+            "ଜାତୀୟ ଶିକ୍ଷା ନୀତି (NEP) 2020 ସହିତ ସମାନ୍ତରାଳ ଭାବରେ ସମସ୍ତ ଶିକ୍ଷାଗତ ନୀତି ଏବଂ କାର୍ଯ୍ୟକ୍ରମଗୁଡିକର ସୂତ୍ର, ରଣନୀତିକ ଯୋଜନା ଏବଂ ତଦାରଖକୁ ଆଗେଇ ନିଅ |",
+            "ସାମାଗ୍ରା ଶିଖା, PM POSHAN, ଏବଂ PM SHRI ବିଦ୍ୟାଳୟ ପରି କେନ୍ଦ୍ରୀୟ ପ୍ରାୟୋଜିତ ଯୋଜନାଗୁଡିକର ପ୍ରଭାବଶାଳୀ କାର୍ଯ୍ୟକାରିତା ଏବଂ ମନିଟରିଂ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "ନିର୍ଦ୍ଦେଶାଳୟର ବଜେଟ୍ ସୂତ୍ର, ଆବଣ୍ଟନ, ଏବଂ ଆର୍ଥିକ ପରିଚାଳନା ଉପରେ ନଜର ରଖନ୍ତୁ, GFR ଏବଂ ଅନ୍ୟାନ୍ୟ ଆର୍ଥିକ ନିୟମାବଳୀକୁ ପାଳନ କରିବା ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "UT ପ୍ରଶାସନ, ଶିକ୍ଷା ମନ୍ତ୍ରଣାଳୟ (ଗୋଇ) ଏବଂ NCERT ଏବଂ UGC ପରି ଅନ୍ୟାନ୍ୟ ଜାତୀୟ ସଂସ୍ଥା ମଧ୍ୟରେ ପ୍ରାଥମିକ ଯୋଗାଯୋଗ ଭାବରେ କାର୍ଯ୍ୟ କରନ୍ତୁ |",
+            "ଶିକ୍ଷାର ଭିତ୍ତିଭୂମି, ଶିକ୍ଷକଙ୍କ ଗୁଣବତ୍ତା, ଏବଂ ବିଦ୍ୟାଳୟର ସମସ୍ତ ସ୍ତରରେ ଶିକ୍ଷଣ ଫଳାଫଳର ଉନ୍ନତି ପାଇଁ ପଦକ୍ଷେପଗୁଡିକ ଚଲାନ୍ତୁ |",
+            "ଯୋଜନା କାର୍ଯ୍ୟକାରୀ, ନୀତି ମତାମତ ଏବଂ ଦକ୍ଷତା ବିକାଶ ପାଇଁ ରାଜ୍ୟ ସରକାରଙ୍କ ସହ ସମନ୍ୱୟ, ବିଶେଷକରି ଗୁଜୁରାଟ ଏବଂ ମହାରାଷ୍ଟ୍ର ପରି ପଡୋଶୀ ରାଜ୍ୟମାନଙ୍କ ସହିତ ଆନ୍ତ - ରାଜ୍ୟ ଶିକ୍ଷାଗତ ଯୋଗ୍ୟତା ପାଇଁ ସମନ୍ୱୟ |",
+            "ଶିକ୍ଷାଗତ ପଦକ୍ଷେପଗୁଡ଼ିକର ଅଗ୍ରଗତି ଆକଳନ କରିବା ଏବଂ ରଣନ strategic ତିକ ଦିଗ ପ୍ରଦାନ କରିବା ପାଇଁ ଉଚ୍ଚ ସ୍ତରୀୟ ସମୀକ୍ଷା ବ meetings ଠକଗୁଡିକ ଚେୟାର କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ନୀତି ଦଲିଲ ଏବଂ କ୍ୟାବିନେଟ୍ ନୋଟ୍ ଅନୁମୋଦନ |",
+            "ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶକ ଏବଂ ଅନ୍ୟାନ୍ୟ ବରିଷ୍ଠ ଅଧିକାରୀଙ୍କ ସହିତ ସମୀକ୍ଷା ବ meetings ଠକ କରିବା |",
+            "ଜାତୀୟ ସ୍ତରର ବ meetings ଠକ ଏବଂ ଶିକ୍ଷା ଉପରେ ଆଲୋଚନାଚକ୍ରରେ UT କୁ ପ୍ରତିନିଧିତ୍ୱ କରିବା |",
+            "ବିଭାଗ ପାଇଁ ବାର୍ଷିକ ଦକ୍ଷତା ବିକାଶ ଯୋଜନା (ACBP) ଚୂଡାନ୍ତ କରିବା |",
+            "ବଡ଼ ଧରଣର କ୍ରୟ ଏବଂ ଭିତ୍ତିଭୂମି ପ୍ରକଳ୍ପର ତଦାରଖ |",
+            "ଉଚ୍ଚ ସ୍ତରୀୟ ଜନସାଧାରଣଙ୍କ ଅଭିଯୋଗ ଏବଂ ସଂସଦୀୟ ପ୍ରସଙ୍ଗକୁ ସମାଧାନ କରିବା |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy design/ amendment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Cabinet note preparation",
+                "sub_theme": "Rules of business (AoB/ToB)"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Policy Formulation",
+                "sub_theme": "Adapting National Education Policy (NEP) 2020 to the UT's specific demographic and geographic context."
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Architecture",
+                "sub_theme": "Designing and structuring UT-specific schemes for student welfare, scholarships, and digital education."
+            },
+            {
+                "type": "Domain",
+                "theme": "Strategic Management",
+                "sub_theme": "Implementation and oversight of Samagra Shiksha Abhiyan across the UT."
+            },
+            {
+                "type": "Domain",
+                "theme": "Legislative & Regulatory Framework",
+                "sub_theme": "Ensuring compliance with the Right of Children to Free and Compulsory Education (RTE) Act, 2009."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial & Administrative Management",
+                "sub_theme": "Application of General Financial Rules (GFR) 2017 in large-scale educational projects and procurements."
+            },
+            {
+                "type": "Domain",
+                "theme": "Inter-Governmental Coordination",
+                "sub_theme": "Liaison with Ministry of Education (GoI), NCERT, and Western Zonal Council for policy alignment and resource mobilization."
+            },
+            {
+                "type": "Domain",
+                "theme": "International Best Practices",
+                "sub_theme": "Alignment of UT education goals with UN Sustainable Development Goal 4 (Quality Education)."
+            }
+        ],
+        "sort_order": 1,
+        "created_at": "2025-12-19T11:26:47.399562+00:00",
+        "updated_at": "2025-12-19T11:28:11.815008+00:00",
+        "cbp_plans": [
+            {
+                "id": "a5cd4de2-608b-4a8a-86c9-67310005aac3",
+                "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+                "created_at": "2025-12-19T11:29:53.912568+00:00",
+                "updated_at": "2025-12-19T11:29:53.912568+00:00",
+                "selected_courses": [
+                    {
+                        "course": "AI Led Digital Transformation in Education",
+                        "duration": "4500",
+                        "is_public": false,
+                        "rationale": "ଟେକ୍ନୋଲୋଜି ମାଧ୍ୟମରେ ଶିକ୍ଷା କ୍ଷେତ୍ରକୁ ଆଧୁନିକୀକରଣ ଏବଂ ଉନ୍ନତି କରିବା ପାଇଁ ଏହି ପାଠ୍ୟକ୍ରମ ସିଧାସଳଖ ସଚିବ (ଶିକ୍ଷା) ର ରଣନୀତିକ ଦାୟିତ୍ with ସହିତ ସମାନ ଅଟେ |",
+                        "relevancy": 100,
+                        "identifier": "do_114123363095871488110",
+                        "competencies": [
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Emerging Technology Synthesis",
+                                "competencySubThemeName": "Emerging Technology Synthesis"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Emerging Technology",
+                                "competencySubThemeName": "Emerging Technology"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Artificial Intelligence Application",
+                                "competencySubThemeName": "Artificial Intelligence Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology Application",
+                                "competencySubThemeName": "Technology Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology Infrastructure Management and Integration",
+                                "competencySubThemeName": "Technology Infrastructure Management and Integration"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology and Systems Application",
+                                "competencySubThemeName": "Technology and Systems Application"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology roadmapping",
+                                "competencySubThemeName": "Technology roadmapping"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Technology-enabled Learning Delivery",
+                                "competencySubThemeName": "Technology-enabled Learning Delivery"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Cyber Security",
+                                "competencySubThemeName": "Cyber Security"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Data Analytics",
+                                "competencySubThemeName": "Data Analysis & Visualization"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Data Management",
+                                "competencySubThemeName": "Data Management"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "Decision-making support systems",
+                                "competencySubThemeName": "Decision-making support systems"
+                            }
+                        ],
+                        "organisation": [
+                            "Wadhwani Foundation"
+                        ]
+                    },
+                    {
+                        "course": "Delegation of Authority in Government Administration",
+                        "duration": "5100",
+                        "is_public": false,
+                        "rationale": "ଏକ ବୃହତ ବିଭାଗକୁ ପ୍ରଭାବଶାଳୀ ଭାବରେ ପରିଚାଳନା କରିବା, ଦକ୍ଷ କାର୍ଯ୍ୟ ଏବଂ ଉତ୍ତରଦାୟିତ୍ୱ ସୁନିଶ୍ଚିତ କରିବା ପାଇଁ ସଚିବଙ୍କ ପରି ଜଣେ ବରିଷ୍ଠ ପ୍ରଶାସକଙ୍କ ପାଇଁ ଜରୁରୀ |",
+                        "relevancy": 95,
+                        "identifier": "do_1140307107923312641183",
+                        "competencies": [
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Outcome Orientation",
+                                "competencySubThemeName": "Accountability"
+                            },
+                            {
+                                "competencyAreaName": "Functional",
+                                "competencyThemeName": "Financial Management",
+                                "competencySubThemeName": "Financial Management"
+                            },
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Decision Making",
+                                "competencySubThemeName": "Sound Judgement"
+                            },
+                            {
+                                "competencyAreaName": "Behavioural",
+                                "competencyThemeName": "Operational Excellence",
+                                "competencySubThemeName": "Process Excellence"
+                            },
+                            {
+                                "competencyAreaName": "Functional",
+                                "competencyThemeName": "Office Management",
+                                "competencySubThemeName": "Office Procedures"
+                            },
+                            {
+                                "competencyAreaName": "Domain",
+                                "competencyThemeName": "General Management",
+                                "competencySubThemeName": "General Management"
+                            }
+                        ],
+                        "organisation": [
+                            "Institute of Secretariat Training and Management"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "8b0a37b5-88c9-4ab0-8100-e2891cfca0a0",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ନିର୍ଦ୍ଦେଶକ (ଶିକ୍ଷା)",
+        "status": "COMPLETED",
+        "wing_division_section": "ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶାଳୟ (ମୁଖ୍ୟାଳୟ)",
+        "role_responsibilities": [
+            "ବିଭାଗର ମୁଖ୍ୟ ଭାବରେ କାର୍ଯ୍ୟ, ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶାଳୟର ସାମଗ୍ରିକ କାର୍ଯ୍ୟକ୍ଷମ ଏବଂ ଏକାଡେମିକ୍ ପରିଚାଳନା ପାଇଁ ଦାୟୀ |",
+            "UT ମଧ୍ୟରେ ସମସ୍ତ ଶିକ୍ଷାଗତ ନୀତି, ପ୍ରୋଗ୍ରାମ, ଏବଂ ସ୍କିମ୍ (ଯଥା, ସମାଗ୍ରା ଶିଖା, PM POSHAN) ର କାର୍ଯ୍ୟକାରିତାକୁ କାର୍ଯ୍ୟକାରୀ ଏବଂ ତଦାରଖ କରନ୍ତୁ |",
+            "ନିର୍ଦ୍ଦେଶାଳୟ ଏବଂ ଅଧସ୍ତନ କାର୍ଯ୍ୟାଳୟଗୁଡ଼ିକର ସମସ୍ତ ପ୍ରଶାସନିକ, ପ୍ରତିଷ୍ଠା ଏବଂ ଆର୍ଥିକ ବିଷୟ ପରିଚାଳନା କରନ୍ତୁ |",
+            "ଏକାଡେମିକ୍ ମାନ ଏବଂ ଗୁଣବତ୍ତା ସୁନିଶ୍ଚିତ କରି ସମସ୍ତ ସରକାରୀ ଏବଂ ସରକାରୀ ସହାୟକ ବିଦ୍ୟାଳୟଗୁଡିକର କାର୍ଯ୍ୟକାରିତା ଉପରେ ତଦାରଖ କରନ୍ତୁ |",
+            "ଶିକ୍ଷକ ନିଯୁକ୍ତି, ତାଲିମ, ନିୟୋଜନ, ଏବଂ କାର୍ଯ୍ୟଦକ୍ଷତା ପରିଚାଳନା ଉପରେ ପର୍ଯ୍ୟବେକ୍ଷକ |",
+            "ନିର୍ଦ୍ଦେଶାଳୟର ସମସ୍ତ କର୍ମଚାରୀଙ୍କ ପାଇଁ ବାର୍ଷିକ ଦକ୍ଷତା ବିକାଶ ଯୋଜନା (ACBP) କାର୍ଯ୍ୟକାରୀ କରନ୍ତୁ |",
+            "ଯୋଜନା କାର୍ଯ୍ୟକାରୀ, ନୀତି ମତାମତ ଏବଂ ଦକ୍ଷତା ବିକାଶ ପାଇଁ ରାଜ୍ୟ ସରକାରଙ୍କ ସହ ସମନ୍ୱୟ |",
+            "CPGRAMS ମାଧ୍ୟମରେ ଶିକ୍ଷା ସହ ଜଡିତ ଜନସାଧାରଣଙ୍କ ଅଭିଯୋଗର ଠିକ ସମୟରେ ସମାଧାନ ସୁନିଶ୍ଚିତ କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ପ୍ରଶାସନିକ ଏବଂ ଆର୍ଥିକ ପ୍ରତିବନ୍ଧକ ଜାରି କରିବା |",
+            "ବିଦ୍ୟାଳୟ ଏବଂ ଶିକ୍ଷା କାର୍ଯ୍ୟାଳୟର ଯାଞ୍ଚ କରିବା |",
+            "ବିଭାଗୀୟ ପଦୋନ୍ନତି କମିଟି (ଡିପିସି) ଏବଂ ନିଯୁକ୍ତି ବୋର୍ଡର ଅଧ୍ୟକ୍ଷ |",
+            "ଶିକ୍ଷକ ଏବଂ ଅଣଶିକ୍ଷକ କର୍ମଚାରୀଙ୍କ ସ୍ଥାନାନ୍ତର ଏବଂ ପୋଷ୍ଟିଂ ପରିଚାଳନା |",
+            "ଯୁଗ୍ମ / ଡେପୁଟି ଡାଇରେକ୍ଟରମାନଙ୍କ ସହିତ ସ୍କିମ୍ କାର୍ଯ୍ୟାନ୍ୱୟନର ଅଗ୍ରଗତିର ସମୀକ୍ଷା |",
+            "ସଂସଦ ଏବଂ ବିଧାନସଭା ପ୍ରଶ୍ନ ପରିଚାଳନା କରିବା |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Inspiring others"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Relationship Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Government Program Formulation",
+                "sub_theme": "Implementation & Outreach"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Establishment Matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Implementation",
+                "sub_theme": "Operational management of the PM POSHAN (Mid-Day Meal) Scheme, ensuring nutritional and quality standards."
+            },
+            {
+                "type": "Domain",
+                "theme": "Educational Administration",
+                "sub_theme": "Management of school systems, teacher allocation, and academic calendar for the UT."
+            },
+            {
+                "type": "Domain",
+                "theme": "Curriculum Management",
+                "sub_theme": "Overseeing the implementation of the National Curriculum Framework (NCF) and SCERT guidelines in schools."
+            },
+            {
+                "type": "Domain",
+                "theme": "HR Management in Education",
+                "sub_theme": "Managing teacher recruitment processes, transfers, promotions, and APARs."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Management",
+                "sub_theme": "Managing scheme funds through the Public Financial Management System (PFMS)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Infrastructure Development",
+                "sub_theme": "Supervision of civil works for school construction and upgradation under Samagra Shiksha and PM SHRI."
+            }
+        ],
+        "sort_order": 2,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "92a11dc1-448e-48c5-8bbe-369b952b69d7",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଯୁଗ୍ମ ନିର୍ଦ୍ଦେଶକ (ଶିକ୍ଷା)",
+        "status": "COMPLETED",
+        "wing_division_section": "ଏକାଡେମିକ୍ ଏବଂ ଯୋଜନା ୱିଙ୍ଗ୍ |",
+        "role_responsibilities": [
+            "ନିର୍ଦ୍ଦେଶାଳୟର ଏକାଡେମିକ୍ ଏବଂ ଯୋଜନା କାର୍ଯ୍ୟଗୁଡ଼ିକର ତଦାରଖ କରିବାରେ ନିର୍ଦ୍ଦେଶକଙ୍କୁ ସାହାଯ୍ୟ କରନ୍ତୁ |",
+            "NEP 2020 ଅନୁଯାୟୀ ଏକାଡେମିକ୍ ସଂସ୍କାରର କାର୍ଯ୍ୟକାରିତାକୁ ଆଗେଇ ନିଅ, ପାଠ୍ୟକ୍ରମ ଅଦ୍ୟତନ ଏବଂ ଶିକ୍ଷାଗତ ପରିବର୍ତ୍ତନ ସହିତ |",
+            "ରାଜ୍ୟ ପରିଷଦ ଅଫ୍ ଏଜୁକେସନାଲ୍ ରିସର୍ଚ୍ଚ ଆଣ୍ଡ ଟ୍ରେନିଂ (SCERT) / ସମାନ ସଂସ୍ଥାର କାର୍ଯ୍ୟକାରିତାକୁ ତଦାରଖ କରନ୍ତୁ |",
+            "ଶିକ୍ଷକ ତାଲିମ ପ୍ରୋଗ୍ରାମ ଏବଂ ନିରନ୍ତର ବୃତ୍ତିଗତ ବିକାଶର ଯୋଜନା ଏବଂ କାର୍ଯ୍ୟକାରିତା ଉପରେ ନଜର ରଖନ୍ତୁ |",
+            "ଶିକ୍ଷଣ ଫଳାଫଳ ଉପରେ ନଜର ରଖନ୍ତୁ ଏବଂ ପ୍ରତିକାରକାରୀ ଶିକ୍ଷାଦାନ ଏବଂ ସମର୍ଥନ କାର୍ଯ୍ୟକାରୀ କରିବାକୁ ବିଦ୍ୟାଳୟଗୁଡ଼ିକ ସହିତ ସମନ୍ୱୟ ରକ୍ଷା କରନ୍ତୁ |",
+            "ସମସ୍ତ ଶିକ୍ଷାଗତ ଯୋଜନା ପାଇଁ ଯୋଜନା, ତଥ୍ୟ ସଂଗ୍ରହ (UDISE +), ଏବଂ ରିପୋର୍ଟ ପରିଚାଳନା କରନ୍ତୁ |",
+            "ଯୋଜନା କାର୍ଯ୍ୟକାରୀ, ନୀତି ମତାମତ ଏବଂ ଦକ୍ଷତା ବିକାଶ ପାଇଁ ରାଜ୍ୟ ସରକାରଙ୍କ ସହ ସମନ୍ୱୟ |",
+            "ନିର୍ଦ୍ଦେଶକଙ୍କ ଦ୍ assigned ାରା ନିର୍ଦ୍ଦିଷ୍ଟ ଫ୍ଲାଗସିପ୍ ପ୍ରୋଗ୍ରାମ୍ ପାଇଁ ନୋଡାଲ୍ ଅଫିସର ଭାବରେ କାର୍ଯ୍ୟ କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ବାର୍ଷିକ ଏକାଡେମିକ୍ କ୍ୟାଲେଣ୍ଡରର ବିକାଶ |",
+            "ଶିକ୍ଷକ ଏବଂ ପ୍ରଧାନଶିକ୍ଷକଙ୍କ ପାଇଁ କର୍ମଶାଳା ଏବଂ ତାଲିମ ଆୟୋଜନ |",
+            "ଟ୍ରେଣ୍ଡ ଏବଂ ଫାଙ୍କ ଚିହ୍ନଟ କରିବାକୁ ଛାତ୍ର ମୂଲ୍ୟାଙ୍କନ ତଥ୍ୟ ବିଶ୍ଳେଷଣ କରିବା |",
+            "କେନ୍ଦ୍ରୀୟ ଯୋଜନା ପାଇଁ ପ୍ରସ୍ତାବ ଏବଂ ବ୍ୟବହାର ପ୍ରମାଣପତ୍ର ପ୍ରସ୍ତୁତ କରିବା |",
+            "ପାଠ୍ୟ ପୁସ୍ତକ ଏବଂ ପାଠ୍ୟକ୍ରମ ଆଲାଇନ୍ମେଣ୍ଟ ପାଇଁ NCERT ସହିତ ସମନ୍ୱୟ |",
+            "ଏକାଡେମିକ୍ ଗୁଣବତ୍ତା ଉପରେ ନଜର ରଖିବା ପାଇଁ ବିଦ୍ୟାଳୟଗୁଡ଼ିକୁ ଯାଞ୍ଚ କରିବା |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Creativity & Innovation",
+                "sub_theme": "Transformation Orientation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Mentoring"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Presentation Skills"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Creation of M&E Framework"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Planning"
+            },
+            {
+                "type": "Domain",
+                "theme": "Academic Planning",
+                "sub_theme": "Developing and implementing strategies for the NIPUN Bharat Mission for Foundational Literacy & Numeracy (FLN)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Management & Reporting",
+                "sub_theme": "Management and analysis of UDISE+ (Unified District Information System for Education Plus) data for planning."
+            },
+            {
+                "type": "Domain",
+                "theme": "Teacher Professional Development",
+                "sub_theme": "Designing and managing training modules on the DIKSHA platform for continuous teacher development."
+            },
+            {
+                "type": "Domain",
+                "theme": "Scheme Management",
+                "sub_theme": "Formulating the Annual Work Plan & Budget (AWP&B) for Samagra Shiksha."
+            },
+            {
+                "type": "Domain",
+                "theme": "Assessment & Evaluation",
+                "sub_theme": "Overseeing the conduct and analysis of the National Achievement Survey (NAS) and State Level Achievement Survey (SLAS)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Special Education Needs",
+                "sub_theme": "Planning and monitoring provisions for Children with Special Needs (CWSN) under inclusive education."
+            }
+        ],
+        "sort_order": 3,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "34207309-70f3-4a7f-9698-47585b9c8550",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଡେପୁଟି ଡାଇରେକ୍ଟର (ଶିକ୍ଷା)",
+        "status": "COMPLETED",
+        "wing_division_section": "ପ୍ରଶାସନ ଏବଂ ପ୍ରତିଷ୍ଠା ୱିଙ୍ଗ୍ |",
+        "role_responsibilities": [
+            "ନିଯୁକ୍ତି, ପଦୋନ୍ନତି ଏବଂ ବରିଷ୍ଠତା ତାଲିକା ସହିତ ଶିକ୍ଷାଦାନ ଏବଂ ଅଣ-ଶିକ୍ଷକ କର୍ମଚାରୀଙ୍କ ସମସ୍ତ ପ୍ରତିଷ୍ଠା ବିଷୟ ପରିଚାଳନା କରନ୍ତୁ |",
+            "କାର୍ଯ୍ୟାଳୟ ପରିଚାଳନା, ଦ୍ରବ୍ୟ / ସେବା କ୍ରୟ ଏବଂ ରକ୍ଷଣାବେକ୍ଷଣ ସହିତ ନିର୍ଦ୍ଦେଶାଳୟର ସମସ୍ତ ପ୍ରଶାସନିକ କାର୍ଯ୍ୟ ପରିଚାଳନା କରନ୍ତୁ |",
+            "ପେନ୍ସନ୍ ମାମଲା, ଶୃଙ୍ଖଳାଗତ ପ୍ରକ୍ରିୟା, ଏବଂ ସଚେତନତା ମାମଲାଗୁଡ଼ିକର ପ୍ରକ୍ରିୟା ଏବଂ ପରିଚାଳନା |",
+            "ପ୍ରଶାସନିକ ସମସ୍ୟା ସହ ଜଡିତ RTI ପ୍ରୟୋଗ ଏବଂ CPGRAMS ଅଭିଯୋଗ ପରିଚାଳନା ପାଇଁ ନୋଡାଲ୍ ଅଫିସର ଭାବରେ କାର୍ଯ୍ୟ କରନ୍ତୁ |",
+            "ପାରା-ଜ୍ଞାନୀ ମନ୍ତବ୍ୟ ପ୍ରସ୍ତୁତ କରିବା ଏବଂ ଆଇନ ପରାମର୍ଶ ସହିତ ସମନ୍ୱୟ ସମେତ ମକଦ୍ଦମା ସମ୍ବନ୍ଧୀୟ ବିଷୟଗୁଡ଼ିକର ତଦାରଖ କରନ୍ତୁ |",
+            "ନିଯୁକ୍ତି ଏବଂ ପଦୋନ୍ନତିରେ ସଂରକ୍ଷଣ ନୀତି ସହିତ ଅନୁପାଳନ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "ବେସରକାରୀ ସହାୟକ ବିଦ୍ୟାଳୟଗୁଡ଼ିକୁ ଅନୁଦାନ-ବଣ୍ଟନ ସହାୟତା ପରିଚାଳନା କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ନିଯୁକ୍ତି, DPC, ଏବଂ ଅବସର ସମ୍ବନ୍ଧୀୟ ଫାଇଲଗୁଡିକ ପ୍ରକ୍ରିୟାକରଣ |",
+            "ଆରଟିଆଇ ପ୍ରଶ୍ନ ଏବଂ ଅଭିଯୋଗ ଆବେଦନ ଉପରେ ପ୍ରତିକ୍ରିୟା ପ୍ରସ୍ତୁତ କରିବା |",
+            "ଜିଏମ୍ ପୋର୍ଟାଲ୍ ମାଧ୍ୟମରେ କ୍ରୟ ପରିଚାଳନା |",
+            "ବିଭାଗ ଅଧିକାରୀ ଏବଂ ପ୍ରଶାସନିକ କର୍ମଚାରୀଙ୍କ କାର୍ଯ୍ୟର ତଦାରଖ |",
+            "କୋର୍ଟ ମାମଲା ପାଇଁ ଆଇନ ବିଭାଗ ସହିତ ଯୋଗାଯୋଗ |",
+            "ପ୍ରତିଷ୍ଠା ପ୍ରସଙ୍ଗରେ ରିପୋର୍ଟଗୁଡିକ ଠିକ୍ ସମୟରେ ଦାଖଲ କରିବା ନିଶ୍ଚିତ କରିବା |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Process Excellence"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Personal Effectiveness",
+                "sub_theme": "Stress Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Fundamental Rules /Supplementary Rules"
+            },
+            {
+                "type": "Functional",
+                "theme": "Vigilance Administration",
+                "sub_theme": "Proposal preparation for disciplinary proceedings"
+            },
+            {
+                "type": "Functional",
+                "theme": "Litigation Management",
+                "sub_theme": "Court case management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Procurement Mgmt. through GeM"
+            },
+            {
+                "type": "Domain",
+                "theme": "Service Rules",
+                "sub_theme": "Application of Central Civil Services (CCS) Conduct Rules, 1964 and Classification, Control and Appeal (CCA) Rules, 1965."
+            },
+            {
+                "type": "Domain",
+                "theme": "Reservation Policy",
+                "sub_theme": "Implementation of reservation rosters for SC/ST/OBC/EWS/PwD in recruitment and promotion."
+            },
+            {
+                "type": "Domain",
+                "theme": "Transparency & Accountability",
+                "sub_theme": "Management of RTI requests as per the RTI Act, 2005 and CPGRAMS portal management."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Administration",
+                "sub_theme": "Management of Grants-in-Aid rules and disbursement to eligible institutions."
+            },
+            {
+                "type": "Domain",
+                "theme": "Legal Framework",
+                "sub_theme": "Managing court cases and understanding procedures related to the Central Administrative Tribunal (CAT)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Office Administration",
+                "sub_theme": "Knowledge of e-Office procedures and the Manual of Office Procedure for efficient file management."
+            }
+        ],
+        "sort_order": 4,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "658e0318-52f9-4089-ab19-b80f6887c119",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଶିକ୍ଷା ଅଧିକାରୀ / ବ୍ଲକ ଶିକ୍ଷା ଅଧିକାରୀ |",
+        "status": "COMPLETED",
+        "wing_division_section": "କ୍ଷେତ୍ର କାର୍ଯ୍ୟାଳୟ / ବ୍ଲକ ସ୍ତର |",
+        "role_responsibilities": [
+            "Act as the primary link between the Directorate and schools within a specific geographical block or zone.",
+            "ବିଭାଗୀୟ ନିୟମ ମାନିବା ନିଶ୍ଚିତ କରିବାକୁ ବିଦ୍ୟାଳୟଗୁଡ଼ିକର ନିୟମିତ ଏକାଡେମିକ୍ ଏବଂ ପ୍ରଶାସନିକ ଯାଞ୍ଚ କର |",
+            "PM POSHAN, ମାଗଣା ପାଠ୍ୟପୁସ୍ତକ ବଣ୍ଟନ ଏବଂ ବିଦ୍ୟାଳୟ ସ୍ତରରେ ଛାତ୍ରବୃତ୍ତି ବଣ୍ଟନ ପରି ଯୋଜନାଗୁଡିକର କାର୍ଯ୍ୟକାରିତା ଉପରେ ନଜର ରଖନ୍ତୁ |",
+            "ବିଦ୍ୟାଳୟ ପରିଚାଳନା, ସମ୍ପ୍ରଦାୟ ସଂଗ୍ରହ, ଏବଂ ବିଦ୍ୟାଳୟ ପରିଚାଳନା କମିଟି (SMCs) ଗଠନରେ ହେଡ୍ ମାଷ୍ଟରମାନଙ୍କୁ ସମର୍ଥନ କରନ୍ତୁ |",
+            "ନିର୍ଦ୍ଦେଶାଳୟକୁ ଦାଖଲ ପାଇଁ ବିଦ୍ୟାଳୟଗୁଡ଼ିକରୁ ତଥ୍ୟ ସଂଗ୍ରହ, ଯାଞ୍ଚ ଏବଂ ଏକତ୍ର କର (ଯଥା, UDISE + ତଥ୍ୟ) |",
+            "ସ୍ଥାନୀୟ ସ୍ତରୀୟ ସମସ୍ୟା ଏବଂ ଶିକ୍ଷକ, ଅଭିଭାବକ ଏବଂ ଛାତ୍ରମାନଙ୍କ ଅଭିଯୋଗକୁ ସମାଧାନ କରନ୍ତୁ |",
+            "ବ୍ଲକ ସ୍ତରୀୟ ଶିକ୍ଷକ ତାଲିମ, କ୍ରୀଡା ଇଭେଣ୍ଟ, ଏବଂ ଏକାଡେମିକ୍ ପ୍ରତିଯୋଗିତାର ଆୟୋଜନ ଏବଂ ତଦାରଖ କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ବିଦ୍ୟାଳୟ ପରିଦର୍ଶନ କରିବା ଏବଂ ଶ୍ରେଣୀଗୃହ ଶିକ୍ଷାଦାନ ଉପରେ ନଜର ରଖିବା |",
+            "ଛାତ୍ର ନାମଲେଖା ଏବଂ ଉପସ୍ଥାନ ରେକର୍ଡ ଯାଞ୍ଚ କରିବା |",
+            "ମଧ୍ୟମ ଦିନର ଭୋଜନର ଗୁଣ ଏବଂ ସ୍ୱଚ୍ଛତା ଯାଞ୍ଚ କରିବା |",
+            "ଏସଏମସି ସଦସ୍ୟ ଏବଂ ଗ୍ରାମ ନେତାଙ୍କ ସହ ବ meetings ଠକ କରିବା।",
+            "ବିଭିନ୍ନ ଯୋଜନା ପାଇଁ ମାସିକ ପ୍ରଗତି ରିପୋର୍ଟ ସଂକଳନ କରିବା |",
+            "ବ୍ଲକ ସ୍ତରରେ ଶିକ୍ଷକମାନଙ୍କର ଛୋଟ ପ୍ରଶାସନିକ ସମସ୍ୟାର ସମାଧାନ |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Responsiveness"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Active Listening"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Initiative and Drive"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Grievance Redressal",
+                "sub_theme": "Public Grievance Handling"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Technical Proposal / Report writing"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grassroots Scheme Monitoring",
+                "sub_theme": "On-field monitoring of PM POSHAN scheme implementation, including food grain lifting and cooking standards."
+            },
+            {
+                "type": "Domain",
+                "theme": "School Supervision",
+                "sub_theme": "Conducting school inspections based on frameworks like Shaala Siddhi (National Programme on School Standards and Evaluation)."
+            },
+            {
+                "type": "Domain",
+                "theme": "Community Engagement",
+                "sub_theme": "Facilitating the functioning of School Management Committees (SMCs) as mandated by the RTE Act, 2009."
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Collection",
+                "sub_theme": "Ensuring accurate and timely data entry for the UDISE+ portal at the block level."
+            },
+            {
+                "type": "Domain",
+                "theme": "Local Administration",
+                "sub_theme": "Coordination with local Panchayati Raj Institutions and municipal bodies for school development."
+            },
+            {
+                "type": "Domain",
+                "theme": "Academic Support",
+                "sub_theme": "Providing on-site academic support to teachers for implementing FLN and other pedagogical initiatives."
+            }
+        ],
+        "sort_order": 5,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "87e21eb9-cffc-44ca-ad6c-76bae735762d",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ପ୍ରିନ୍ସିପାଲ୍ / ହେଡ୍ ମାଷ୍ଟର (ସେକେଣ୍ଡାରୀ / ଘଣ୍ଟା ସେକେଣ୍ଡାରୀ)",
+        "status": "COMPLETED",
+        "wing_division_section": "ବିଦ୍ୟାଳୟ ସ୍ତର",
+        "role_responsibilities": [
+            "ବିଦ୍ୟାଳୟର ଏକାଡେମିକ୍ ଏବଂ ପ୍ରଶାସନିକ ମୁଖ୍ୟ ଭାବରେ କାର୍ଯ୍ୟ କରନ୍ତୁ |",
+            "ପାଠ୍ୟକ୍ରମ, ସମୟସୀମା ଏବଂ ବାର୍ଷିକ ଏକାଡେମିକ୍ ଯୋଜନାର ପ୍ରଭାବଶାଳୀ କାର୍ଯ୍ୟକାରିତା ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ମୂଲ୍ୟାଙ୍କନ (APARs) ଏବଂ ଛୁଟି ପରିଚାଳନା ସହିତ ସମସ୍ତ ଶିକ୍ଷକ ଏବଂ ଅଣଶିକ୍ଷକ କର୍ମଚାରୀଙ୍କୁ ପରିଚାଳନା ଏବଂ ତଦାରଖ କରନ୍ତୁ |",
+            "ଛାତ୍ର ଅନୁଶାସନ, ନିରାପତ୍ତା ଏବଂ ଏକ ଅନୁକୂଳ ଶିକ୍ଷଣ ପରିବେଶ ବଜାୟ ରଖନ୍ତୁ |",
+            "ବିଦ୍ୟାଳୟ ଅନୁଦାନ ଏବଂ ସ୍ଥାନୀୟ ପାଣ୍ଠିର ପରିଚାଳନା ସହିତ ବିଦ୍ୟାଳୟର ଆର୍ଥିକ ତଦାରଖ କରନ୍ତୁ ଏବଂ ଚିତ୍ରାଙ୍କନ ଏବଂ ବିତରଣ ଅଧିକାରୀ (DDO) ଭାବରେ କାର୍ଯ୍ୟ କରନ୍ତୁ |",
+            "ପିତାମାତା, ବିଦ୍ୟାଳୟ ପରିଚାଳନା କମିଟି (SMC) ଏବଂ ସ୍ଥାନୀୟ ସମ୍ପ୍ରଦାୟ ସହିତ ଜଡିତ |",
+            "ସମସ୍ତ ସରକାରୀ ଯୋଜନାଗୁଡିକର ଠିକ ସମୟରେ କାର୍ଯ୍ୟକାରୀ ହେବା ଏବଂ ବ୍ଲକ / ନିର୍ଦ୍ଦେଶାଳୟକୁ ରିପୋର୍ଟ ଦାଖଲ କରିବା ନିଶ୍ଚିତ କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ପ୍ରଭାତ ସଭା ପରିଚାଳନା",
+            "ଶ୍ରେଣୀଗୃହର ନିର୍ଦ୍ଦେଶନାକୁ ତଦାରଖ କରିବା ଏବଂ ଆବଶ୍ୟକ ଅନୁଯାୟୀ ଶିକ୍ଷାଦାନ ଅବଧି ଗ୍ରହଣ କରିବା |",
+            "କର୍ମଚାରୀଙ୍କ ସଭା ଏବଂ SMC ବ meetings ଠକର ଅଧ୍ୟକ୍ଷତା |",
+            "ଆଡମିଶନ, ଉପସ୍ଥାନ, ଏବଂ ପରୀକ୍ଷା ଫଳାଫଳ ସହିତ ବିଦ୍ୟାଳୟ ରେକର୍ଡଗୁଡିକ ବଜାୟ ରଖିବା |",
+            "ଲ୍ୟାବ ଉପକରଣ, ଲାଇବ୍ରେରୀ ବହି, ଏବଂ କ୍ରୀଡା ସାମଗ୍ରୀ କ୍ରୟ କରିବା |",
+            "ବିଦ୍ୟାଳୟ ଭବନ ଏବଂ ଭିତ୍ତିଭୂମି ରକ୍ଷଣାବେକ୍ଷଣ ଏବଂ ରକ୍ଷଣାବେକ୍ଷଣ ସୁନିଶ୍ଚିତ କରିବା |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Inspiring others"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Resource Management"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Service Excellence (wrt citizens)"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Office Procedures"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling APAR matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Domain",
+                "theme": "School Leadership",
+                "sub_theme": "Developing and implementing a School Development Plan (SDP) in consultation with the SMC."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Management at School Level",
+                "sub_theme": "Managing school composite grants and other funds received under Samagra Shiksha."
+            },
+            {
+                "type": "Domain",
+                "theme": "Pedagogical Leadership",
+                "sub_theme": "Promoting competency-based education and experiential learning as per NEP 2020."
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Safety and Security",
+                "sub_theme": "Implementation of guidelines for child safety in schools, including POSH and anti-bullying policies."
+            },
+            {
+                "type": "Domain",
+                "theme": "Examination and Assessment",
+                "sub_theme": "Conducting internal and external examinations (including CBSE board exams) with integrity."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital School Management",
+                "sub_theme": "Using platforms like UDISE+, PFMS, and DIKSHA for school administration and academic management."
+            }
+        ],
+        "sort_order": 6,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "bc601ffc-5c96-4660-86fd-aa1e9a2582d5",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଶିକ୍ଷକ (PGT / TGT / PRT)",
+        "status": "COMPLETED",
+        "wing_division_section": "ବିଦ୍ୟାଳୟ ସ୍ତର",
+        "role_responsibilities": [
+            "ଉପଯୁକ୍ତ ଶିକ୍ଷାଦାନ ପ୍ରଣାଳୀ ଏବଂ ସାହାଯ୍ୟ ବ୍ୟବହାର କରି ଶ୍ରେଣୀଗୃହରେ ପାଠ୍ୟକ୍ରମକୁ ଫଳପ୍ରଦ ଭାବରେ ବିତରଣ କରନ୍ତୁ |",
+            "ଦ daily ନନ୍ଦିନ ପାଠ୍ୟକ୍ରମ ଯୋଜନା କରନ୍ତୁ, ଗଠନମୂଳକ ଏବଂ ସଂକ୍ଷିପ୍ତ ମୂଲ୍ୟାଙ୍କନ କରନ୍ତୁ ଏବଂ ଛାତ୍ରମାନଙ୍କୁ ଗଠନମୂଳକ ମତାମତ ପ୍ରଦାନ କରନ୍ତୁ |",
+            "ଛାତ୍ର ଉପସ୍ଥାନ, ପ୍ରଗତି, ଏବଂ କାର୍ଯ୍ୟଦକ୍ଷତାର ରେକର୍ଡଗୁଡିକ ବଜାୟ ରଖନ୍ତୁ |",
+            "ଏକ ସକରାତ୍ମକ, ଅନ୍ତର୍ଭୂକ୍ତ ଏବଂ ଉତ୍ସାହଜନକ ଶ୍ରେଣୀଗୃହ ପରିବେଶ ସୃଷ୍ଟି କରନ୍ତୁ |",
+            "କର୍ମଚାରୀ ସଭା, ପିତାମାତା-ଶିକ୍ଷକ ସଭା ଏବଂ ବୃତ୍ତିଗତ ବିକାଶ କାର୍ଯ୍ୟକ୍ରମରେ ଅଂଶଗ୍ରହଣ କରନ୍ତୁ |",
+            "ସହ-ପାଠ୍ୟକ୍ରମ କାର୍ଯ୍ୟକଳାପ, ବିଦ୍ୟାଳୟ ଇଭେଣ୍ଟ, ଏବଂ ହେଡ୍ ମାଷ୍ଟର / ପ୍ରିନ୍ସିପାଲ୍ ଦ୍ୱାରା ଦିଆଯାଇଥିବା ଅନ୍ୟାନ୍ୟ କାର୍ଯ୍ୟରେ ସହଯୋଗ କରନ୍ତୁ |",
+            "ଶିକ୍ଷାଦାନ ଏବଂ ଶିକ୍ଷଣ ପ୍ରକ୍ରିୟାରେ ଟେକ୍ନୋଲୋଜିକୁ ଏକତ୍ର କର |"
+        ],
+        "activities": [
+            "ସମୟ ସାରଣୀ ଅନୁଯାୟୀ ବିଷୟ ଶିକ୍ଷା ଦେବା |",
+            "ପାଠ୍ୟ ଯୋଜନା ଏବଂ ଶିକ୍ଷାଦାନଗୁଡ଼ିକ ପ୍ରସ୍ତୁତ କରିବା |",
+            "ଉତ୍ତର ସିଟ୍ ଏବଂ କ୍ଲାସ୍ ଆସାଇନମେଣ୍ଟଗୁଡିକର ମୂଲ୍ୟାଙ୍କନ |",
+            "ଛାତ୍ରମାନଙ୍କ ଅଗ୍ରଗତି ବିଷୟରେ ପିତାମାତାମାନଙ୍କ ସହିତ କଥାବାର୍ତ୍ତା |",
+            "ବିଦ୍ୟାଳୟର କାର୍ଯ୍ୟ ଏବଂ କ୍ରୀଡ଼ାରେ ସଂଗଠିତ ଏବଂ ଅଂଶଗ୍ରହଣ |",
+            "ନୂତନ ଶିକ୍ଷାଗତ ପନ୍ଥା ଏବଂ ଡିଜିଟାଲ୍ ଉପକରଣଗୁଡ଼ିକ ଉପରେ ତାଲିମ ଦିଆଯାଉଛି |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Verbal & Non-Verbal Fluency"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Empathy"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Self-Awareness",
+                "sub_theme": "Self-Learning"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Functional",
+                "theme": "Citizen Centricity",
+                "sub_theme": "Design Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Information & Communication Management",
+                "sub_theme": "Dissemination of Information"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Domain",
+                "theme": "Pedagogy and Classroom Management",
+                "sub_theme": "Applying subject-specific teaching methods and managing a diverse classroom."
+            },
+            {
+                "type": "Domain",
+                "theme": "Curriculum Knowledge",
+                "sub_theme": "Understanding and implementing the National Curriculum Framework (NCF) and CBSE/State Board syllabus."
+            },
+            {
+                "type": "Domain",
+                "theme": "Assessment Techniques",
+                "sub_theme": "Using various tools for Continuous and Comprehensive Evaluation (CCE) and competency-based assessment."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Pedagogy",
+                "sub_theme": "Using digital resources from platforms like DIKSHA and SWAYAM in teaching."
+            },
+            {
+                "type": "Domain",
+                "theme": "Inclusive Education",
+                "sub_theme": "Techniques for teaching Children with Special Needs (CWSN) in an inclusive classroom setting."
+            },
+            {
+                "type": "Domain",
+                "theme": "Foundational Learning",
+                "sub_theme": "Implementing activities and assessments related to the NIPUN Bharat mission for early grades (for PRTs)."
+            }
+        ],
+        "sort_order": 7,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": null,
+        "id": "4d9a7520-9c25-4b6d-aeae-0f8fcb114fdb",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ବିଭାଗ ଅଧିକାରୀ",
+        "status": "COMPLETED",
+        "wing_division_section": "ପ୍ରଶାସନ / ଖାତା ବିଭାଗ |",
+        "role_responsibilities": [
+            "ନିର୍ଦ୍ଦିଷ୍ଟ ବିଭାଗ ମଧ୍ୟରେ ଆସିଷ୍ଟାଣ୍ଟ ଏବଂ କିରାଣୀମାନଙ୍କ କାର୍ଯ୍ୟର ତଦାରଖ କରନ୍ତୁ |",
+            "ଅଫିସ୍ ପ୍ରଣାଳୀ ମାନୁଆଲ୍ ଅନୁଯାୟୀ ଫାଇଲ୍, ରେକର୍ଡ, ଏବଂ ପଞ୍ଜିକରଣର ସଠିକ୍ ରକ୍ଷଣାବେକ୍ଷଣ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "ବରିଷ୍ଠ ଅଧିକାରୀଙ୍କ ନିକଟକୁ ପଠାଇବା ପୂର୍ବରୁ ଅଧସ୍ତନଙ୍କ ଦ୍ submitted ାରା ଦାଖଲ ହୋଇଥିବା ଫାଇଲ, ନୋଟ୍, ଏବଂ ଡ୍ରାଫ୍ଟଗୁଡିକ ଯାଞ୍ଚ ଏବଂ ପ୍ରକ୍ରିୟାକରଣ |",
+            "ଚିଠିକୁ ନିୟନ୍ତ୍ରଣ କରନ୍ତୁ, ଅକ୍ଷରର ଡ୍ରାଫ୍ଟ ପ୍ରସ୍ତୁତ କରନ୍ତୁ ଏବଂ ଠିକ୍ ସମୟରେ ପଠାଇବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "ଇ-ଅଫିସ୍ ବ୍ୟବହାର କରି ଫାଇଲଗୁଡିକର ଗତିବିଧି ଉପରେ ନଜର ରଖନ୍ତୁ ଏବଂ ସମୟସୀମାକୁ ପାଳନ କରିବା ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "ରିପୋର୍ଟ, ବିବୃତ୍ତି ଏବଂ RTI / ଅଭିଯୋଗ ମାମଲା ପରିଚାଳନା କରିବାରେ ଡେପୁଟି ଡାଇରେକ୍ଟରଙ୍କୁ ସାହାଯ୍ୟ କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ସଂପୃକ୍ତ ସହାୟକମାନଙ୍କ ପାଇଁ ଆସୁଥିବା DAK (ଚିଠି) ଚିହ୍ନଟ କରିବା |",
+            "ନୋଟ୍ ଏବଂ ଡ୍ରାଫ୍ଟ ଉପରେ ସମୀକ୍ଷା ଏବଂ ସାଇନ୍ ଅପ୍ |",
+            "ନିୟମ ଏବଂ ପ୍ରଣାଳୀ ଉପରେ କର୍ମଚାରୀମାନଙ୍କୁ ମାର୍ଗଦର୍ଶନ କରିବା |",
+            "ସମ୍ବେଦନଶୀଳ ଦଲିଲଗୁଡ଼ିକର ଗୋପନୀୟତା ବଜାୟ ରଖିବା |",
+            "ଇ-ଅଫିସରେ ଫାଇଲ୍ ସ୍ଥିତି ଟ୍ରାକିଂ |",
+            "ମାସିକ ଏବଂ ତ୍ର ly ମାସିକ ରିପୋର୍ଟ ପାଇଁ ତଥ୍ୟ ସଂକଳନ |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Team Leadership",
+                "sub_theme": "Sharing constructive feedback"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "E-Office"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Functional",
+                "theme": "Establishment & HR",
+                "sub_theme": "Handling Establishment Matters"
+            },
+            {
+                "type": "Functional",
+                "theme": "Handling RTI Matters",
+                "sub_theme": "RTI Responsiveness"
+            },
+            {
+                "type": "Domain",
+                "theme": "Office Procedures",
+                "sub_theme": "Expertise in the Manual of Office Procedure (MoP) for file management and correspondence."
+            },
+            {
+                "type": "Domain",
+                "theme": "Service Rules",
+                "sub_theme": "Working knowledge of Fundamental Rules (FR) and Supplementary Rules (SR) for processing leave, travel, and other claims."
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Office Management",
+                "sub_theme": "Proficient use of e-Office for file creation, movement, and tracking."
+            },
+            {
+                "type": "Domain",
+                "theme": "Financial Rules",
+                "sub_theme": "Basic knowledge of General Financial Rules (GFR) for processing bills and procurement proposals."
+            },
+            {
+                "type": "Domain",
+                "theme": "Record Management",
+                "sub_theme": "Knowledge of record retention schedules and procedures for archiving and weeding out old files."
+            },
+            {
+                "type": "Domain",
+                "theme": "Official Language Policy",
+                "sub_theme": "Ensuring compliance with the Official Language Act and Rules in official communications."
+            }
+        ],
+        "sort_order": 8,
+        "created_at": "2025-12-19T11:28:11.820669+00:00",
+        "updated_at": "2025-12-19T11:28:11.820669+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "adasd",
+        "id": "ad1d1e90-73eb-45ae-8ea3-78ab24abe12c",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ପରୀକ୍ଷା",
+        "status": "COMPLETED",
+        "wing_division_section": "ଯୋଜନା ଏବଂ ତାଲିମ ୱିଙ୍ଗ୍ |",
+        "role_responsibilities": [
+            "ମହିଳା ଏବଂ ଶିଶୁ ବିକାଶ (ଡବ୍ଲୁସିଡି) ସ୍କିମ୍ ପାଇଁ ମନିଟରିଂ ଆଣ୍ଡ ଏଭାଲ୍ୟୁମେଣ୍ଟ୍ (M&E) framework ାଞ୍ଚାର ବିକାଶ ଏବଂ କାର୍ଯ୍ୟାନ୍ୱୟନରେ ସହାୟତା କରିବା |",
+            "ଟ୍ରେଣ୍ଡ୍, ଫାଙ୍କ ଏବଂ ଅନ୍ତର୍ନିହିତ ଚିହ୍ନଟ କରିବାକୁ ପୋଶାନ୍ ଟ୍ରାକର୍ ଏବଂ ଅନ୍ୟାନ୍ୟ ସ୍କିମ୍-ନିର୍ଦ୍ଦିଷ୍ଟ ପରିଚାଳନା ସୂଚନା ସିଷ୍ଟମ୍ (MIS) ପରି ଉତ୍ସରୁ ତଥ୍ୟ ବିଶ୍ଳେଷଣ କରିବା |",
+            "ବରିଷ୍ଠ ପରିଚାଳନା ଏବଂ ହିତାଧିକାରୀଙ୍କ ପାଇଁ ପର୍ଯ୍ୟାୟକ୍ରମେ ମନିଟରିଂ ରିପୋର୍ଟ, ମୂଲ୍ୟାଙ୍କନ ଅଧ୍ୟୟନ, ଏବଂ ତଥ୍ୟ ଚାଳିତ ନୀତି ସଂକ୍ଷିପ୍ତ ବିବରଣୀ ପ୍ରସ୍ତୁତ କରିବା |",
+            "ତଥ୍ୟ ସଂଗ୍ରହ ପ୍ରୋଟୋକଲ, ଉପକରଣ, ଏବଂ ରିପୋର୍ଟ ମାନାଙ୍କ ଉପରେ କ୍ଷେତ୍ର କାର୍ଯ୍ୟକର୍ତ୍ତାଙ୍କୁ ବ technical ଷୟିକ ସହାୟତା ଏବଂ ଦକ୍ଷତା ବିକାଶ ପ୍ରଦାନ |",
+            "ବିଭିନ୍ନ ବିଭାଗୀୟ ଡେଣା (ICDS, ମହିଳା ସଶକ୍ତିକରଣ, ଶିଶୁ ସୁରକ୍ଷା) ସହିତ ସମନ୍ୱୟ ରକ୍ଷା କରିବା ଏବଂ M&E କାର୍ଯ୍ୟକଳାପର ନିରନ୍ତର ତଥ୍ୟ ପ୍ରବାହକୁ ସୁନିଶ୍ଚିତ କରିବା |",
+            "ପ୍ରୋଗ୍ରାମ ମୂଲ୍ୟାଙ୍କନ ଏବଂ ତଥ୍ୟ ବିଶ୍ଳେଷଣରୁ ଉତ୍ପନ୍ନ କାର୍ଯ୍ୟକ୍ଷମ ଜ୍ଞାନ ପ୍ରଦାନ କରି ପ୍ରମାଣ-ଆଧାରିତ ନୀତି ସୂତ୍ରରେ ଯୋଗଦାନ |",
+            "ବିଭାଗୀୟ ସ୍କିମ୍ ଏବଂ ମିଶନ୍ ସହିତ ଜଡିତ ପ୍ରମୁଖ କାର୍ଯ୍ୟଦକ୍ଷତା ପାଇଁ ଡାଟାବେସ୍ ପରିଚାଳନା ଏବଂ ପରିଚାଳନା |",
+            "ସଠିକ୍ ପ୍ରୋଗ୍ରାମ ତଥ୍ୟ ସହିତ RTI ପ୍ରଶ୍ନ, ସଂସଦୀୟ ପ୍ରଶ୍ନ ଏବଂ ଅଡିଟ୍ ରିପୋର୍ଟ ପାଇଁ ପ୍ରତିକ୍ରିୟା ପ୍ରସ୍ତୁତିକୁ ସମର୍ଥନ କରେ | * AI ପ୍ରସ୍ତାବିତ *"
+        ],
+        "activities": [
+            "ତଥ୍ୟ ସଂଗ୍ରହ ଉପକରଣଗୁଡ଼ିକ ଯେପରିକି ପ୍ରଶ୍ନପତ୍ର, ସର୍ଭେ ଫର୍ମ, ଏବଂ କ୍ଷେତ୍ର ବ୍ୟବହାର ପାଇଁ ଚେକଲିଷ୍ଟ |",
+            "ଜିଲ୍ଲା ଏବଂ ଫିଲ୍ଡ ୟୁନିଟ୍ ଗୁଡିକରୁ ପ୍ରାପ୍ତ ପ୍ରୋଗ୍ରାମେଟିକ୍ ତଥ୍ୟ ପ୍ରବେଶ, ସଫା କରିବା ଏବଂ ବ valid ଧତା |",
+            "ପ୍ରମୁଖ କାର୍ଯ୍ୟଦକ୍ଷତା (KPI) ଉପରେ ବିଶ୍ଳେଷଣ କରିବାକୁ MS Excel କିମ୍ବା ଅନ୍ୟାନ୍ୟ ପରିସଂଖ୍ୟାନ ସଫ୍ଟୱେର୍ ପରି ଡିଜିଟାଲ୍ ଉପକରଣ ବ୍ୟବହାର କରିବା |",
+            "ମାସିକ, ତ୍ର ly ମାସିକ, ଏବଂ ବାର୍ଷିକ ପ୍ରଗତି ରିପୋର୍ଟ ଏବଂ ମୂଲ୍ୟାଙ୍କନ ସାରାଂଶଗୁଡିକର ବିଭାଗ ଲେଖିବା |",
+            "ଫଳପ୍ରଦ ଭାବରେ ଯୋଗାଯୋଗ କରିବାକୁ ଚାର୍ଟ, ଗ୍ରାଫ୍, ଏବଂ ଡ୍ୟାସବୋର୍ଡ ସହିତ ଡାଟା ଭିଜୁଆଲାଇଜେସନ୍ ସୃଷ୍ଟି କରିବା |",
+            "ଡାଟା ଗୁଣବତ୍ତା ଯାଞ୍ଚ କରିବା ଏବଂ ତୃଣମୂଳ ସ୍ତରରେ କାର୍ଯ୍ୟକାରିତା ଆହ୍ understand ାନ ବୁ understand ିବା ପାଇଁ କ୍ଷେତ୍ର ପରିଦର୍ଶନ କରିବା | * AI ପ୍ରସ୍ତାବିତ *",
+            "ଅଙ୍ଗନୱାଡି କର୍ମୀ ଏବଂ ନୂତନ M&E ଉପକରଣ ଏବଂ ପ୍ରକ୍ରିୟା ଉପରେ ସୁପରଭାଇଜରମାନଙ୍କ ପାଇଁ ତାଲିମ କର୍ମଶାଳା ଆୟୋଜନ କରିବାରେ ସାହାଯ୍ୟ କରିବା | * AI ପ୍ରସ୍ତାବିତ *",
+            "ସରକାରୀ ରିପୋର୍ଟ ଏବଂ ଆନ୍ତ department ବିଭାଗୀୟ ଯୋଗାଯୋଗ ପାଇଁ ଆବଶ୍ୟକ ତଥ୍ୟ ସଂକଳନ ଏବଂ ସଂରଚନା |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Communication",
+                "sub_theme": "Presentation Skills"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Creation of M&E Framework"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Analysis & Visualization"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Technical Proposal / Report writing"
+            },
+            {
+                "type": "Functional",
+                "theme": "Digital Fluency",
+                "sub_theme": "Digital Tools ( MS office, Excel, PPT & AI tools) & Platforms"
+            },
+            {
+                "type": "Domain",
+                "theme": "WCD Program Knowledge",
+                "sub_theme": "Understanding of ICDS, Poshan Abhiyaan, and Beti Bachao Beti Padhao schemes"
+            },
+            {
+                "type": "Domain",
+                "theme": "M&E in Social Sector",
+                "sub_theme": "Knowledge of M&E frameworks for social development programs (e.g., Logic Models, Theory of Change)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Data Management Systems",
+                "sub_theme": "Proficiency in using government portals like Poshan Tracker and other scheme-specific MIS"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child and Women's Rights Indicators",
+                "sub_theme": "Knowledge of key indicators for child protection and women empowerment (e.g., Child Sex Ratio, Malnutrition rates)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Policy Analysis",
+                "sub_theme": "Ability to connect program data to policy outcomes and suggest improvements"
+            },
+            {
+                "type": "Domain",
+                "theme": "Government Reporting Standards",
+                "sub_theme": "Familiarity with reporting structures for audits, parliamentary queries, and annual reports"
+            }
+        ],
+        "sort_order": 9,
+        "created_at": "2026-01-15T10:05:51.259681+00:00",
+        "updated_at": "2026-01-15T10:05:51.259681+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "sssss",
+        "id": "64e1152d-a240-4960-99fc-e186a06c0c8b",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଯୁଗ୍ମ ନିର୍ଦ୍ଦେଶକ (ଶିଶୁ ସୁରକ୍ଷା)",
+        "status": "COMPLETED",
+        "wing_division_section": "ଶିଶୁ ସୁରକ୍ଷା ୱିଙ୍ଗ୍ |",
+        "role_responsibilities": [
+            "ସମଗ୍ର ଅଞ୍ଚଳରେ ସମନ୍ୱିତ ଶିଶୁ ସୁରକ୍ଷା ସେବା (ଆଇସିପିଏସ୍) ଯୋଜନାର କାର୍ଯ୍ୟକାରିତା ଉପରେ ନଜର ରଖନ୍ତୁ |",
+            "ଶିଶୁ କଲ୍ୟାଣ କମିଟି (ସିଡବ୍ଲ୍ୟୁଡିସି) ଏବଂ ଜୁଭେନାଇଲ୍ ଜଷ୍ଟିସ୍ ବୋର୍ଡ (ଜେଜେବି) ସମେତ ଜୁଭେନାଇଲ୍ ଜଷ୍ଟିସ୍ ଆକ୍ଟ ଅନୁଯାୟୀ ସମସ୍ତ ବିଧାନସଭା ସଂସ୍ଥାଗୁଡ଼ିକର କାର୍ଯ୍ୟ ତଦାରଖ କରନ୍ତୁ।",
+            "ଦୁ distress ଖ ସମୟରେ ପିଲାମାନଙ୍କ ପାଇଁ ଶିଶୁ ହେଲ୍ପଲାଇନ (1098) ସେବାଗୁଡିକର ପ୍ରଭାବଶାଳୀ ପରିଚାଳନା ଏବଂ ପ୍ରତିକ୍ରିୟାଶୀଳତା ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "କେନ୍ଦ୍ରୀୟ ପୋଷ୍ୟ ସମ୍ବଳ ପ୍ରାଧିକରଣ (CARA) ନିୟମାବଳୀକୁ ପାଳନ କରିବା ନିଶ୍ଚିତ କରି ସମସ୍ତ ପୋଷ୍ୟ ସନ୍ତାନ ସମ୍ବନ୍ଧୀୟ ବିଷୟଗୁଡିକ ପରିଚାଳନା ଏବଂ ତଦାରଖ କରନ୍ତୁ |",
+            "ତଦାରଖ ପରିଚାଳନା କରନ୍ତୁ ଏବଂ ସମସ୍ତ ଶିଶୁ କଲ୍ୟାଣ ପ୍ରତିଷ୍ଠାନ (CWI) ର ଯତ୍ନ ଏବଂ ସଂରକ୍ଷଣର ନିର୍ଦ୍ଦିଷ୍ଟ ମାନଦଣ୍ଡ ସହିତ ଅନୁପାଳନ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "ଏକ ଦୃ ust ଶିଶୁ ସୁରକ୍ଷା ଇକୋସିଷ୍ଟମ ସୃଷ୍ଟି କରିବାକୁ ଆଇନ ପ୍ରଣୟନ, ନ୍ୟାୟପାଳିକା ଏବଂ ନାଗରିକ ସମାଜ ସଂଗଠନ ସହିତ ସମନ୍ୱୟ ରକ୍ଷା କରନ୍ତୁ |",
+            "ଶିଶୁ ନିର୍ଯାତନା, କାରବାର ଏବଂ ଶୋଷଣ ରୋକିବା ପାଇଁ ରାଜ୍ୟ ସ୍ତରୀୟ ରଣନୀତି ଏବଂ କାର୍ଯ୍ୟ ଯୋଜନା ପ୍ରସ୍ତୁତ ଏବଂ କାର୍ଯ୍ୟକାରୀ କର |",
+            "ସମସ୍ତ ଶିଶୁ ସୁରକ୍ଷା ପଦକ୍ଷେପ ସହିତ ଜଡିତ ପ୍ରଗତି, ଆହ୍, ାନ ଏବଂ ଫଳାଫଳ ଉପରେ ନିର୍ଦ୍ଦେଶକ, WCD କୁ ରିପୋର୍ଟ କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ଶିଶୁ କଲ୍ୟାଣ ପ୍ରତିଷ୍ଠାନ, ପର୍ଯ୍ୟବେକ୍ଷଣ ଗୃହ, ଏବଂ ସ୍ୱତନ୍ତ୍ର ଗୃହଗୁଡିକର ପର୍ଯ୍ୟାୟ ଯାଞ୍ଚ ଏବଂ ଅଡିଟ୍ କରିବା |",
+            "ଜିଲ୍ଲା ଶିଶୁ ସୁରକ୍ଷା ୟୁନିଟ୍ (ଡିସିପିୟୁ) ରୁ କେସ୍ ଫାଇଲ୍ ଏବଂ ପ୍ରଗତି ରିପୋର୍ଟର ସମୀକ୍ଷା |",
+            "ହସ୍ତକ୍ଷେପ ଆବଶ୍ୟକ କରୁଥିବା ଧାରା ଏବଂ କ୍ଷେତ୍ରଗୁଡିକ ଚିହ୍ନଟ କରିବାକୁ ଶିଶୁ ହେଲ୍ପଲାଇନରୁ ତଥ୍ୟ ବିଶ୍ଳେଷଣ କରିବା |",
+            "ବିଚାରାଧୀନ ପୋଷ୍ୟ ମାମଲା ସମୀକ୍ଷା ଏବଂ ପ୍ରକ୍ରିୟାଗତ ପ୍ରତିବନ୍ଧକ ସମାଧାନ ପାଇଁ ସଭା ସଭାଗୁଡ଼ିକ |",
+            "ଶିଶୁ ସୁରକ୍ଷା ଆଇନ ଏବଂ ଯୋଜନାଗୁଡିକର ପ୍ରଭାବଶାଳୀ କାର୍ଯ୍ୟକାରିତା ପାଇଁ ନିର୍ଦ୍ଦେଶାବଳୀ ଏବଂ ସର୍କୁଲାର ଡ୍ରାଫ୍ଟ କରିବା |",
+            "CWC ସଦସ୍ୟ, ଜେଜେବି ଅଧିକାରୀ ଏବଂ CWI କର୍ମଚାରୀଙ୍କ ପାଇଁ ଦକ୍ଷତା ବିକାଶ କର୍ମଶାଳା ଆୟୋଜନ |",
+            "ରାଜ୍ୟ ସ୍ତରୀୟ ସମୀକ୍ଷା ବ meetings ଠକ ଏବଂ କେନ୍ଦ୍ର ସରକାରଙ୍କ ନିକଟରେ ଦାଖଲ ପାଇଁ ବିସ୍ତୃତ ରିପୋର୍ଟ ଏବଂ ଉପସ୍ଥାପନା ପ୍ରସ୍ତୁତ କରିବା |",
+            "ଆଇନଗତ ବିଜ୍ ices ପ୍ତିଗୁଡିକର ଜବାବ ଦେବା ଏବଂ ଜେଜେ ଆକ୍ଟ ଏବଂ POCSO ଆକ୍ଟ ସମ୍ବନ୍ଧୀୟ ମାମଲାଗୁଡ଼ିକରେ ଆଇନଗତ ପରାମର୍ଶ ସହିତ ସମନ୍ୱୟ ରକ୍ଷା କରିବା |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Relationship Management"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Service Orientation",
+                "sub_theme": "Empathy"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Litigation Management",
+                "sub_theme": "Legal Know-How"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Protection Legal Frameworks",
+                "sub_theme": "Expertise in Juvenile Justice Act, POCSO Act, and Child Labour (Prohibition and Regulation) Act"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Welfare Schemes & Programs",
+                "sub_theme": "In-depth knowledge of Integrated Child Protection Services (ICPS) and Mission Vatsalya guidelines"
+            },
+            {
+                "type": "Domain",
+                "theme": "Adoption Regulations & Procedures",
+                "sub_theme": "Comprehensive understanding of CARA guidelines and the Hindu Adoptions and Maintenance Act (HAMA)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Institutional Care Standards",
+                "sub_theme": "Knowledge of standards for Child Welfare Institutions (CWIs) and homes as per JJ Model Rules"
+            },
+            {
+                "type": "Domain",
+                "theme": "International Child Rights Conventions",
+                "sub_theme": "Familiarity with the UN Convention on the Rights of the Child (UNCRC) and its optional protocols"
+            },
+            {
+                "type": "Domain",
+                "theme": "Stakeholder Coordination in Child Protection",
+                "sub_theme": "Knowledge of coordinating with Police (SJPU), Judiciary (CWC/JJB), and civil society organizations"
+            }
+        ],
+        "sort_order": 10,
+        "created_at": "2026-01-15T10:06:51.819811+00:00",
+        "updated_at": "2026-01-15T10:06:51.819811+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": null,
+        "sector_name": null,
+        "instruction": "test",
+        "id": "25fa1b0b-6e01-4003-ab5c-b633a1a48028",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଡେପୁଟି ଡାଇରେକ୍ଟର / ସହକାରୀ ନିର୍ଦ୍ଦେଶକ",
+        "status": "COMPLETED",
+        "wing_division_section": "ମହିଳା ଏବଂ ଶିଶୁ ବିକାଶ ବିଭାଗ",
+        "role_responsibilities": [
+            "WCD ଯୋଜନାଗୁଡିକର କାର୍ଯ୍ୟକାରିତା ଏବଂ ମନିଟରିଂ ପାଇଁ ମିଳିତ ନିର୍ଦ୍ଦେଶକମାନଙ୍କୁ କାର୍ଯ୍ୟକ୍ଷମ ସହାୟତା ପ୍ରଦାନ କରନ୍ତୁ (ICDS, Poshan Abhiyaan, BBBP) |",
+            "ମାନକ ସ୍କିମ୍ କାର୍ଯ୍ୟକାରିତା ନିଶ୍ଚିତ କରିବାକୁ କ୍ଷେତ୍ର କାର୍ଯ୍ୟକର୍ତ୍ତାଙ୍କ ପାଇଁ କାର୍ଯ୍ୟକ୍ଷମ ନିର୍ଦ୍ଦେଶାବଳୀ, ସର୍କୁଲାର୍ ଏବଂ ନିର୍ଦ୍ଦେଶାବଳୀ ଡ୍ରାଫ୍ଟ କରନ୍ତୁ |",
+            "ପୋଶାନ ଟ୍ରାକରର ତଥ୍ୟ ସମେତ ଜିଲ୍ଲାମାନଙ୍କରୁ ପରିଚାଳନା ସୂଚନା ସିଷ୍ଟମ (MIS) ରିପୋର୍ଟ ସଂକଳନ, ଯାଞ୍ଚ ଏବଂ ବିଶ୍ଳେଷଣ କର |",
+            "ସେବା ବିତରଣ ଉପରେ ନଜର ରଖିବା ଏବଂ କାର୍ଯ୍ୟକ୍ଷମ ଆହ୍ identify ାନଗୁଡିକ ଚିହ୍ନଟ କରିବା ପାଇଁ ଅଙ୍ଗନୱାଡି କେନ୍ଦ୍ର ଏବଂ ଅନ୍ୟାନ୍ୟ କାର୍ଯ୍ୟକାରିତା ସାଇଟଗୁଡିକରେ ନିୟମିତ କ୍ଷେତ୍ର ପରିଦର୍ଶନ କରନ୍ତୁ |",
+            "ନୀତି ସମୀକ୍ଷାକୁ ସମର୍ଥନ କରିବାକୁ ବିଭାଗୀୟ କାର୍ଯ୍ୟକ୍ରମ ଉପରେ ପ୍ରାଥମିକ ମୂଲ୍ୟାଙ୍କନ ଅଧ୍ୟୟନ ଏବଂ ପ୍ରଭାବ ମୂଲ୍ୟାଙ୍କନ ରିପୋର୍ଟ ପ୍ରସ୍ତୁତ କରନ୍ତୁ |",
+            "NIPCCD ପରି ଅନୁଷ୍ଠାନଗୁଡିକର ସହଯୋଗରେ କ୍ଷେତ୍ର କର୍ମଚାରୀଙ୍କ ପାଇଁ ତାଲିମ କାର୍ଯ୍ୟକ୍ରମଗୁଡିକର ସମନ୍ୱୟ କରିବାରେ ସାହାଯ୍ୟ କରନ୍ତୁ |",
+            "ଆର୍ଥିକ ଏବଂ ପ୍ରଶାସନିକ ବିଷୟଗୁଡିକ ସହିତ ସ୍କିମ୍ କାର୍ଯ୍ୟକାରିତା ସହିତ ଜଡିତ ଫାଇଲ୍ ଏବଂ ପ୍ରସ୍ତାବଗୁଡିକ ପ୍ରକ୍ରିୟା କରନ୍ତୁ |",
+            "ସ୍ୱାସ୍ଥ୍ୟ, ପୁଷ୍ଟିକର ଏବଂ ଶିକ୍ଷା ଉପରେ ଏକତ୍ରିତ କାର୍ଯ୍ୟ ପାଇଁ କାର୍ଯ୍ୟକ୍ଷମ ସ୍ତରରେ ଆନ୍ତ department ବିଭାଗୀୟ ସମନ୍ୱୟକୁ ସୁଗମ କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ଜିଲ୍ଲା ସ୍ତରୀୟ ଅଧିକାରୀଙ୍କଠାରୁ ପ୍ରାପ୍ତ ମାସିକ ପ୍ରଗତି ରିପୋର୍ଟର ସମୀକ୍ଷା ଏବଂ ଏକୀକରଣ |",
+            "ବରିଷ୍ଠ ଅଧିକାରୀଙ୍କ ଅନୁମୋଦନ ପାଇଁ ସ୍କିମ୍ କାର୍ଯ୍ୟକାରିତା ସହିତ ଜଡିତ ନୋଟ୍ ଏବଂ ଅଫିସିଆଲ୍ ଚିଠିର ଡ୍ରାଫ୍ଟ |",
+            "ଉଚ୍ଚ ବୋ burden କ୍ଷେତ୍ର ଏବଂ ସେବା ବିତରଣର ଧାରା ଚିହ୍ନଟ କରିବାକୁ ପୋଶାନ୍ ଟ୍ରାକରରୁ ତଥ୍ୟ ବିଶ୍ଳେଷଣ କରିବା |",
+            "ସେବା ଗୁଣବତ୍ତା ଉନ୍ନତି ପାଇଁ କାର୍ଯ୍ୟକ୍ଷମ ସୁପାରିଶ ସହିତ ବିସ୍ତୃତ କ୍ଷେତ୍ର ପରିଦର୍ଶନ ରିପୋର୍ଟ ପ୍ରସ୍ତୁତ କରିବା |",
+            "ମୂଲ୍ୟାଙ୍କନ ଅଧ୍ୟୟନ ରିପୋର୍ଟ ପ୍ରସ୍ତୁତ କରିବା ପାଇଁ ପ୍ରାଥମିକ ଏବଂ ଦ୍ secondary ିତୀୟ ତଥ୍ୟ ସଂଗ୍ରହ ଏବଂ ବିଶ୍ଳେଷଣ କରିବା |",
+            "ଲଜିଷ୍ଟିକ୍ ବ୍ୟବସ୍ଥା ଏବଂ ତାଲିମ ଅଧିବେଶନ ପାଇଁ ବିଷୟବସ୍ତୁ ଚୂଡ଼ାନ୍ତକରଣ ପାଇଁ ରାଜ୍ୟ ATI / NIPCCD ସହିତ ଯୋଗାଯୋଗ |",
+            "ସପ୍ଲିମେଣ୍ଟାରୀ ପୁଷ୍ଟିକର ଖାଦ୍ୟ ଏବଂ ଅନ୍ୟାନ୍ୟ ଯୋଜନା ସମ୍ବନ୍ଧୀୟ ସାମଗ୍ରୀ କ୍ରୟ ପାଇଁ ପ୍ରସ୍ତାବଗୁଡିକ ଯାଞ୍ଚ କରିବା |",
+            "ତତ୍ତ୍ supervision ାବଧାନରେ ନିର୍ଦ୍ଦିଷ୍ଟ ଯୋଜନା ସହ ଜଡିତ RTI ପ୍ରଶ୍ନ ଏବଂ ସଂସଦୀୟ ପ୍ରଶ୍ନର ଉତ୍ତର ଦେବା |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Analytical Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Commitment to Quality"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaboration",
+                "sub_theme": "Knowledge Sharing"
+            },
+            {
+                "type": "Functional",
+                "theme": "Project Management",
+                "sub_theme": "Project Evaluation & Monitoring"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data Analysis & Visualization"
+            },
+            {
+                "type": "Functional",
+                "theme": "Office Management",
+                "sub_theme": "Noting & Drafting of official Communications"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Domain",
+                "theme": "WCD Program Management",
+                "sub_theme": "Implementation of ICDS and Poshan Abhiyaan"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Nutrition & Health",
+                "sub_theme": "Monitoring of Supplementary Nutrition Protocols"
+            },
+            {
+                "type": "Domain",
+                "theme": "Digital Governance in WCD",
+                "sub_theme": "Poshan Tracker Data Management and Analysis"
+            },
+            {
+                "type": "Domain",
+                "theme": "Social Sector M&E",
+                "sub_theme": "Field-Level Monitoring and Evaluation Techniques"
+            },
+            {
+                "type": "Domain",
+                "theme": "Women Empowerment",
+                "sub_theme": "SHG Formation and Livelihood Promotion"
+            },
+            {
+                "type": "Domain",
+                "theme": "Child Protection Frameworks",
+                "sub_theme": "Operational Knowledge of ICPS and Juvenile Justice Act"
+            }
+        ],
+        "sort_order": 11,
+        "created_at": "2026-01-15T10:11:51.500680+00:00",
+        "updated_at": "2026-01-15T10:11:51.500680+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "Test",
+        "id": "0197f397-ffcf-4dac-9abe-15a525446f51",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଯୁଗ୍ମ ସଚିବ ଏବଂ ଆର୍ଥିକ ପରାମର୍ଶଦାତା |",
+        "status": "COMPLETED",
+        "wing_division_section": "ଅର୍ଥ ଏବଂ ଆକାଉଣ୍ଟସ୍ ୱିଙ୍ଗ୍, ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶାଳୟ |",
+        "role_responsibilities": [
+            "ଆର୍ଥିକ ପ୍ରଭାବ ସହିତ ଜଡିତ ସମସ୍ତ ବିଷୟ ଉପରେ ସଚିବ / ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶକଙ୍କ ମୁଖ୍ୟ ଆର୍ଥିକ ପରାମର୍ଶଦାତା ଭାବରେ କାର୍ଯ୍ୟ କରନ୍ତୁ |",
+            "ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶାଳୟ ପାଇଁ ବାର୍ଷିକ ବଜେଟ୍ ସୂତ୍ରର ତଦାରଖ କରନ୍ତୁ, ଶିକ୍ଷାଗତ ନୀତି ଏବଂ ଯୋଜନାଗୁଡିକ ସହିତ ସମନ୍ୱୟ ସୁନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "ସାମାଗ୍ରା ଶିଖା, PM-POSHAN ଏବଂ ବିଭିନ୍ନ ଛାତ୍ରବୃତ୍ତି କାର୍ଯ୍ୟକ୍ରମ ପରି କେନ୍ଦ୍ରୀୟ ପ୍ରାୟୋଜିତ ଯୋଜନାଗୁଡିକ ପାଇଁ ପାଣ୍ଠି ଆବଣ୍ଟନ ଏବଂ ମୁକ୍ତି ପରିଚାଳନା କରନ୍ତୁ |",
+            "ଆର୍ଥିକ ମାଲିକାନା ଏବଂ ସାଧାରଣ ଆର୍ଥିକ ନିୟମ (GFR) କୁ ପାଳନ କରିବା ପାଇଁ ସମସ୍ତ ବିଭାଗ ଏବଂ ଶିକ୍ଷାନୁଷ୍ଠାନଗୁଡିକରେ ଖର୍ଚ୍ଚ ଉପରେ ନଜର ରଖନ୍ତୁ |",
+            "ଉପଯୋଗୀକରଣ ସାର୍ଟିଫିକେଟ୍ (UC) ର ଠିକ୍ ସମୟରେ ଦାଖଲ ଏବଂ ସମସ୍ତ ଆଭ୍ୟନ୍ତରୀଣ ଏବଂ ବାହ୍ୟ ଅଡିଟ୍ ପର୍ଯ୍ୟବେକ୍ଷଣ ସହିତ ଅନୁପାଳନ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+            "ଶିକ୍ଷା କ୍ଷେତ୍ର ମଧ୍ୟରେ ନୂତନ ପ୍ରକଳ୍ପ, କ୍ରୟ ଏବଂ ନୀତିଗତ ପଦକ୍ଷେପ ପାଇଁ ଆର୍ଥିକ ସମନ୍ୱୟ ପ୍ରଦାନ କରନ୍ତୁ |",
+            "UT ମଧ୍ୟରେ ଜାତୀୟ ଶିକ୍ଷା ନୀତି (NEP) 2020 ର କାର୍ଯ୍ୟାନ୍ୱୟନ ପାଇଁ ଆର୍ଥିକ ଯୋଜନା ଏବଂ ଉତ୍ସ ସଂଗ୍ରହକୁ ଆଗେଇ ନିଅ |",
+            "ସରକାରୀ ଖାତା, ଟ୍ରେଜେରୀ କାର୍ଯ୍ୟ ଏବଂ ବିଭାଗ ପାଇଁ ଆର୍ଥିକ ରିପୋର୍ଟର ପରିଚାଳନା ଉପରେ ତଦାରଖ କରନ୍ତୁ |"
+        ],
+        "activities": [
+            "ବିଭିନ୍ନ ଶିକ୍ଷାଗତ ବିଭାଗ ଏବଂ ଅନୁଷ୍ଠାନର ମୁଖ୍ୟମାନଙ୍କ ସହିତ ପୂର୍ବ-ବଜେଟ୍ ପରାମର୍ଶ କରିବା |",
+            "ବିଦ୍ୟାଳୟ ଏବଂ ପ୍ରଶାସନିକ ୟୁନିଟ୍ ଗୁଡିକରୁ ଆର୍ଥିକ ପ୍ରସ୍ତାବ, ବ୍ୟୟ ବିବରଣୀ ଏବଂ ଚୁକ୍ତିନାମା ଚୁକ୍ତିନାମା ଯାଞ୍ଚ କରିବା |",
+            "ସାର୍ବଜନୀନ ଆର୍ଥିକ ପରିଚାଳନା ସିଷ୍ଟମ (PFMS) ମାଧ୍ୟମରେ ଶିକ୍ଷାଗତ ଯୋଜନା ପାଇଁ ପାଣ୍ଠି ପ୍ରବାହ ପରିଚାଳନା ଏବଂ ପରିଚାଳନା |",
+            "ଆକାଉଣ୍ଟାଣ୍ଟ ଜେନେରାଲଙ୍କ କାର୍ଯ୍ୟାଳୟରୁ ଅଡିଟ୍ ପାରାଗ୍ରାଫ୍ ପାଇଁ ବିସ୍ତୃତ ପ୍ରତିକ୍ରିୟା ଏବଂ କାର୍ଯ୍ୟାନୁଷ୍ଠାନ ଗ୍ରହଣ ରିପୋର୍ଟ (ATR) ପ୍ରସ୍ତୁତ କରିବା |",
+            "ସରକାରୀ ଇ-ମାର୍କେଟପ୍ଲେସ୍ (ଜିଏମ୍) ମାଧ୍ୟମରେ ଶିକ୍ଷାଗତ ଭିତ୍ତିଭୂମି, ପ୍ରଯୁକ୍ତିବିଦ୍ୟା ଏବଂ ସେବା ପାଇଁ କ୍ରୟ ପ୍ରସ୍ତାବର ସମୀକ୍ଷା ଏବଂ ଅନୁମୋଦନ |",
+            "ଖର୍ଚ୍ଚ ଧାରା, ପୂର୍ବାନୁମାନ ଆବଶ୍ୟକତା ଏବଂ ଆର୍ଥିକ ଅନୁଶାସନ ପାଇଁ ପଦକ୍ଷେପ ସୁପାରିଶ କରିବାକୁ ଆର୍ଥିକ ତଥ୍ୟ ବିଶ୍ଳେଷଣ କରିବା |",
+            "ଅଧିନସ୍ଥ କାର୍ଯ୍ୟାଳୟ ଏବଂ ଅନୁଦାନ-ସହାୟତା ପ୍ରତିଷ୍ଠାନଗୁଡ଼ିକ ପାଇଁ ଆର୍ଥିକ ନିର୍ଦ୍ଦେଶାବଳୀ ଏବଂ ପରାମର୍ଶଦାତା ପ୍ରସ୍ତୁତ କରିବା |",
+            "ବଜେଟ୍ ଅନୁମୋଦନ, ପୁନ appr ଆବଣ୍ଟନ ଏବଂ ସାମଗ୍ରିକ ପାଣ୍ଠି ପ୍ରବାହ ପରିଚାଳନା ପାଇଁ UT ଅର୍ଥ ବିଭାଗ ସହିତ ଯୋଗାଯୋଗ |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Planning & Prioritization"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Contract Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Government accounts"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Financing",
+                "sub_theme": "Knowledge of Centrally Sponsored Schemes (Samagra Shiksha, PM-POSHAN)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management",
+                "sub_theme": "General Financial Rules (GFR) and Delegation of Financial Powers Rules (DFPR)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Policy Implementation",
+                "sub_theme": "Financial Planning for National Education Policy (NEP) 2020"
+            },
+            {
+                "type": "Domain",
+                "theme": "Audit and Compliance",
+                "sub_theme": "Management of Public Accounts Committee (PAC) and Audit Paragraphs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grant-in-Aid Management",
+                "sub_theme": "Rules and Procedures for Grants to Educational Institutions"
+            },
+            {
+                "type": "Domain",
+                "theme": "Treasury and Accounts Management",
+                "sub_theme": "UT Treasury Rules and Accounting Procedures"
+            }
+        ],
+        "sort_order": 12,
+        "created_at": "2026-01-16T06:59:23.720867+00:00",
+        "updated_at": "2026-01-16T06:59:23.720867+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "a456a244-cb07-48de-b6ed-2717795ad691",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଅତିରିକ୍ତ କମ୍ପ୍ଟ୍ରୋଲର୍ ଏବଂ ଅଡିଟର ଜେନେରାଲ୍ |",
+        "status": "COMPLETED",
+        "wing_division_section": "ଶିକ୍ଷା କ୍ଷେତ୍ର ଅଡିଟ୍ ୱିଙ୍ଗ୍ |",
+        "role_responsibilities": [
+            "କେନ୍ଦ୍ର ଏବଂ ରାଜ୍ୟ ସରକାରୀ ଯୋଜନା ସମେତ ଶିକ୍ଷା କ୍ଷେତ୍ରର କାର୍ଯ୍ୟଦକ୍ଷତା, ଅନୁପାଳନ ଏବଂ ଆର୍ଥିକ ଅଡିଟ୍ ର ରଣନୀତିକ ଯୋଜନା ଏବଂ କାର୍ଯ୍ୟକାରିତା ଉପରେ ନଜର ରଖିବା |",
+            "ଅଡିଟ୍ ଦଳଗୁଡିକୁ ନେତୃତ୍ୱ ଏବଂ ନିର୍ଦ୍ଦେଶ ପ୍ରଦାନ, CAG ଏବଂ INTOSAI ଦ୍ prescribed ାରା ଧାର୍ଯ୍ୟ ହୋଇଥିବା ସର୍ବସାଧାରଣ ଅଡିଟ୍ ର ସର୍ବୋଚ୍ଚ ମାନର ଅନୁକରଣ ନିଶ୍ଚିତ କରିବା |",
+            "ଡ୍ରାଫ୍ଟ ଅଡିଟ୍ ରିପୋର୍ଟଗୁଡିକର ସମୀକ୍ଷା ଏବଂ ଅନୁମୋଦନ, ଅନୁସନ୍ଧାନଗୁଡିକ ପ୍ରମାଣ-ଆଧାରିତ, ପ୍ରଭାବଶାଳୀ ଏବଂ ବ୍ୟବସ୍ଥିତ ଉନ୍ନତି ପାଇଁ କାର୍ଯ୍ୟକ୍ଷମ ସୁପାରିଶଗୁଡିକ ସୁନିଶ୍ଚିତ କରିବା |",
+            "ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଅଡିଟ୍ ଫଳାଫଳ ଉପରେ ଆଲୋଚନା ଏବଂ ଉତ୍ତମ ଶାସନକୁ ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ ବରିଷ୍ଠ ସରକାରୀ ଅଧିକାରୀଙ୍କ ସହିତ ଜଡିତ ହେବା (ଯଥା, ଗୋଇର ସଚିବ, ମୁଖ୍ୟ ସଚିବ) |",
+            "ଉଚ୍ଚ ସ୍ତରୀୟ ଜାତୀୟ ତଥା ଆନ୍ତର୍ଜାତୀୟ ଫୋରମରେ ଭାରତର CAG କୁ ପ୍ରତିନିଧିତ୍ୱ କରିବା ଏବଂ ଅଡିଟ୍ ରିପୋର୍ଟ ଉପରେ ପବ୍ଲିକ ଆକାଉଣ୍ଟସ୍ କମିଟି (PAC) ପରି ସଂସଦୀୟ କମିଟିଗୁଡ଼ିକୁ ସୂଚନା ଦେବା |",
+            "ଡାଟା ଆନାଲିଟିକ୍ସ, ଫୋରେନସିକ୍ ଅଡିଟ୍ କ ques ଶଳ ଏବଂ ଅନ୍ୟାନ୍ୟ ଉଦୀୟମାନ ପ୍ରଯୁକ୍ତିବିଦ୍ୟା ମାଧ୍ୟମରେ ଅଡିଟ୍ ଅଭ୍ୟାସରେ ନୂତନତ୍ୱ ଚଳାଇବା |",
+            "ଶିକ୍ଷା ମନ୍ତ୍ରଣାଳୟ ଏବଂ ଆନୁଷଙ୍ଗିକ ସଂସ୍ଥାଗୁଡ଼ିକ ସମ୍ବନ୍ଧୀୟ CAG ର ବାର୍ଷିକ ଅଡିଟ୍ ରିପୋର୍ଟ ଅଧ୍ୟାୟଗୁଡ଼ିକର ପ୍ରସ୍ତୁତି ପାଇଁ ମାର୍ଗଦର୍ଶନ |",
+            "ଶିକ୍ଷା ଅଡିଟ୍ ଭର୍ଟିକାଲ୍ ମଧ୍ୟରେ ବରିଷ୍ଠ ଅଧିକାରୀ (ନିର୍ଦ୍ଦେଶକ ଜେନେରାଲ୍, ପ୍ରିନ୍ସିପାଲ୍ ଡାଇରେକ୍ଟର୍ସ) ଙ୍କ ଦକ୍ଷତା ଉପରେ ମେଣ୍ଟରିଂ ଏବଂ ବିକାଶ |"
+        ],
+        "activities": [
+            "ଶିକ୍ଷା କ୍ଷେତ୍ର ପାଇଁ ବାର୍ଷିକ ଅଡିଟ୍ ଯୋଜନା ଏବଂ ବିପଦ ମୂଲ୍ୟାଙ୍କନ framework ାଞ୍ଚାକୁ ଅନୁମୋଦନ କରିବା |",
+            "ଜାତୀୟ ଶିକ୍ଷା ଯୋଜନାଗୁଡିକର ପ୍ରମୁଖ କାର୍ଯ୍ୟଦକ୍ଷତା ଅଡିଟ୍ ପାଇଁ ପ୍ରବେଶ ଏବଂ ପ୍ରସ୍ଥାନ ସମ୍ମିଳନୀଗୁଡିକର ଅଧ୍ୟକ୍ଷ (ଯଥା, ସମାଗ୍ରା ଶିଖା, PM SHRI) |",
+            "ଅଡିଟ୍ ସଂସ୍ଥାଗୁଡ଼ିକୁ ପ୍ରଦାନ ପୂର୍ବରୁ ଅଡିଟ୍ ପାରା ଏବଂ ଯାଞ୍ଚ ରିପୋର୍ଟର ଚୂଡ଼ାନ୍ତ ସମୀକ୍ଷା କରିବା |",
+            "ଶିକ୍ଷଣ ଫଳାଫଳ, ଡିଜିଟାଲ ଶିକ୍ଷା ଭିତ୍ତିଭୂମି ଏବଂ ଶିକ୍ଷକ ପ୍ରଶିକ୍ଷଣର କାର୍ଯ୍ୟକାରିତା ପରି ଗୁରୁତ୍ areas ପୂର୍ଣ୍ଣ କ୍ଷେତ୍ରଗୁଡିକ ଉପରେ ଥିମେଟିକ୍ ଅଡିଟ୍ ରିପୋର୍ଟଗୁଡିକ ଚୂଡାନ୍ତ କରିବା |",
+            "ପବ୍ଲିକ ଆକାଉଣ୍ଟସ କମିଟି (PAC) ସମ୍ମୁଖରେ ଅଡିଟ୍ ରିପୋର୍ଟର ପ୍ରତିରକ୍ଷା ପାଇଁ ସଂକ୍ଷିପ୍ତ ଆଲୋଚନା ଏବଂ ଅଗ୍ରଣୀ ଆଲୋଚନା ପ୍ରସ୍ତୁତ କରିବା |",
+            "ଅତୀତର ଅଡିଟ୍ ସୁପାରିଶ ଉପରେ ମନ୍ତ୍ରଣାଳୟ ଦ୍ submitted ାରା ଦାଖଲ ହୋଇଥିବା ଆକ୍ସନ୍ ଟେକନ୍ ନୋଟ୍ସ (ATNs) ର ସ୍ଥିତି ଉପରେ ନଜର ରଖିବା |",
+            "ଆର୍ଥିକ ଅନିୟମିତତା କିମ୍ବା ବ୍ୟବସ୍ଥିତ ଅପାରଗତାକୁ ଚିହ୍ନଟ କରିବା ପାଇଁ ଡାଟା ଆନାଲିଟିକ୍ସ ଏବଂ ଫରେନସିକ୍ ଉପକରଣଗୁଡିକର ବ୍ୟବହାରକୁ କମିଶନ ଏବଂ ତଦାରଖ କରିବା |",
+            "ଶିକ୍ଷା ଏବଂ ସର୍ବସାଧାରଣ ଅଡିଟ୍ ର ଉଦୀୟମାନ ଧାରା ଉପରେ ଅଗ୍ରଣୀ ଦକ୍ଷତା ବିକାଶ କର୍ମଶାଳା ଏବଂ ଜ୍ଞାନ ବଣ୍ଟନ ଅଧିବେଶନ |"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy monitoring & impact assessment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Handling Parliamentary Matters",
+                "sub_theme": "Submission of briefs, supply of information"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Sector Auditing",
+                "sub_theme": "INTOSAI and CAG's Auditing Standards"
+            },
+            {
+                "type": "Domain",
+                "theme": "Performance Auditing",
+                "sub_theme": "Audit of Government Schemes and Programs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Governance",
+                "sub_theme": "National Education Policy (NEP) and its Implementation Framework"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management (PFM)",
+                "sub_theme": "Government Accounting, Budgeting, and Expenditure Analysis"
+            },
+            {
+                "type": "Domain",
+                "theme": "Parliamentary Oversight",
+                "sub_theme": "Functioning of Public Accounts Committee (PAC) and COPU"
+            },
+            {
+                "type": "Domain",
+                "theme": "Global Education Benchmarks",
+                "sub_theme": "UN Sustainable Development Goals (SDG 4 - Quality Education)"
+            }
+        ],
+        "sort_order": 13,
+        "created_at": "2026-01-16T08:02:18.825070+00:00",
+        "updated_at": "2026-01-16T08:02:18.825070+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "d257f196-f914-40ce-abdc-bcd4ed27ab8c",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଖାତାର ଅତିରିକ୍ତ ନିୟନ୍ତ୍ରକ |",
+        "status": "COMPLETED",
+        "wing_division_section": "ଅର୍ଥ ଏବଂ ଆକାଉଣ୍ଟସ୍ ୱିଙ୍ଗ୍, ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶାଳୟ |",
+        "role_responsibilities": [
+            "ଆର୍ଥିକ ନିୟମର ପାଳନକୁ ସୁନିଶ୍ଚିତ କରି ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶାଳୟର ଆର୍ଥିକ ପରିଚାଳନା ଏବଂ ଆକାଉଣ୍ଟିଂ କାର୍ଯ୍ୟର ତଦାରଖ କରନ୍ତୁ | (AI ପ୍ରସ୍ତାବିତ)",
+            "ଉଚ୍ଚ କର୍ତ୍ତୃପକ୍ଷଙ୍କ ନିକଟରେ ଦାଖଲ ପାଇଁ ବିଭାଗୀୟ ବଜେଟ୍, ସଂଶୋଧିତ ଆକଳନ ଏବଂ ବ୍ୟୟ ରିପୋର୍ଟର ଠିକ୍ ସମୟରେ ପ୍ରସ୍ତୁତି ଏବଂ ଏକୀକରଣ ପରିଚାଳନା କରନ୍ତୁ | (AI ପ୍ରସ୍ତାବିତ)",
+            "ସାମାଗ୍ରା ଶିଖା ଏବଂ ମଧ୍ୟ-ଦିନ ଭୋଜନ ପରି କେନ୍ଦ୍ରୀୟ ପ୍ରାୟୋଜିତ ତଥା UT- ନିର୍ଦ୍ଦିଷ୍ଟ ଶିକ୍ଷାଗତ ଯୋଜନା ପାଇଁ ପାଣ୍ଠିର ବିତରଣ, ବ୍ୟବହାର ଏବଂ ମନିଟରିଂର ତଦାରଖ କରନ୍ତୁ | (AI ପ୍ରସ୍ତାବିତ)",
+            "ନିର୍ଦ୍ଦେଶାଳୟ ଅଧୀନରେ ଥିବା ସମସ୍ତ ଶିକ୍ଷକ ଏବଂ ଅଣଶିକ୍ଷକ କର୍ମଚାରୀଙ୍କ ପାଇଁ ବେତନ, ପେନ୍ସନ୍ ଏବଂ ଅନ୍ୟାନ୍ୟ ଇମୋଲ୍ୟୁମେଣ୍ଟଗୁଡିକର ସଠିକ୍ ଏବଂ ସମୟାନୁବର୍ତ୍ତୀ ପ୍ରକ୍ରିୟାକରଣ ନିଶ୍ଚିତ କରନ୍ତୁ | (AI ପ୍ରସ୍ତାବିତ)",
+            "ସମସ୍ତ ଆଭ୍ୟନ୍ତରୀଣ ଏବଂ ଏଜି ଅଡିଟ୍ ଠାରୁ ପର୍ଯ୍ୟବେକ୍ଷଣ ସହିତ ଅନୁପାଳନକୁ ନିଶ୍ଚିତ କରି ସମସ୍ତ ଅଡିଟ୍ ବିଷୟଗୁଡିକ ପାଇଁ ଯୋଗାଯୋଗର ପ୍ରାଥମିକ ବିନ୍ଦୁ ଭାବରେ କାର୍ଯ୍ୟ କରନ୍ତୁ | (AI ପ୍ରସ୍ତାବିତ)",
+            "ନୂତନ ପ୍ରସ୍ତାବ, ଉତ୍ସ ବଣ୍ଟନ ଏବଂ ନୀତିଗତ ନିଷ୍ପତ୍ତିଗୁଡ଼ିକର ଆର୍ଥିକ ପ୍ରଭାବ ଉପରେ ଶିକ୍ଷା ନିର୍ଦ୍ଦେଶକଙ୍କୁ ବିଶେଷଜ୍ଞ ଆର୍ଥିକ ପରାମର୍ଶ ଦିଅନ୍ତୁ | (AI ପ୍ରସ୍ତାବିତ)",
+            "ଶିକ୍ଷାଗତ ଭିତ୍ତିଭୂମି ପ୍ରକଳ୍ପ ଏବଂ ବୃହତ ଧାନ କ୍ରୟଗୁଡିକର ଆର୍ଥିକ ଅଗ୍ରଗତି ଉପରେ ନଜର ରଖନ୍ତୁ, ଅର୍ଥର ମୂଲ୍ୟ ନିଶ୍ଚିତ କରନ୍ତୁ ଏବଂ GFR ପାଳନ କରନ୍ତୁ | (AI ପ୍ରସ୍ତାବିତ)"
+        ],
+        "activities": [
+            "ବିଭିନ୍ନ ଶିକ୍ଷାଗତ କ୍ଷେତ୍ର ଏବଂ ଅନୁଷ୍ଠାନରୁ ପ୍ରାପ୍ତ ମାସିକ ଏବଂ ତ୍ର quarter ମାସିକ ଖର୍ଚ୍ଚ ବିବରଣୀ ସମୀକ୍ଷା ଏବଂ ଅନୁମୋଦନ | (AI ପ୍ରସ୍ତାବିତ)",
+            "ପବ୍ଲିକ୍ ଫାଇନାନ୍ସିଆଲ୍ ମ୍ୟାନେଜମେଣ୍ଟ ସିଷ୍ଟମ୍ (PFMS) ପୋର୍ଟାଲ୍ ମାଧ୍ୟମରେ ସମସ୍ତ ବିଭାଗୀୟ କାରବାର ପରିଚାଳନା ଏବଂ ପରିଚାଳନା | (AI ପ୍ରସ୍ତାବିତ)",
+            "ବଜେଟ୍ ଆବଣ୍ଟନ, ପାଣ୍ଠିର ପୁନ appr ଆବଣ୍ଟନ ଏବଂ ସପ୍ଲିମେଣ୍ଟାରୀ ଅନୁଦାନ ପାଇଁ ବିସ୍ତୃତ ପ୍ରସ୍ତାବ ପ୍ରସ୍ତୁତ କରିବା | (AI ପ୍ରସ୍ତାବିତ)",
+            "ସରକାରୀ ସହାୟତା ପ୍ରାପ୍ତ ବିଦ୍ୟାଳୟଗୁଡ଼ିକ ପାଇଁ ଅନୁଦାନ-ସହାୟତା ବିଲ୍ ଯାଞ୍ଚ ଏବଂ ପ୍ରକ୍ରିୟାକରଣ ଏବଂ ପାଣ୍ଠିର ଠିକ୍ ସମୟରେ ମୁକ୍ତ ହେବା ନିଶ୍ଚିତ କରିବା | (AI ପ୍ରସ୍ତାବିତ)",
+            "ବିଧିଗତ ଅଡିଟ୍ ସଂସ୍ଥା ଦ୍ୱାରା ଉଠାଯାଇଥିବା ଅଡିଟ୍ ପାରା ପାଇଁ ବିସ୍ତୃତ ପ୍ରତିକ୍ରିୟା ଏବଂ ଅନୁପାଳନ ରିପୋର୍ଟ ପ୍ରସ୍ତୁତ କରିବା | (AI ପ୍ରସ୍ତାବିତ)",
+            "ଆର୍ଥିକ ଶୃଙ୍ଖଳା ସୁନିଶ୍ଚିତ କରିବା ପାଇଁ ପର୍ଯ୍ୟାୟକ୍ରମେ ଆଭ୍ୟନ୍ତରୀଣ ଆର୍ଥିକ ସମୀକ୍ଷା ଏବଂ ଅଧସ୍ତନ କାର୍ଯ୍ୟାଳୟଗୁଡ଼ିକର ଯାଞ୍ଚ କରିବା | (AI ପ୍ରସ୍ତାବିତ)",
+            "ନିୟମ ପାଳନ ଏବଂ ଆର୍ଥିକ କାର୍ଯ୍ୟକ୍ଷମତା ପାଇଁ ନୂତନ ଶିକ୍ଷାଗତ ପଦକ୍ଷେପ ପାଇଁ ଆର୍ଥିକ ପ୍ରସ୍ତାବଗୁଡିକ ଯାଞ୍ଚ କରିବା | (AI ପ୍ରସ୍ତାବିତ)",
+            "ସଠିକତା ନିଶ୍ଚିତ କରିବାକୁ ଟ୍ରେଜେରୀ ଏବଂ ବ୍ୟାଙ୍କ ଷ୍ଟେଟମେଣ୍ଟ ସହିତ ବିଭାଗୀୟ ଆକାଉଣ୍ଟଗୁଡିକର ପୁନ iliation ନିର୍ମାଣର ତଦାରଖ | (AI ପ୍ରସ୍ତାବିତ)"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Attention to Detail"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Operational Excellence",
+                "sub_theme": "Resource Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Budget Formulation & Implementation"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Expenditure Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Government accounts"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "PFMS Portal Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Public Procurement (GFR)",
+                "sub_theme": "Contract Management"
+            },
+            {
+                "type": "Domain",
+                "theme": "Education Sector Financing",
+                "sub_theme": "Scheme Fund Management (Samagra Shiksha, MDM)"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Financial Management (UT)",
+                "sub_theme": "UT Treasury Rules and Accounting Codes"
+            },
+            {
+                "type": "Domain",
+                "theme": "Audit and Compliance",
+                "sub_theme": "Statutory and Internal Audit in Government Education Sector"
+            },
+            {
+                "type": "Domain",
+                "theme": "Grant-in-Aid Management",
+                "sub_theme": "Rules and Procedures for Aided Educational Institutions"
+            },
+            {
+                "type": "Domain",
+                "theme": "Employee Emoluments Management",
+                "sub_theme": "Pay Fixation, Pension, and GPF Rules for UT Employees"
+            },
+            {
+                "type": "Domain",
+                "theme": "Infrastructure Project Accounting",
+                "sub_theme": "Capital Expenditure and Works Accounts Management"
+            }
+        ],
+        "sort_order": 14,
+        "created_at": "2026-01-16T08:06:07.917101+00:00",
+        "updated_at": "2026-01-16T08:06:07.917101+00:00",
+        "cbp_plans": []
+    },
+    {
+        "state_center_id": "0142205376238551043589",
+        "state_center_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "department_id": "0142274934952345602868",
+        "department_name": "Directorate of Education",
+        "sector_name": null,
+        "instruction": "test",
+        "id": "6ccfac1f-4977-49ef-b4f9-b27b2ae56cff",
+        "user_id": "9cce1943-84d0-4df5-91a2-678a49244e35",
+        "designation_name": "ଅତିରିକ୍ତ କମ୍ପ୍ଟ୍ରୋଲର୍ ଏବଂ ଅଡିଟର ଜେନେରାଲ୍ |",
+        "status": "COMPLETED",
+        "wing_division_section": "ଭାରତର କମ୍ପ୍ଟ୍ରୋଲର ଏବଂ ଅଡିଟର ଜେନେରାଲଙ୍କ କାର୍ଯ୍ୟାଳୟ |",
+        "role_responsibilities": [
+            "କେନ୍ଦ୍ର ଏବଂ ରାଜ୍ୟ ସରକାରଙ୍କ କାର୍ଯ୍ୟଦକ୍ଷତା, ଅନୁପାଳନ ଏବଂ ଆର୍ଥିକ ଅଡିଟ୍ ର ଯୋଜନା ଏବଂ କାର୍ଯ୍ୟକାରିତା ଉପରେ ନଜର ରଖନ୍ତୁ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ଜାତୀୟ ପ୍ରାଥମିକତା ଏବଂ ଆନ୍ତର୍ଜାତୀୟ ସର୍ବୋତ୍ତମ ଅଭ୍ୟାସ (INTOSAI) ଅନୁଯାୟୀ ଅଡିଟ୍ ନୀତି, ମାନକ, ଏବଂ ପଦ୍ଧତିଗୁଡିକ ପ୍ରସ୍ତୁତ ଏବଂ ଅଦ୍ୟତନ କରନ୍ତୁ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ଅଡିଟ୍ ଗୁଣ ଏବଂ ପ୍ରଭାବ ବୃଦ୍ଧି ପାଇଁ ଭାରତୀୟ ଅଡିଟ୍ ଏବଂ ଆକାଉଣ୍ଟସ୍ ବିଭାଗ (IA&AD) କୁ ରଣନୀତିକ ଦିଗ ଏବଂ ନେତୃତ୍ୱ ପ୍ରଦାନ କରନ୍ତୁ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ସଂସଦ / ରାଜ୍ୟ ବିଧାନସଭାକୁ ଉପସ୍ଥାପନା ପାଇଁ ରାଷ୍ଟ୍ରପତି / ଗଭର୍ନରଙ୍କ ନିକଟରେ ପ୍ରମୁଖ ଅଡିଟ୍ ରିପୋର୍ଟର ଚୂଡ଼ାନ୍ତକରଣ ଏବଂ ଦାଖଲ ଉପରେ ତଦାରଖ କରନ୍ତୁ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ଜାତିସଂଘ ଏବଂ ବିଶ୍ୱ ବ୍ୟାଙ୍କ ପରି ଅନ୍ୟ ଦେଶର ସୁପ୍ରିମ ଅଡିଟ୍ ପ୍ରତିଷ୍ଠାନ (SAI) ସହିତ ଆନ୍ତର୍ଜାତୀୟ ସମ୍ପର୍କ ଏବଂ ସହଯୋଗ ପରିଚାଳନା କରନ୍ତୁ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ନିରନ୍ତର ଉନ୍ନତିର ଏକ ସଂସ୍କୃତି ପ୍ରତିପାଦନ କରିବା ପାଇଁ IA&AD ମଧ୍ୟରେ ଦକ୍ଷତା ବିକାଶ, ତାଲିମ ଏବଂ ଡିଜିଟାଲ୍ ରୂପାନ୍ତର ପଦକ୍ଷେପ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ସମସ୍ତ କ୍ଷେତ୍ର କାର୍ଯ୍ୟାଳୟରେ ସମଗ୍ର ଅଡିଟ୍ ପ୍ରକ୍ରିୟାର ଅଖଣ୍ଡତା, ସ୍ independence ାଧୀନତା ଏବଂ ଗୁଣାତ୍ମକ ନିଶ୍ଚିତତା ନିଶ୍ଚିତ କରନ୍ତୁ | * AI ପ୍ରସ୍ତାବିତ *"
+        ],
+        "activities": [
+            "ବିଭିନ୍ନ ମନ୍ତ୍ରଣାଳୟ, ବିଭାଗ ଏବଂ ସାର୍ବଜନୀନ କ୍ଷେତ୍ର କାର୍ଯ୍ୟ ପାଇଁ ବାର୍ଷିକ ଅଡିଟ୍ ଯୋଜନାଗୁଡିକର ସମୀକ୍ଷା ଏବଂ ଅନୁମୋଦନ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଅଡିଟ୍ ଫଳାଫଳ ଉପରେ ବିଚାରବିମର୍ଶ ଏବଂ ଡ୍ରାଫ୍ଟ ଅଡିଟ୍ ରିପୋର୍ଟ ଚୂଡ଼ାନ୍ତ କରିବାକୁ ଉଚ୍ଚ ସ୍ତରୀୟ ବ meetings ଠକର ଅଧ୍ୟକ୍ଷତା | * AI ପ୍ରସ୍ତାବିତ *",
+            "ପରିବେଶ ଅଡିଟ୍, ଆଇଟି ଅଡିଟ୍, ଏବଂ ଡାଟା ଆନାଲିଟିକ୍ସ ପରି ଉଦୀୟମାନ ଅଡିଟ୍ କ୍ଷେତ୍ର ଉପରେ ପ୍ରାଧିକୃତ ନିର୍ଦ୍ଦେଶାବଳୀ ଏବଂ ମାନୁଆଲ୍ ପ୍ରଦାନ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ଜୋନାଲ ଏବଂ ଷ୍ଟେଟ ଆକାଉଣ୍ଟାଣ୍ଟ ଜେନେରାଲ (ଏଜି) କାର୍ଯ୍ୟାଳୟଗୁଡ଼ିକର କାର୍ଯ୍ୟଦକ୍ଷତାର ପର୍ଯ୍ୟାୟ ସମୀକ୍ଷା କରିବା | * AI ପ୍ରସ୍ତାବିତ *",
+            "ଗୁରୁତର ଅଡିଟ୍ ପର୍ଯ୍ୟବେକ୍ଷଣ ଏବଂ ସୁପାରିଶ ଉପରେ GoI ର ସଚିବଙ୍କ ସମେତ ବରିଷ୍ଠ ସରକାରୀ କାର୍ଯ୍ୟକର୍ତ୍ତାଙ୍କ ସହ ଜଡିତ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ସର୍ବୋତ୍ତମ ଅଭ୍ୟାସ ବାଣ୍ଟିବା ଏବଂ ଶିଖିବା ପାଇଁ INTOSAI ଏବଂ ASOSAI ପରି ଆନ୍ତର୍ଜାତୀୟ ସମ୍ମିଳନୀ ଏବଂ ଫୋରମ୍ରେ ଅଗ୍ରଣୀ ଭାରତୀୟ ପ୍ରତିନିଧୀ | * AI ପ୍ରସ୍ତାବିତ *",
+            "ନ୍ୟାସନାଲ୍ ଏକାଡେମୀ ଅଫ୍ ଅଡିଟ୍ ଏବଂ ଆକାଉଣ୍ଟସ୍ (NAAA) ଏବଂ ଅନ୍ୟାନ୍ୟ ଆଞ୍ଚଳିକ ତାଲିମ ପ୍ରତିଷ୍ଠାନଗୁଡ଼ିକ ପାଇଁ ରଣନ .ତିକ framework ାଞ୍ଚାକୁ ଅନୁମୋଦନ କରିବା | * AI ପ୍ରସ୍ତାବିତ *",
+            "ଅଡିଟ୍ ଦକ୍ଷତା ଏବଂ କାର୍ଯ୍ୟକାରିତାକୁ ବ to ାଇବା ପାଇଁ ଡାଟା ଆନାଲିଟିକ୍ସ ଉପକରଣ ଏବଂ ଆଇଟି ସିଷ୍ଟମର କାର୍ଯ୍ୟକାରିତା ଉପରେ ନଜର ରଖିବା | * AI ପ୍ରସ୍ତାବିତ *"
+        ],
+        "competencies": [
+            {
+                "type": "Behavioral",
+                "theme": "Strategic Leadership",
+                "sub_theme": "Forward Thinking"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Decision Making",
+                "sub_theme": "Sound Judgement"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Outcome Orientation",
+                "sub_theme": "Accountability"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Collaborative Leadership",
+                "sub_theme": "Influencing and Negotiation"
+            },
+            {
+                "type": "Behavioral",
+                "theme": "Solution Orientation",
+                "sub_theme": "Systems Thinking"
+            },
+            {
+                "type": "Functional",
+                "theme": "Policy Architecture",
+                "sub_theme": "Policy monitoring & impact assessment"
+            },
+            {
+                "type": "Functional",
+                "theme": "Financial Management",
+                "sub_theme": "Financial Management"
+            },
+            {
+                "type": "Functional",
+                "theme": "Monitoring & Evaluation",
+                "sub_theme": "Evaluation of outcomes / outputs"
+            },
+            {
+                "type": "Functional",
+                "theme": "Data Analytics",
+                "sub_theme": "Data led Decision making"
+            },
+            {
+                "type": "Functional",
+                "theme": "Change Management",
+                "sub_theme": "Change Implementation"
+            },
+            {
+                "type": "Domain",
+                "theme": "Public Sector Auditing Standards",
+                "sub_theme": "INTOSAI Framework and C&AG's DPC Act, 1971"
+            },
+            {
+                "type": "Domain",
+                "theme": "Government Financial Management",
+                "sub_theme": "Union & State Government Accounting Rules and FRBM Act"
+            },
+            {
+                "type": "Domain",
+                "theme": "Performance & Compliance Audit",
+                "sub_theme": "Methodologies for Auditing National Schemes and Programs"
+            },
+            {
+                "type": "Domain",
+                "theme": "Specialized Audit Practices",
+                "sub_theme": "Environmental, IT, and Forensic Audit Techniques"
+            },
+            {
+                "type": "Domain",
+                "theme": "International Relations & Global Practices",
+                "sub_theme": "Engagement with Supreme Audit Institutions (SAIs) and UN/World Bank Audit Panels"
+            },
+            {
+                "type": "Domain",
+                "theme": "Parliamentary & Legislative Oversight",
+                "sub_theme": "Processes of Public Accounts Committee (PAC) and Committee on Public Undertakings (COPU)"
+            }
+        ],
+        "sort_order": 14,
+        "created_at": "2026-01-16T08:06:11.604011+00:00",
+        "updated_at": "2026-01-16T08:06:11.604011+00:00",
+        "cbp_plans": []
+    }
+]
